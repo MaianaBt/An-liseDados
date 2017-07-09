@@ -1,0 +1,57 @@
+---
+title: "Check1"
+author: "Maiana Brito"
+date: "7 de junho de 2017"
+output: html_document
+---
+
+```{r, echo = FALSE}
+library("ggplot2")
+library("tidyr")
+library("readr")
+library("magrittr")
+library("highcharter")
+library("dplyr", warn.conflicts = FALSE)
+library("datasets")
+
+theme_set(theme_bw())
+
+dados = read_csv(file = "series.csv") %>%
+  filter(series_name %in% c("Arrow", "Flash"))
+```
+
+## Séries de mesmo gênero tem avaliações parecidas ? 
+
+Para fazer essa anÃ¡lise escolhi duas séries Arrow e Flash, ambas possuem o mesmo gênero e inclusive por vezes existem episódios nos quais os personagens de ambas séries se encontram. 
+No gráfico, também podemos ver a quantidade de votos e assim também podemos saber se a quantidade de avaliaçõees(informada através pela variável size) entre séries do mesmo gêneros são próximas.
+
+
+```{r, echo = FALSE}
+arrow = dados %>%
+  filter(series_name == "Arrow")%>%
+  group_by(series_name, season) %>%
+  summarise(media = mean(UserRating), votos = sum(UserVotes))
+
+flash = dados %>%
+  filter(series_name == "Flash")%>%
+  group_by(series_name, season) %>%
+  summarise(media = mean(UserRating), votos = sum(UserVotes))
+
+hc <- highchart() %>%
+  hc_title(text = "Avaliação por temporada") %>% 
+  hc_xAxis(title = list(text = "Season")) %>%
+  hc_yAxis(title = list(text = "User Rating")) %>%
+  hc_chart(zoomType = "xy") %>% 
+  hc_add_series_scatter(name = "Flash", flash$season, flash$media, flash$votos)  %>%
+  hc_add_series_scatter(name = "Arrow", arrow$season, arrow$media, arrow$votos)
+
+hc
+
+```
+
+## ConclusÃ£o
+
+Um vez visto o gráfico podemos concluir que a os valores são muito parecidos e inclusive se comportam com certa semelhança até onde pode-se comparar, no caso, até a 3 temporada. Por exemplo ao longo das temporadas a quantidade de votos diminuem.
+
+Vale ressaltar que essas conclusões são sobre essas amostras.
+
