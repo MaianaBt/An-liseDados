@@ -1,0 +1,117 @@
+---
+title: "Checkpoint 4"
+author: "Maiana Brito"
+date: "29 de maio de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library("ggplot2")
+library("dplyr")
+library("tidyr")
+library("readr")
+
+dados = read_csv("series.csv")%>% 
+  filter(series_name %in% c("Scandal", "Dexter", "Friends", "Sherlock"))
+```
+
+## Introdução
+
+Nesse checkpoint escolhi essas perguntas:
+"Séries que tem mais temporadas tem uma maior variação na avaliação?"
+"Existe uma maior variação de avaliação nos episódios de uma mesma temporada ou entre as temporadas de uma série?"
+
+Para a primeira pergunta irei utilizar como variáveis a quantidade de votos, a coluna "UserVotes" que é uma variável quantitativa discreta e a variável season que é qualitativa ordinal.
+
+Para a segunda pergunta irei utilizar a coluna UserRating que é uma variável qualitativa ordinal.
+
+A seguir, irei fazer uma explicação mais detalhada sobre os métodos utilizados.
+
+## Desenvolvimento
+
+Para isso tomarei como base as séries "Friends" com 9 temporadas, "Dexter" que possue 8 temporadas, a série "Scandal" que possue 6 temporadas e "Sherlock" com 4 temporadas.
+
+
+```{r}
+
+ggplot(dados %>%
+         filter(series_name == "Sherlock")
+       , aes(x = season, y = UserRating)) +
+  labs(x = "Season", y = "UserRating") +
+  geom_point(position = position_jitter(width = 0.25), alpha = 0.4, na.rm = TRUE) +
+  ggtitle("Sherlock")
+
+ggplot(dados %>%
+         filter(series_name == "Friends")
+       , aes(x = season, y = UserRating)) +
+  labs(x = "Season", y = "UserRating") +
+  geom_point(position = position_jitter(width = 0.25), alpha = 0.4, na.rm = TRUE) +
+  ggtitle("Friends")
+
+ggplot(dados %>%
+         filter(series_name == "Dexter")
+       , aes(x = season, y = UserRating)) +
+  labs(x = "Season", y = "UserRating") +
+  geom_point(position = position_jitter(width = 0.25), alpha = 0.4, na.rm = TRUE)+
+  ggtitle("Dexter")
+
+ggplot(dados %>%
+         filter(series_name == "Scandal")
+       , aes(x = season, y = UserRating)) +
+  labs(x = "Season", y = "UserRating") +
+  geom_point(position = position_jitter(width = 0.25), alpha = 0.4, na.rm = TRUE)+
+  ggtitle("Scandal")
+```
+
+```{r}
+votos.temporada.sh = dados %>% 
+  filter(series_name == "Sherlock") %>%
+  group_by(season) %>% 
+  summarize(total = mean(UserRating))
+
+votos.temporada.f = dados %>% 
+  filter(series_name == "Friends") %>%
+  group_by(season) %>% 
+  summarize(total = mean(UserRating))
+
+votos.temporada.d = dados %>% 
+  filter(series_name == "Dexter") %>%
+  group_by(season) %>% 
+  summarize(total = mean(UserRating))
+
+votos.temporada.s = dados %>% 
+  filter(series_name == "Scandal") %>%
+  group_by(season) %>% 
+  summarize(total = mean(UserRating))
+
+ggplot(votos.temporada.f, aes(x = season, y = total)) +
+  labs(x = "Temporada", y = "Media") +
+  geom_point() + 
+  theme(legend.position="none", strip.text.x = element_text(hjust = 0, size = 10))+
+  ggtitle("Friends")
+
+ggplot(votos.temporada.d, aes(x = season, y = total)) +
+  labs(x = "Temporada", y = "Media") +
+  geom_point() + 
+  theme(legend.position="none", strip.text.x = element_text(hjust = 0, size = 8))+
+  ggtitle("Dexter")
+
+ggplot(votos.temporada.s, aes(x = season, y = total)) +
+  labs(x = "Temporada", y = "Media") +
+  geom_point() + 
+  theme(legend.position="none", strip.text.x = element_text(hjust = 0, size = 8))+
+  ggtitle("Scandal")
+
+ggplot(votos.temporada.sh, aes(x = season, y = total)) +
+  labs(x = "Temporada", y = "Media") +
+  geom_point() + 
+  theme(legend.position="none", strip.text.x = element_text(hjust = 0, size = 8))+
+  ggtitle("Sherlock")
+
+```
+
+## Conclusão
+
+A partir das amostras selecionadas pode-se chegar a conclusão que a variação de avaliação ocorre em séries com pouca temporadas e mesmo séries com muitas temporadas tem pouca variação.
+
+E a partir do gráfico também possível notar que existe uma maior variação entre a avaliação das temporadas do que entre as próprias temporadas.

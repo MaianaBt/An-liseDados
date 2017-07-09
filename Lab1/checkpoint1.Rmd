@@ -1,0 +1,112 @@
+---
+title: "checkpoint1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library("ggplot2")
+library("dplyr")
+library("tidyr")
+library("readr")
+
+all_series = read_csv("series.csv")
+```
+
+## Introdução
+
+Neste checkpoint escolhi quatro séries: Sherlock, Flash, Gotham e How to Get Away with Murder.
+Inicialmente, listarei suas informações: Nome, season, episódio de cada temporada e sua avaliação.
+Escolhi essas séries pois tem uma quantidade de temporada não varia muito.
+
+```{r}
+
+series <- all_series %>% 
+  filter(series_name %in% c("Gotham", "Sherlock", "Flash", "How to Get Away with Murder")) %>%
+  group_by(series_name) %>% 
+  select(season, season_ep, UserRating)
+  
+series
+
+```
+
+## Comparando as séries
+
+Para classificar qual a melhor avaliação, irei utilizar como base o UserRating, que corresponde avaliação.
+Inicialmente, mostrarei a avaliação de cada série individualmente, associando a temporada com a média de UserRating. 
+
+How to Get Away with Murder
+```{r}
+media.hgmuder <- series %>%
+  filter(series_name== "How to Get Away with Murder") %>%
+  group_by(season) %>%
+  summarise(media = mean(UserRating), mediana = median(UserRating), numobser = n())
+
+ggplot(data = media.hgmuder, aes(x=season, y=media, fill = season)) + geom_bar(stat = "identity")
+```
+
+Gotham
+```{r}
+media.gotham <- series %>%
+  filter(series_name== "Gotham") %>%
+  group_by(season) %>%
+  summarise(media = mean(UserRating), mediana = median(UserRating), numobser = n())
+
+ggplot(data = media.gotham, aes(x=season, y=media, fill = season)) + geom_bar(stat = "identity")
+```
+
+Flash
+```{r}
+media.flash <- series %>%
+  filter(series_name== "Flash") %>%
+  group_by(season) %>%
+  summarise(media = mean(UserRating), mediana = median(UserRating), numobser = n())
+
+ggplot(data = media.flash, aes(x=season, y=media, fill = season)) + geom_bar(stat = "identity")
+```
+
+Sherlock
+```{r}
+media.sherlock <- series %>%
+  filter(series_name== "Sherlock") %>%
+  group_by(season) %>%
+  summarise(media = mean(UserRating), mediana = median(UserRating), numobser = n())
+
+ggplot(data = media.sherlock, aes(x=season, y=media, fill = season)) + geom_bar(stat = "identity")
+```
+
+Já apresentado os dados, para comparar as séries farei de acordo com a média geral de cada e assim qual é o mais bem avaliado.
+
+
+```{r}
+
+media.geral <- series %>% 
+  group_by(series_name) %>%  
+  summarise(media = mean(UserRating))
+
+ggplot(data = media.geral, aes(x=series_name, y=media, fill = series_name)) + geom_bar(stat = "identity")
+
+```
+
+A partir do gráfico pode-se perceber que a diferença entre as mesma não é muito grande, e que a mais bem avaliada é Sherlock, com um pequena diferença entre How to Get Away with Murder.
+
+Para um maior aprofundamento na análise das médias de cada série, pode-se usar o boxpot.
+
+```{r}
+
+medias <- series
+
+ggplot(medias, mapping = aes(x = series_name, 
+                             y = UserRating)) + 
+  geom_boxplot(outlier.colour = NA) + 
+  geom_point(position = position_jitter(width = .4), 
+             alpha = .7, 
+             color = "darkblue")
+
+```
+
+Analisando cada série em particular temos:
+    Flash, apresenta uma grande dispersão e pontos extremos, pode-se perceber também que os episódios aparentemente estão bem divididos.
+    Quanto a sua qualidade não é regular, porém a diferença entre eles não é grande. 
+    Gotham, não possue pontos extremos e não estão muito dispersados, porém os dados não se repetem muito, o primeiro e o segundo quartil tem seus dados muito próximos. Apresenta uma qualidade mais regular.
+    How to Get Away, estão com pontos dispersos e apresenta assimetria, como e acontecem em Gotham aprensenta o primeiro e o segundo quartil com dados muito próximos, com pouca variação entre sí.
+    Sherlock, tem seus dados dispersos, sem valores muito frequentes, pode-ser ver que existe uma qualidade inregular com grande diferença entre sí.
