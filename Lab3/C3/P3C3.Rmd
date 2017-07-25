@@ -1,0 +1,241 @@
+---
+title: "Problema 3 - Checkpoint 3"
+date: "19 de julho de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+require(GGally, quietly = TRUE)
+require(reshape2, quietly = TRUE)
+require(tidyverse, quietly = TRUE, warn.conflicts = FALSE)
+
+library(ggfortify)
+library(cluster)
+library(ggdendro)
+library(broom)
+library(plotly)
+library(readr)
+library(magrittr)
+library(highcharter)
+
+theme_set(theme_bw())
+```
+
+```{r}
+char <- read.csv('character_list5.csv')
+filmes <- read.csv('meta_data7.csv')
+
+```
+
+## Introdução
+
+Neste checkpoint irei reduzir as dimensões de uma análise multidimensional em apenas duas.
+
+Para isso, utilizarei como base a análise de Dandara Maria, análise está disponível no github da mesma(https://github.com/dandaramcsousa/AD1/blob/master/Atividade%204/prob3cp2.Rmd).
+
+# Análise multidimensional - Quantidade de falas de personagens de diferentes generos em filmes de hollywood
+
+OBS: Os gráficos produzidos,o código tais como agrupamento foram feitas por Dandara, a nomeação dos grupos tal como a conclusão foi uma análise minha.
+
+A análise foi desenvolvida a partir dos dados, encontrados nesse link : https://github.com/matthewfdaniels/scripts.
+
+Com base nos dados, foram escolhidas variáveis numéricas relacionadas ao gênero dos artistas e a quantidade de fala, descartando o restante. As varáveis foram: **o numero total de personagens femininas**, **o numero total de falas femininas**, **o numero total de personagens masculinos**, **o numero total de falas masculinas** e **ano do filme**.
+
+Observando os dados obtem-se a seguinte distribuição de dados:
+
+Para as mulheres
+
+```{r}
+dados = filmes %>% left_join(char)
+
+#Removendo colunas irrelevantes
+
+dados <- dados[ -c(2, 5, 10) ]
+
+# Criando o data frame apenas com as personagens femininas e adicionando as colunas necessarias
+dados_f <- dados %>% filter(gender == 'f')
+
+dados_f <- dados_f %>% group_by(title, gender) %>% mutate(countf = n())
+dados_f <- dados_f %>% group_by(title) %>% mutate(wordsf = sum(words))
+
+# Criando o data frame apenas com os personagens masculinos e adicionando as colunas necessarias
+
+dados_m <- dados %>% filter(gender == 'm')
+dados_m <- dados_m %>% group_by(title, gender) %>% mutate(countm = n())
+dados_m <- dados_m %>% group_by(title) %>% mutate(wordsm = sum(words))
+  
+# Removendo colunas que nao serao utilizadas
+
+dados_f <- dados_f[ -c(4:7)]
+dados_m <- dados_m[ -c(4:7)]
+
+# Juntando os dados parar criar o conjunto de dados final
+dados <- dados_f %>% left_join(dados_m)
+dados <- unique(dados)
+
+
+# Renomeando as variaveis
+names(dados)[names(dados)=="script_id"] <- "Id"
+names(dados)[names(dados)=="title"] <- "Filme"
+names(dados)[names(dados)=="year"] <- "Ano"
+names(dados)[names(dados)=="wordsf"] <- "Palavras.Ditas.por.Mulheres"
+names(dados)[names(dados)=="wordsm"] <- "Palavras.Ditas.por.Homens"
+names(dados)[names(dados)=="countf"] <- "Numero.de.Mulheres"
+names(dados)[names(dados)=="countm"] <- "Numero.de.Homens"
+
+# Excluindo os NA
+dados <- na.omit(dados)
+
+```
+
+Para as mulheres:
+
+```{r}
+ggplot(dados, aes(Ano,Numero.de.Mulheres, color = Palavras.Ditas.por.Mulheres, text = Filme)) + labs(title = "Numero de Mulheres em Filmes por Ano") + geom_jitter() + scale_color_gradient(low="#efa0a3", high="#bc0007")
+```
+
+Para os homens:
+
+```{r}
+ggplot(dados, aes(Ano,Numero.de.Homens, color = Palavras.Ditas.por.Homens, text = Filme)) + labs(title = "Numero de Homens em Filmes por Ano") + geom_jitter() + scale_color_gradient(low="#f49fdc", high="#7a0258")
+```
+
+O algoritmo de agrupamento utilizando foi o k-means, ele divide grupos baseado na distância (quadrática) entre o centro dos clusters e o centro dos dados com a distância (quadrática) entre todos os pontos nos dados e o centro dos dados, a partir disse pode-se traçar qual a melhor quantidade de grupos para agrupar os dados.
+
+Neste caso, a melhor representação foi com três grupos.
+
+# Representação dos grupos
+
+```{r}
+
+dados.agrup <- dados[-c(1, 2)]
+set.seed(44)
+
+wss <- (nrow(dados.agrup)-1)*sum(apply(dados.agrup,2,var))
+for (i in 2:15) wss[i] <- sum(kmeans(dados.agrup, 
+  	centers=i)$withinss)
+
+# Nesse caso 3 eh visto como o numero apropriado entao:
+
+# Clustering 
+dadosCluster <- kmeans(dados.agrup, 3, nstart = 40)
+
+aggregate(dados.agrup,by=list(dadosCluster$cluster),FUN=mean)
+
+# append cluster 
+dados.agrup <- data.frame(dados.agrup, dadosCluster$cluster)
+
+names(dados.agrup)[names(dados.agrup)=="dadosCluster.cluster"] <- "cluster"
+
+p1 <- dados.agrup %>% filter(cluster=='1') %>%
+  plot_ly(type = 'parcoords',
+          line = list(color ="#c97cc4"),
+          dimensions = list(
+            list(range = c(1,16),
+                 label = 'Numero de Mulheres', values = ~Numero.de.Mulheres),
+            list(range = c(101,26000),
+                 label = 'Palavras Ditas por Mulheres', values = ~Palavras.Ditas.por.Mulheres),
+            list(range = c(1,30),
+                 label = 'Numero de Homens', values = ~Numero.de.Homens),
+            list(range = c(101,57950),
+                 label = 'Palavras Ditas por Homens', values = ~Palavras.Ditas.por.Homens)
+            )
+          )
+p2 <- dados.agrup %>% filter(cluster=='2') %>%
+  plot_ly(type = 'parcoords',
+          line = list(color ="#ef5d8b"),
+      dimensions = list(
+            list(range = c(1,16),
+                 label = 'Numero de Mulheres', values = ~Numero.de.Mulheres),
+            list(range = c(101,26000),
+                 label = 'Palavras Ditas por Mulheres', values = ~Palavras.Ditas.por.Mulheres),
+            list(range = c(1,30),
+                 label = 'Numero de Homens', values = ~Numero.de.Homens),
+            list(range = c(101,57950),
+                 label = 'Palavras Ditas por Homens', values = ~Palavras.Ditas.por.Homens)
+            )
+          )
+p3 <- dados.agrup %>% filter(cluster=='3') %>%
+  plot_ly(type = 'parcoords',
+          line = list(color ="#9961c6"),
+          dimensions = list(
+            list(range = c(1,16),
+                 label = 'Numero de Mulheres', values = ~Numero.de.Mulheres),
+            list(range = c(101,26000),
+                 label = 'Palavras Ditas por Mulheres', values = ~Palavras.Ditas.por.Mulheres),
+            list(range = c(1,30),
+                 label = 'Numero de Homens', values = ~Numero.de.Homens),
+            list(range = c(101,57950),
+                 label = 'Palavras Ditas por Homens', values = ~Palavras.Ditas.por.Homens)
+            )
+          )
+p1  # Plotando grupo 1
+```
+
+Grupo 1: Pode-se notar que está balanceado, a quantidade de homens e mulheres são próximas inclusive em ambas existe alguns picos, e a quantidade de fala de ambos são relativamente baixas, com a quantidade de fala das mulheres sendo um pouco maior e tendo alguns casos diferenciados, podemos chamar como grupo **balanceado**.
+
+``` {r}
+p2
+```
+
+Grupo 2: Nota-se que a quantidade de homem é superior que a quantidade de mulheres, e a fala dos homem é pouca mais ainda é maior do que fala das mulheres na maioria dos filmes. Esse grupo irei chamar de **Tímidos**. 
+
+``` {r}
+p3
+```
+
+Grupo 3: Nota-se que a quantidade de homem é superior que a quantidade de mulheres, e a quantidade de fala dos homem é grande e bem maior que a das mulheres, a escala de 'Palavras ditas por Homens' é o dobro da escola usada para 'Palavras dita por Mulheres'. Este grupo chamarei de **Falastrões**.
+
+
+## Reduzindo as variáveis
+
+Para reduzir as dimensões, irei utilizar o PCA. 
+O PCA é baseado na variação dos valores assumidos por uma variável, quanto maior a variação mais **informação**, a partir disso novas variáveis são traçadas que são combinação das anteriores e possuem a maior quantidade de variância possíve. 
+Desse modo, os PCs definidos primeiro tentam conter mais combinação e mais variância que as seguintes.
+
+Após um breve excpliação, vamos ver como se comporta o PCA na análise introduzida anteriormente.
+```{r}
+pr.out <- prcomp(select(dados.agrup, -cluster), scale=TRUE)
+
+autoplot(pr.out, data = dados.agrup, size = 2, 
+         colour = "grey",
+         loadings = TRUE, loadings.colour = 'black',
+         loadings.label = TRUE, 
+         loadings.label.size = 3)
+```
+
+
+Quanto mais alinhado estiver o(s) vetor(es) ao eixo, maior será a variação nas variáveis dos vetores quando um ponto se mover na direção de eixo no gráfico.
+
+Por exemplo, Palavras.Ditas.por.Mulheres e Numero.De.Mulher apresentam praticamente a mesma variância. As variáveis no geral não estão alianhadas com os eixos, mas pode-se perceber que  **Palavras.Ditas.por.Mulheres** e **Numero.De.Mulher** variam mais em relação à PC1 que em relação à PC2, enquanto, **Palavras.Ditas.por.Homens** e **Numero.De.Homens** variam mais em relação à PC2 que em relação à PC1 já o **Ano** tem pouca variação e está mais alinhado ao eixo PC2. 
+
+Agora vamos observar a distribuição com os grupos: **Balanceado**(Cluster 1), **Tímidos**(Cluster 2) e **Falastrões**(Cluster 3).
+
+```{r}
+
+au <- augment(pr.out, data = dados.agrup)
+p = au %>% 
+    hchart("scatter", hcaes(x = .fittedPC1, y = .fittedPC2, group = cluster)) %>%
+    hc_tooltip(pointFormat = "<b>{point.title}</b><br>
+             Ano: {point.Ano:,.f}")
+p
+```
+
+Dessa forma, não é possível observar uma distribuição bem definida mas lembrando as características do grupo, podemos perceber que quanto mais à cima estão os grupos com maior quantidade de homens, podemos assim associar ao eixo do PC2.
+
+# Perca de dados
+
+Tendo em vista que saímos de uma análise multidimensional para uma bidimensional é normal que percamos informações nesse procedimento. Utilizando o PCA podemos saber quanto da variância total têm-se acumalada na avaliação atual.
+
+```{r}
+tidy(pr.out, "pcs") %>% 
+    ggplot(aes(x = PC, y = cumulative)) + 
+    geom_line() + 
+    geom_point() + 
+    labs(x = "Componentes principais.", 
+         y = "Proporção cumulativa.")
+```
+
+A partir do gráfico pode-se perceber que estamos mostrando apenas 65% das informações, tenho uma perca de 35% o que é considerável.

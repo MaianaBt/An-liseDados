@@ -1,0 +1,163 @@
+---
+title: "Lab3"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse, warn.conflicts = F)
+library(rvest)
+library(plotly)
+library(cluster)
+library(ggdendro)
+theme_set(theme_light())
+source("plota_solucoes_hclust.R")
+```
+
+
+#Laboratório 3
+
+Irei tratar sobre os filmes que o ator Johnny Depp participou, levando em consideração os anos do filme, bilheteria arrecadada e avaliações.
+
+
+```{r}
+from_page <- read_html("https://www.rottentomatoes.com/celebrity/johnny_depp/") %>% 
+    html_node("#filmographyTbl") %>%
+    html_table(fill=TRUE) %>%
+    as.tibble()
+
+filmes = from_page %>% 
+    filter(RATING != "No Score Yet", 
+           `BOX OFFICE` != "â€”", 
+           CREDIT != "Executive Producer") %>%
+    mutate(RATING = as.numeric(gsub("%", "", RATING)), 
+           `BOX OFFICE` = as.numeric(gsub("[$|M]", "", `BOX OFFICE`))) %>% 
+    filter(`BOX OFFICE` >= 1) 
+```
+
+Inicialmente irei observar as avaliações feitas dos filmes, que vão de 0 a à 100, com o seguinte grafico:
+
+```{r}
+filmes %>% 
+    ggplot(aes(x = RATING)) + 
+    geom_histogram(bins = 16) + 
+    geom_rug()
+```
+
+Aqui podemos observar três grupos. O primeiro composto por um filme teve avaliação muito baixa, o segundo grupo, composto por 13 filmes, teve teve avaliação de baixa para media (em relação à escola de nota 0-100) e o terceiro grupo, composto por 10 filmes, nota superior à 60 pontos.
+
+Observando também os filmes pela quantidade de bilheteria, temos:
+```{r}
+filmes %>% 
+    ggplot(aes(x = `BOX OFFICE`)) + 
+    geom_histogram(bins = 17) + 
+    geom_rug()
+```
+
+Pode-se notar 4 grupos, no qual o maior grupo(com maior quantidade de filme) teve uma menos bilheteria.
+
+
+## Agrupamentos
+
+Então vamos ilustrando o agrupamento formado pelas avaliações dos filmes que Johnny Depp atuou, temos os seguinte grafico:
+
+
+```{r}
+solucoes = tibble(k = 1:9)
+
+agrupamento_h = filmes %>% 
+  column_to_rownames("TITLE") %>%
+  select(RATING) %>%
+  dist(method = "euclidian") %>% 
+  hclust(method = "ward.D")
+
+atribuicoes = solucoes %>% 
+    group_by(k) %>% 
+    do(cbind(filmes, 
+             grupo = as.character(cutree(agrupamento_h, .$k)))) 
+
+atribuicoes %>% 
+    ggplot(aes(x = "Filmes", y = RATING, colour = grupo)) + 
+    geom_jitter(width = .02, height = 0, size = 2, alpha = .6) + 
+    facet_wrap(~ paste(k, " grupos"))
+```
+Tendo em vista esse gráfico percebemos que a melhor representação em grupo, é aquela que possue 5 grupos, pois pode-se ver que uma certa separação.
+
+```{r}
+solucoes = tibble(k = 5)
+
+atribuicoes = solucoes %>% 
+    group_by(k) %>% 
+    do(cbind(filmes, 
+             grupo = as.character(cutree(agrupamento_h, .$k)))) 
+
+atribuicoes %>% 
+    ggplot(aes(x = "Filmes", y = RATING, colour = grupo)) + 
+    geom_jitter(width = .02, height = 0, size = 2, alpha = .6) + 
+    facet_wrap(~ paste(k, " grupos"))
+```
+
+A partir desse gráfico fica mais fácil para traçar as avaliações de cada grupo.
+
+Podemos observar também os filmes pelas bilheterias:
+```{r}
+plota_hclusts_1d(filmes, "`BOX OFFICE`", linkage_method = "centroid", ks = 1:6)
+
+
+```
+
+Observando os graficos o que melhor representa, neste caso também é o que contém 5 grupos.
+
+```{r}
+plota_hclusts_1d(filmes, "`BOX OFFICE`", linkage_method = "centroid", ks = 5)
+
+
+```
+
+
+Podemos chegar em uma boa conclusão juntando as variáveis, e temos:
+
+```{r}
+agrupamento_h_2d = filmes %>% 
+  column_to_rownames("TITLE") %>%
+  select(RATING, `BOX OFFICE`) %>%
+  dist(method = "euclidean") %>% 
+  hclust(method = "centroid")
+
+plota_hclusts_2d(agrupamento_h_2d, 
+                 filmes, 
+                 c("RATING", "`BOX OFFICE`"), 
+                 linkage_method = "centroid", ks = 1:9)
+```
+
+
+```{r}
+plota_hclusts_2d(agrupamento_h_2d, 
+                 filmes,
+                 c("RATING", "`BOX OFFICE`"), 
+                 linkage_method = "centroid", ks = 9)
+
+```
+
+
+Destacando o agrupamento com nove grupo, podemos perceber, as divisões, sendo estas:
+os filmes o quais tiveram boa avaliação e uma quantidade considerável de bilheteria (Grupo 2 - O Sucesso), o grupo de filmes que foi bem avaliado mas com pouco bilheteria(Grupo 8), o grupo 6 teve boa bilheteria mas uma avaliação na média(levando em consideração a escala de avaliação) e o grupo 5 teve avaliação média entretanto baixa bilheteria, já o grupo 3 teve péssima avaliação e péssima bilheteria, sendo o grupo fracasso total, o grupo 1 teve uma bilheteria considerável mas uma avaliação ruim, os grupos 4 e 7 tiveram pouca bilheteria, porém este teve boa avaliação e aquele uma péssima avaliação. O grupo 9 teve bilheteria muito ruim mas uma avaliação regular.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

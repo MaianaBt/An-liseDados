@@ -1,0 +1,52 @@
+---
+title: "Analisando Commits no Git"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(resample) # <-- Para bootstrap!
+library(GGally)
+theme_set(theme_bw())
+
+dados  = read_csv("dados.csv") %>%
+  filter(file_extension %in% c("js", "py"))
+```
+
+
+## Introdução
+
+Neste checkpoint irei avaliar a popularidade, utilizando a quantidade de usuários do github, associados aos dias de semana, diferenciando entre os dias de semana e os finais de semana.
+
+Irei avaliar os arquivos com extensão **js**(JavaScript) e **py**(Python), no qual a partir da amostra que temos cedida pelo github faremos uma inferência sobre a população utilizando um estimador, neste caso optei por utilizar a mediana.
+
+** REVER ISSO AQUI. Queremos estimar qual a diferença da popularidade entre os dias da semana (a estatística) entre todos os usuários (a população) a partir do cálculo da proporção de pessoas que gostou do produto (a mesma estatística) em um teste prévio com 100 pessoas (a amostra). **
+
+## Desenvolvimento
+
+Para podermos fazer a inferência na população, iremos utilizar a técnica de boostrapping.
+
+```{r}
+
+a = ((12 - dados.the_month) / 10);
+b = dados.the_year - a;
+c = dados.the_month + (12 * a);
+d = b / 100;
+e = d / 4;
+f = 2 - d + e;
+g = (int) (365.25 * b);
+h = (int) (30.6001 * (c + 1));
+i = (int) ((f + g) + (h + dados.month_day) + 5);
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
