@@ -94,14 +94,12 @@ ci = quantile(experimentos.fim.semana$media_exp,
 ggplot(experimentos.semana, aes(x = media_exp)) + 
   geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
   geom_vline(aes(xintercept = ci[[1]]), colour = "blue") + 
-  geom_vline(aes(xintercept = ci[[2]]), colour = "blue") + 
-  geom_vline(aes(xintercept = mean(lastfm$news)), colour = "green")
+  geom_vline(aes(xintercept = ci[[2]]), colour = "blue") 
 
 ggplot(experimentos.fim.semana, aes(x = media_exp)) + 
   geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
   geom_vline(aes(xintercept = ci[[1]]), colour = "blue") + 
-  geom_vline(aes(xintercept = ci[[2]]), colour = "blue") + 
-  geom_vline(aes(xintercept = mean(lastfm$news)), colour = "green")
+  geom_vline(aes(xintercept = ci[[2]]), colour = "blue")
 
 
 ```
