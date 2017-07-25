@@ -11,7 +11,12 @@ library(GGally)
 theme_set(theme_bw())
 
 dados  = read_csv("dados.csv") %>%
-  filter(file_extension %in% c("js", "py"))
+  filter(file_extension %in% c("js", "py")) 
+
+dados$date <- paste(dados$the_year, dados$the_month, dados$month_day, sep = "-")
+
+dados = dados %>%
+  mutate(day = weekdays(as.Date(date,'%Y-%m-%d')))
 ```
 
 
@@ -29,24 +34,74 @@ Para podermos fazer a inferência na população, iremos utilizar a técnica de 
 
 ```{r}
 
-a = ((12 - dados.the_month) / 10);
-b = dados.the_year - a;
-c = dados.the_month + (12 * a);
-d = b / 100;
-e = d / 4;
-f = 2 - d + e;
-g = (int) (365.25 * b);
-h = (int) (30.6001 * (c + 1));
-i = (int) ((f + g) + (h + dados.month_day) + 5);
+semana <- dados %>%
+  filter(day %in% c("segunda-feira", "terça-feira",  "quarta-feira",  "quinta-feira",  "sexta-feira"))
+
+fim.semana <- dados %>%
+  filter(day %in% c("sábado", "domingo"))
+
+dados.semana <- semana %>%
+  group_by(file_extension) %>%
+  summarise(media = mean(users), mediana = median(users), sum = sum(users), numobser = n())
+
+dados.final.semanada <- fim.semana %>%
+  group_by(file_extension) %>%
+  summarise(media = mean(users), mediana = median(users), sum = sum(users), numobser = n())
+```
+A amostra tem os seguintes dados:
+
+
+
+
+Porém, nosso questionamento agora é sobre a população, tendo em vista que temos apenas uma amostra é necessário que façamos uma inferência para que a partir dela obtivamos dados da populção.
+Para inferir sobre os dados iremos utilizar a técnica bootstrap. **EXPLICAR**.
+
+```{r}
+repeticoes = 4000 # pelo menos 2000, mas mais não faz mal.
+
+exp_com_bootstrap <- function(x){
+  boot_x <- sample(x, size = NROW(x), replace = TRUE) # aqui é o bootstrap
+  return(mean(boot_x))
+}
+
+# Agora o input das reamostragens é a amostra!
+experimentos.semana = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(semana$users)) # <- Aqui!
+
+experimentos.fim.semana = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(fim.semana$users)) # <- Aqui!
+
+ggplot(experimentos.semana, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white")
+summary(experimentos.semana)
+
+ggplot(experimentos.fim.semana, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white")
+summary(experimentos.fim.semana)
+
+# IC com 95%: 
+alpha = .05
+ci = quantile(experimentos.semana$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+# IC com 95%: 
+alpha = .05
+ci = quantile(experimentos.fim.semana$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+ggplot(experimentos.semana, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci[[2]]), colour = "blue") + 
+  geom_vline(aes(xintercept = mean(lastfm$news)), colour = "green")
+
+ggplot(experimentos.fim.semana, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci[[2]]), colour = "blue") + 
+  geom_vline(aes(xintercept = mean(lastfm$news)), colour = "green")
+
 
 ```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
