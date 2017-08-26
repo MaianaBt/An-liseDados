@@ -1,0 +1,1179 @@
+"","movieId","title","totalRating","qtdObs"
+"1",1,"Toy Story (1995)",956.5,247
+"2",20,"Money Train (1995)",33,13
+"3",22,"Copycat (1995)",127.5,38
+"4",29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",161,40
+"5",48,"Pocahontas (1995)",811,201
+"6",70,"From Dusk Till Dawn (1996)",10,5
+"7",78,"Crossing Guard, The (1995)",53.5,13
+"8",101,"Bottle Rocket (1996)",78.5,22
+"9",107,"Muppet Treasure Island (1996)",11,4
+"10",112,"Rumble in the Bronx (Hont faan kui) (1995)",16,4
+"11",145,"Bad Boys (1995)",78,21
+"12",151,"Rob Roy (1995)",2,1
+"13",153,"Batman Forever (1995)",0,0
+"14",160,"Congo (1995)",80,23
+"15",164,"Devil in a Blue Dress (1995)",86.5,26
+"16",170,"Hackers (1995)",780.5,200
+"17",198,"Strange Days (1995)",91,23
+"18",239,"Goofy Movie, A (1995)",0,0
+"19",258,"Kid in King Arthur's Court, A (1995)",491.5,158
+"20",266,"Legends of the Fall (1994)",44,15
+"21",292,"Outbreak (1995)",3,1
+"22",293,"Léon: The Professional (a.k.a. The Professional) (Léon) (1994)",9,2
+"23",296,"Pulp Fiction (1994)",35.5,13
+"24",314,"Secret of Roan Inish, The (1994)",69.5,18
+"25",349,"Clear and Present Danger (1994)",128,44
+"26",353,"Crow, The (1994)",151,38
+"27",356,"Forrest Gump (1994)",51,14
+"28",364,"Lion King, The (1994)",382,114
+"29",366,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)",18,6
+"30",367,"Mask, The (1994)",32,10
+"31",380,"True Lies (1994)",180,48
+"32",382,"Wolf (1994)",27,7
+"33",420,"Beverly Hills Cop III (1994)",65,20
+"34",427,"Boxing Helena (1993)",39,12
+"35",459,"Getaway, The (1994)",2.5,1
+"36",464,"Hard Target (1993)",60,26
+"37",480,"Jurassic Park (1993)",85.5,23
+"38",485,"Last Action Hero (1993)",20,7
+"39",496,"What Happened Was... (1994)",21,7
+"40",519,"RoboCop 3 (1993)",187,59
+"41",533,"Shadow, The (1994)",0,0
+"42",546,"Super Mario Bros. (1993)",48,14
+"43",551,"Nightmare Before Christmas, The (1993)",30.5,8
+"44",552,"Three Musketeers, The (1993)",8,3
+"45",558,"Pagemaster, The (1994)",61.5,15
+"46",587,"Ghost (1990)",36,10
+"47",588,"Aladdin (1992)",25.5,9
+"48",594,"Snow White and the Seven Dwarfs (1937)",1050,244
+"49",595,"Beauty and the Beast (1991)",5,2
+"50",596,"Pinocchio (1940)",177,45
+"51",608,"Fargo (1996)",9,4
+"52",610,"Heavy Metal (1981)",97.5,25
+"53",628,"Primal Fear (1996)",328.5,90
+"54",631,"All Dogs Go to Heaven 2 (1996)",198.5,57
+"55",647,"Courage Under Fire (1996)",3,1
+"56",648,"Mission: Impossible (1996)",111.5,30
+"57",661,"James and the Giant Peach (1996)",7,2
+"58",673,"Space Jam (1996)",4,2
+"59",680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)",72,17
+"60",688,"Operation Dumbo Drop (1995)",126,41
+"61",709,"Oliver & Company (1988)",0,0
+"62",724,"Craft, The (1996)",21,7
+"63",736,"Twister (1996)",0,0
+"64",780,"Independence Day (a.k.a. ID4) (1996)",0,0
+"65",783,"Hunchback of Notre Dame, The (1996)",593.5,168
+"66",788,"Nutty Professor, The (1996)",193,62
+"67",798,"Daylight (1996)",0,0
+"68",849,"Escape from L.A. (1996)",23.5,7
+"69",861,"Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992)",10,3
+"70",866,"Bound (1996)",22,7
+"71",869,"Kansas City (1996)",5,1
+"72",876,"Supercop 2 (Project S) (Chao ji ji hua) (1993)",0,0
+"73",888,"Land Before Time III: The Time of the Great Giving (1995)",0,0
+"74",897,"For Whom the Bell Tolls (1943)",95.5,34
+"75",903,"Vertigo (1958)",9.5,4
+"76",908,"North by Northwest (1959)",0,0
+"77",911,"Charade (1963)",504.5,135
+"78",914,"My Fair Lady (1964)",487.5,150
+"79",919,"Wizard of Oz, The (1939)",112,27
+"80",928,"Rebecca (1940)",0,0
+"81",929,"Foreign Correspondent (1940)",442,105
+"82",933,"To Catch a Thief (1955)",11,3
+"83",953,"It's a Wonderful Life (1946)",0,0
+"84",969,"African Queen, The (1951)",9,2
+"85",970,"Beat the Devil (1953)",209.5,68
+"86",996,"Last Man Standing (1996)",40.5,14
+"87",1011,"Herbie Rides Again (1974)",3,1
+"88",1022,"Cinderella (1950)",0,0
+"89",1025,"Sword in the Stone, The (1963)",81.5,26
+"90",1028,"Mary Poppins (1964)",10.5,4
+"91",1029,"Dumbo (1941)",3,1
+"92",1030,"Pete's Dragon (1977)",19,6
+"93",1032,"Alice in Wonderland (1951)",66,18
+"94",1034,"Freeway (1996)",36,11
+"95",1037,"Lawnmower Man, The (1992)",7,3
+"96",1064,"Aladdin and the King of Thieves (1996)",0,0
+"97",1073,"Willy Wonka & the Chocolate Factory (1971)",3,1
+"98",1127,"Abyss, The (1989)",109.5,25
+"99",1129,"Escape from New York (1981)",45,11
+"100",1148,"Wallace & Gromit: The Wrong Trousers (1993)",29.5,8
+"101",1151,"Lesson Faust (1994)",463,117
+"102",1197,"Princess Bride, The (1987)",122,30
+"103",1200,"Aliens (1986)",0,0
+"104",1206,"Clockwork Orange, A (1971)",6,2
+"105",1215,"Army of Darkness (1993)",2.5,1
+"106",1218,"Killer, The (Die xue shuang xiong) (1989)",0,0
+"107",1223,"Grand Day Out with Wallace and Gromit, A (1989)",1,1
+"108",1224,"Henry V (1989)",1,1
+"109",1245,"Miller's Crossing (1990)",0,0
+"110",1249,"Femme Nikita, La (Nikita) (1990)",7.5,3
+"111",1252,"Chinatown (1974)",30,11
+"112",1254,"Treasure of the Sierra Madre, The (1948)",58.5,18
+"113",1261,"Evil Dead II (Dead by Dawn) (1987)",31,10
+"114",1262,"Great Escape, The (1963)",55.5,17
+"115",1264,"Diva (1981)",135.5,37
+"116",1274,"Akira (1988)",155.5,42
+"117",1282,"Fantasia (1940)",76.5,27
+"118",1320,"Alien³ (a.k.a. Alien 3) (1992)",48.5,11
+"119",1327,"Amityville Horror, The (1979)",555.5,148
+"120",1339,"Dracula (Bram Stoker's Dracula) (1992)",217,56
+"121",1345,"Carrie (1976)",267.5,68
+"122",1356,"Star Trek: First Contact (1996)",246,74
+"123",1374,"Star Trek II: The Wrath of Khan (1982)",0,0
+"124",1396,"Sneakers (1992)",77,23
+"125",1405,"Beavis and Butt-Head Do America (1996)",0,0
+"126",1406,"La Cérémonie (1995)",0,0
+"127",1407,"Scream (1996)",0,0
+"128",1408,"Last of the Mohicans, The (1992)",0,0
+"129",1409,"Michael (1996)",3,1
+"130",1422,"Murder at 1600 (1997)",0,0
+"131",1429,"First Strike (Police Story 4: First Strike) (Ging chaat goo si 4: Ji gaan daan yam mo) (1996)",0,0
+"132",1432,"Metro (1997)",5,2
+"133",1464,"Lost Highway (1997)",105.5,29
+"134",1473,"Best Men (1997)",35.5,10
+"135",1479,"Saint, The (1997)",0,0
+"136",1484,"Daytrippers, The (1996)",250,62
+"137",1525,"Warriors of Virtue (1997)",159.5,39
+"138",1527,"Fifth Element, The (1997)",415.5,100
+"139",1544,"Lost World: Jurassic Park, The (1997)",166.5,44
+"140",1562,"Batman & Robin (1997)",214,54
+"141",1566,"Hercules (1997)",367,89
+"142",1573,"Face/Off (1997)",329.5,76
+"143",1589,"Cop Land (1997)",193.5,49
+"144",1591,"Spawn (1997)",60,14
+"145",1597,"Conspiracy Theory (1997)",907.5,226
+"146",1617,"L.A. Confidential (1997)",51,13
+"147",1620,"Kiss the Girls (1997)",590.5,147
+"148",1646,"RocketMan (a.k.a. Rocket Man) (1997)",0.5,1
+"149",1688,"Anastasia (1997)",52,17
+"150",1717,"Scream 2 (1997)",256.5,66
+"151",1726,"Postman, The (1997)",0,0
+"152",1748,"Dark City (1998)",227.5,65
+"153",1750,"Star Kid (1997)",197.5,64
+"154",1754,"Fallen (1998)",313,90
+"155",1783,"Palmetto (1998)",392,106
+"156",1799,"Suicide Kings (1997)",11,4
+"157",1805,"Wild Things (1998)",249,73
+"158",1834,"Spanish Prisoner, The (1997)",46.5,15
+"159",1848,"Borrowers, The (1997)",17,5
+"160",1873,"Misérables, Les (1998)",8.5,3
+"161",1881,"Quest for Camelot (1998)",16.5,7
+"162",1907,"Mulan (1998)",4,2
+"163",1909,"X-Files: Fight the Future, The (1998)",10,6
+"164",1912,"Out of Sight (1998)",0,0
+"165",1917,"Armageddon (1998)",0,0
+"166",1918,"Lethal Weapon 4 (1998)",6,2
+"167",1920,"Small Soldiers (1998)",11.5,3
+"168",1925,"Wings (1927)",14,4
+"169",2000,"Lethal Weapon (1987)",5,1
+"170",2001,"Lethal Weapon 2 (1989)",9,2
+"171",2002,"Lethal Weapon 3 (1992)",0,0
+"172",2005,"Goonies, The (1985)",0,0
+"173",2009,"Soylent Green (1973)",12.5,3
+"174",2012,"Back to the Future Part III (1990)",5,1
+"175",2023,"Godfather: Part III, The (1990)",74.5,27
+"176",2033,"Black Cauldron, The (1985)",5.5,3
+"177",2041,"Condorman (1981)",24,10
+"178",2045,"Far Off Place, A (1993)",0,0
+"179",2047,"Gnome-Mobile, The (1967)",6,2
+"180",2048,"Great Mouse Detective, The (1986)",378,97
+"181",2052,"Hocus Pocus (1993)",84,25
+"182",2054,"Honey, I Shrunk the Kids (1989)",49.5,14
+"183",2058,"Negotiator, The (1998)",67.5,20
+"184",2065,"Purple Rose of Cairo, The (1985)",5,3
+"185",2078,"Jungle Book, The (1967)",232,65
+"186",2080,"Lady and the Tramp (1955)",241.5,64
+"187",2081,"Little Mermaid, The (1989)",9.5,4
+"188",2087,"Peter Pan (1953)",28.5,9
+"189",2090,"Rescuers, The (1977)",0,0
+"190",2092,"Return of Jafar, The (1994)",309,84
+"191",2097,"Something Wicked This Way Comes (1983)",27,8
+"192",2099,"Song of the South (1946)",6,2
+"193",2102,"Steamboat Willie (1928)",148,40
+"194",2103,"Tall Tale (1995)",0,0
+"195",2116,"Lord of the Rings, The (1978)",0,0
+"196",2123,"All Dogs Go to Heaven (1989)",17,5
+"197",2126,"Snake Eyes (1998)",62,21
+"198",2138,"Watership Down (1978)",0,0
+"199",2139,"Secret of NIMH, The (1982)",0,0
+"200",2141,"American Tail, An (1986)",0,0
+"201",2142,"American Tail: Fievel Goes West, An (1991)",56,16
+"202",2164,"Surf Nazis Must Die (1987)",0,0
+"203",2166,"Return to Paradise (1998)",161,49
+"204",2181,"Marnie (1964)",50,13
+"205",2183,"Man Who Knew Too Much, The (1956)",0,0
+"206",2186,"Strangers on a Train (1951)",0,0
+"207",2189,"I Married A Strange Person! (1997)",0,0
+"208",2232,"Cube (1997)",0,0
+"209",2273,"Rush Hour (1998)",32,9
+"210",2288,"Thing, The (1982)",0,0
+"211",2294,"Antz (1998)",10,4
+"212",2297,"What Dreams May Come (1998)",5,1
+"213",2316,"Practical Magic (1998)",90,23
+"214",2324,"Life Is Beautiful (La Vita è bella) (1997)",11.5,4
+"215",2344,"Runaway Train (1985)",26.5,8
+"216",2355,"Bug's Life, A (1998)",0,0
+"217",2364,"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The) (1984)",18,6
+"218",2366,"King Kong (1933)",0,0
+"219",2367,"King Kong (1976)",3,1
+"220",2393,"Star Trek: Insurrection (1998)",15.5,4
+"221",2403,"First Blood (Rambo: First Blood) (1982)",47.5,13
+"222",2404,"Rambo III (1988)",0,0
+"223",2405,"Jewel of the Nile, The (1985)",51.5,14
+"224",2406,"Romancing the Stone (1984)",344,113
+"225",2413,"Clue (1985)",32,9
+"226",2414,"Young Sherlock Holmes (1985)",8.5,2
+"227",2422,"Karate Kid, Part III, The (1989)",5,1
+"228",2429,"Mighty Joe Young (1998)",51,11
+"229",2455,"Fly, The (1986)",41.5,10
+"230",2467,"Name of the Rose, The (Name der Rose, Der) (1986)",52.5,17
+"231",2468,"Jumpin' Jack Flash (1986)",17.5,9
+"232",2524,"Towering Inferno, The (1974)",44.5,13
+"233",2527,"Westworld (1973)",37.5,13
+"234",2540,"Corruptor, The (1999)",11,3
+"235",2594,"Open Your Eyes (Abre los ojos) (1997)",3.5,1
+"236",2617,"Mummy, The (1999)",9,4
+"237",2625,"Black Mask (Hak hap) (1996)",5,2
+"238",2657,"Rocky Horror Picture Show, The (1975)",49.5,12
+"239",2687,"Tarzan (1999)",126.5,36
+"240",2688,"General's Daughter, The (1999)",18.5,5
+"241",2701,"Wild Wild West (1999)",24,9
+"242",2720,"Inspector Gadget (1999)",32,9
+"243",2722,"Deep Blue Sea (1999)",7,2
+"244",2728,"Spartacus (1960)",98,23
+"245",2735,"Golden Child, The (1986)",134.5,42
+"246",2761,"Iron Giant, The (1999)",4,1
+"247",2764,"Thomas Crown Affair, The (1968)",4,1
+"248",2793,"American Werewolf in Paris, An (1997)",10,3
+"249",2797,"Big (1988)",0,0
+"250",2800,"Little Nemo: Adventures in Slumberland (1992)",89,25
+"251",2802,"Tequila Sunrise (1988)",54.5,16
+"252",2803,"Pelican Brief, The (1993)",185,47
+"253",2810,"Perfect Blue (1997)",12,5
+"254",2819,"Three Days of the Condor (3 Days of the Condor) (1975)",4,2
+"255",2835,"Chill Factor (1999)",40.5,15
+"256",2846,"Adventures of Milo and Otis, The (Koneko monogatari) (1986)",142.5,40
+"257",2857,"Yellow Submarine (1968)",129.5,33
+"258",2881,"Double Jeopardy (1999)",20,5
+"259",2890,"Three Kings (1999)",0,0
+"260",2916,"Total Recall (1990)",3,1
+"261",2940,"Gilda (1946)",37,11
+"262",2959,"Fight Club (1999)",59.5,22
+"263",2968,"Time Bandits (1981)",27.5,14
+"264",2985,"RoboCop (1987)",7,2
+"265",2986,"RoboCop 2 (1990)",80.5,22
+"266",2987,"Who Framed Roger Rabbit? (1988)",4.5,2
+"267",3000,"Princess Mononoke (Mononoke-hime) (1997)",64.5,21
+"268",3003,"Train of Life (Train de vie) (1998)",59.5,19
+"269",3032,"Omega Man, The (1971)",28,8
+"270",3034,"Robin Hood (1973)",4,1
+"271",3054,"Pokémon: The First Movie (1998)",15.5,7
+"272",3081,"Sleepy Hollow (1999)",0,0
+"273",3086,"Babes in Toyland (1934)",0,0
+"274",3104,"Midnight Run (1988)",18,10
+"275",3108,"Fisher King, The (1991)",143.5,35
+"276",3113,"End of Days (1999)",11,4
+"277",3114,"Toy Story 2 (1999)",1,1
+"278",3159,"Fantasia 2000 (1999)",159.5,51
+"279",3197,"Presidio, The (1988)",17.5,5
+"280",3199,"Pal Joey (1957)",198,57
+"281",3256,"Patriot Games (1992)",18,5
+"282",3262,"Twin Peaks: Fire Walk with Me (1992)",0,0
+"283",3265,"Hard-Boiled (Lat sau san taam) (1992)",68,21
+"284",3266,"Man Bites Dog (C'est arrivé près de chez vous) (1992)",0,0
+"285",3267,"Mariachi, El (1992)",11,3
+"286",3273,"Scream 3 (2000)",7,2
+"287",3275,"Boondock Saints, The (2000)",0,0
+"288",3334,"Key Largo (1948)",26,6
+"289",3355,"Ninth Gate, The (1999)",366.5,112
+"290",3358,"Defending Your Life (1991)",0,0
+"291",3390,"Shanghai Surprise (1986)",11,3
+"292",3396,"Muppet Movie, The (1979)",235.5,86
+"293",3400,"We're Back! A Dinosaur's Story (1993)",7,3
+"294",3406,"Captain Horatio Hornblower R.N. (1951)",46,21
+"295",3438,"Teenage Mutant Ninja Turtles (1990)",0,0
+"296",3440,"Teenage Mutant Ninja Turtles III (1993)",161,45
+"297",3452,"Romeo Must Die (2000)",27,7
+"298",3508,"Outlaw Josey Wales, The (1976)",82.5,25
+"299",3535,"American Psycho (2000)",6,2
+"300",3584,"Breathless (1983)",0,0
+"301",3598,"Hamlet (2000)",0,0
+"302",3612,"The Slipper and the Rose: The Story of Cinderella (1976)",29,8
+"303",3624,"Shanghai Noon (2000)",0,0
+"304",3628,"Flying Tigers (1942)",7,2
+"305",3633,"On Her Majesty's Secret Service (1969)",34.5,9
+"306",3638,"Moonraker (1979)",25.5,7
+"307",3654,"Guns of Navarone, The (1961)",64,17
+"308",3656,"Lured (1947)",0,0
+"309",3674,"For the Love of Benji (1977)",54.5,14
+"310",3681,"For a Few Dollars More (Per qualche dollaro in più) (1965)",25.5,6
+"311",3682,"Magnum Force (1973)",16,4
+"312",3687,"Light Years (Gandahar) (1988)",96.5,30
+"313",3696,"Night of the Creeps (1986)",74,19
+"314",3699,"Starman (1984)",0,0
+"315",3701,"Alien Nation (1988)",21,6
+"316",3703,"Road Warrior, The (Mad Max 2) (1981)",0,0
+"317",3706,"Angel Heart (1987)",38,11
+"318",3710,"Action Jackson (1988)",0,0
+"319",3716,"Fatal Beauty (1987)",22,6
+"320",3728,"One False Move (1992)",5,1
+"321",3729,"Shaft (1971)",5,1
+"322",3740,"Big Trouble in Little China (1986)",60.5,17
+"323",3745,"Titan A.E. (2000)",4,1
+"324",3754,"Adventures of Rocky and Bullwinkle, The (2000)",34,13
+"325",3761,"Blood In, Blood Out (1993)",9,2
+"326",3800,"Criminal Lovers (1999)",174,48
+"327",3827,"Space Cowboys (2000)",39.5,11
+"328",3837,"Phantasm II (1988)",20,5
+"329",3868,"Naked Gun: From the Files of Police Squad!, The (1988)",21.5,7
+"330",3893,"Nurse Betty (2000)",38,9
+"331",3920,"Faraway, So Close (In weiter Ferne, so nah!) (1993)",0,0
+"332",3947,"Get Carter (1971)",53.5,18
+"333",3973,"Book of Shadows: Blair Witch 2 (2000)",2,1
+"334",3997,"Dungeons & Dragons (2000)",81.5,20
+"335",4006,"Transformers: The Movie (1986)",0,0
+"336",4016,"Emperor's New Groove, The (2000)",18,5
+"337",4026,"Nowhere to Hide (Injeong sajeong bol geot eobtda) (1999)",0,0
+"338",4037,"House of Games (1987)",0,0
+"339",4042,"Alamo, The (1960)",7,2
+"340",4056,"Pledge, The (2001)",118.5,30
+"341",4084,"Beverly Hills Cop II (1987)",18,10
+"342",4085,"Beverly Hills Cop (1984)",52.5,20
+"343",4086,"Big Easy, The (1987)",40.5,11
+"344",4103,"Empire of the Sun (1987)",0,0
+"345",4106,"Extreme Prejudice (1987)",0,0
+"346",4121,"Innerspace (1987)",0,0
+"347",4133,"Masters of the Universe (1987)",85,26
+"348",4142,"Left Behind: The Movie (2000)",17.5,4
+"349",4210,"Manhunter (1986)",0,0
+"350",4232,"Spy Kids (2001)",0,0
+"351",4238,"Along Came a Spider (2001)",0,0
+"352",4247,"Joe Dirt (2001)",0,0
+"353",4270,"Mummy Returns, The (2001)",12,4
+"354",4275,"Krull (1983)",38.5,11
+"355",4306,"Shrek (2001)",48,13
+"356",4310,"Pearl Harbor (2001)",27.5,8
+"357",4339,"Von Ryan's Express (1965)",25,10
+"358",4366,"Atlantis: The Lost Empire (2001)",0,0
+"359",4383,"Crimson Rivers, The (Rivières pourpres, Les) (2000)",54.5,12
+"360",4392,"Alice (1990)",35.5,10
+"361",4409,"Shadows and Fog (1991)",134,43
+"362",4428,"Misfits, The (1961)",15,5
+"363",4438,"Fist of Fury (Chinese Connection, The) (Jing wu men) (1972)",155.5,38
+"364",4446,"Final Fantasy: The Spirits Within (2001)",8,4
+"365",4454,"More (1998)",2,1
+"366",4519,"Land Before Time, The (1988)",0,0
+"367",4552,"Tetsuo, the Ironman (Tetsuo) (1988)",0,0
+"368",4610,"January Man, The (1989)",3.5,1
+"369",4638,"Jurassic Park III (2001)",0,0
+"370",4643,"Planet of the Apes (2001)",0,0
+"371",4658,"Santa Sangre (1989)",52.5,13
+"372",4673,"Tango & Cash (1989)",3,1
+"373",4719,"Osmosis Jones (2001)",11,3
+"374",4720,"Others, The (2001)",53,16
+"375",4754,"Wicker Man, The (1973)",25,7
+"376",4756,"Musketeer, The (2001)",99,23
+"377",4789,"Phantom of the Paradise (1974)",0,0
+"378",4795,"Father Goose (1964)",339.5,99
+"379",4799,"It's a Mad, Mad, Mad, Mad World (1963)",13,6
+"380",4800,"King Solomon's Mines (1937)",156.5,53
+"381",4802,"Operation Petticoat (1959)",5,1
+"382",4818,"Extreme Days (2001)",3,1
+"383",4826,"Big Red One, The (1980)",0,0
+"384",4848,"Mulholland Drive (2001)",95.5,37
+"385",4865,"From Hell (2001)",9,2
+"386",4874,"K-PAX (2001)",7,4
+"387",4878,"Donnie Darko (2001)",12.5,5
+"388",4886,"Monsters, Inc. (2001)",8,3
+"389",4898,"Novocaine (2001)",0,0
+"390",4901,"Spy Game (2001)",0,0
+"391",4902,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",0,0
+"392",4956,"Stunt Man, The (1980)",7,2
+"393",4975,"Vanilla Sky (2001)",7.5,2
+"394",4980,"Bill & Ted's Bogus Journey (1991)",8.5,4
+"395",4990,"Jimmy Neutron: Boy Genius (2001)",3,1
+"396",4998,"Defiant Ones, The (1958)",0,0
+"397",5018,"Motorama (1991)",6,2
+"398",5021,"Murder by Death (1976)",59,21
+"399",5027,"Another 48 Hrs. (1990)",0,0
+"400",5038,"Flight of Dragons, The (1982)",4.5,1
+"401",5046,"Impostor (2002)",14.5,5
+"402",5049,"48 Hrs. (1982)",222,59
+"403",5064,"The Count of Monte Cristo (2002)",4,1
+"404",5065,"Mothman Prophecies, The (2002)",3,1
+"405",5069,"Escaflowne: The Movie (Escaflowne) (2000)",6,2
+"406",5076,"Adventures of Huck Finn, The (1993)",13,4
+"407",5127,"Dragonfly (2002)",9,3
+"408",5146,"Vampire Hunter D: Bloodlust (Banpaia hantâ D) (2000)",14.5,5
+"409",5159,"Ferngully: The Last Rainforest (1992)",30.5,10
+"410",5218,"Ice Age (2002)",6,2
+"411",5219,"Resident Evil (2002)",0,0
+"412",5264,"Clockstoppers (2002)",70,18
+"413",5300,"3:10 to Yuma (1957)",0,0
+"414",5313,"The Scorpion King (2002)",5,3
+"415",5349,"Spider-Man (2002)",17,4
+"416",5378,"Star Wars: Episode II - Attack of the Clones (2002)",1.5,2
+"417",5388,"Insomnia (2002)",0,0
+"418",5389,"Spirit: Stallion of the Cimarron (2002)",0,0
+"419",5419,"Scooby-Doo (2002)",0,0
+"420",5433,"Silver Bullet (Stephen King's Silver Bullet) (1985)",0,0
+"421",5444,"Lilo & Stitch (2002)",2,1
+"422",5445,"Minority Report (2002)",5,1
+"423",5448,"Hey Arnold! The Movie (2002)",5,3
+"424",5460,"Powerpuff Girls, The (2002)",19.5,8
+"425",5478,"Eight Legged Freaks (2002)",9,4
+"426",5479,"K-19: The Widowmaker (2002)",0,0
+"427",5506,"Blood Work (2002)",3.5,1
+"428",5523,"Adventures of Pluto Nash, The (2002)",0,0
+"429",5530,"Simone (S1m0ne) (2002)",31.5,8
+"430",5540,"Clash of the Titans (1981)",0,0
+"431",5541,"Hot Shots! (1991)",7,2
+"432",5553,"Stakeout (1987)",4,1
+"433",5613,"8 Women (2002)",6.5,2
+"434",5628,"Wasabi (2001)",54.5,17
+"435",5638,"Godzilla vs. Mothra (Mosura tai Gojira) (1964)",0,0
+"436",5666,"Rules of Attraction, The (2002)",0,0
+"437",5672,"Pokemon 4 Ever (a.k.a. Pokémon 4: The Movie) (2002)",181.5,49
+"438",5678,"Formula 51 (2001)",3,1
+"439",5700,"The Pumaman (1980)",37.5,10
+"440",5746,"Galaxy of Terror (Quest) (1981)",12,3
+"441",5803,"I Spy (2002)",0,0
+"442",5880,"Extreme Ops (2002)",0,0
+"443",5882,"Treasure Planet (2002)",0,0
+"444",5927,"Best Little Whorehouse in Texas, The (1982)",8.5,3
+"445",5938,"Deathtrap (1982)",16,6
+"446",5941,"Drumline (2002)",7,2
+"447",5944,"Star Trek: Nemesis (2002)",2,1
+"448",5971,"My Neighbor Totoro (Tonari no Totoro) (1988)",0,0
+"449",5991,"Chicago (2002)",0,0
+"450",6003,"Confessions of a Dangerous Mind (2002)",4,1
+"451",6016,"City of God (Cidade de Deus) (2002)",4.5,2
+"452",6021,"American Friend, The (Amerikanische Freund, Der) (1977)",0,0
+"453",6132,"New York Ripper, The (Squartatore di New York, Lo) (1982)",10,4
+"454",6185,"Dark Blue (2003)",9,3
+"455",6214,"Irreversible (Irréversible) (2002)",6.5,2
+"456",6245,"Sweet Charity (1969)",1,1
+"457",6250,"Dreamcatcher (2003)",3,1
+"458",6264,"Core, The (2003)",0,0
+"459",6273,"In a Lonely Place (1950)",2,1
+"460",6283,"Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001)",1,1
+"461",6297,"Holes (2003)",4,1
+"462",6316,"Wiz, The (1978)",0,0
+"463",6323,"Identity (2003)",0,0
+"464",6333,"X2: X-Men United (2003)",0,0
+"465",6350,"Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)",0,0
+"466",6365,"Matrix Reloaded, The (2003)",0,0
+"467",6373,"Bruce Almighty (2003)",0,0
+"468",6377,"Finding Nemo (2003)",0,0
+"469",6387,"Once a Thief (Zong heng si hai) (1991)",6.5,2
+"470",6395,"Crazies, The (a.k.a. Code Name: Trixie) (1973)",37,14
+"471",6424,"Oscar (1991)",0,0
+"472",6446,"Comancheros, The (1961)",0,0
+"473",6503,"Charlie's Angels: Full Throttle (2003)",27.5,10
+"474",6530,"Tenant, The (Locataire, Le) (1976)",7,4
+"475",6536,"Sinbad: Legend of the Seven Seas (2003)",2.5,1
+"476",6539,"Pirates of the Caribbean: The Curse of the Black Pearl (2003)",0,0
+"477",6548,"Bad Boys II (2003)",13.5,4
+"478",6564,"Lara Croft Tomb Raider: The Cradle of Life (2003)",10.5,3
+"479",6582,"Remo Williams: The Adventure Begins (1985)",17.5,5
+"480",6584,"What's Up, Tiger Lily? (1966)",7,2
+"481",6624,"Agent Cody Banks (2003)",8,3
+"482",6629,"House of Wax (1953)",100.5,31
+"483",6645,"THX 1138 (1971)",0,0
+"484",6686,"Medallion, The (2003)",0,0
+"485",6709,"Once Upon a Time in Mexico (2003)",4,1
+"486",6757,"Demonlover (2002)",5,1
+"487",6774,"Videodrome (1983)",9,2
+"488",6776,"Lagaan: Once Upon a Time in India (2001)",24.5,6
+"489",6785,"Seven Brides for Seven Brothers (1954)",0,0
+"490",6798,"Bugsy Malone (1976)",2,1
+"491",6857,"Ninja Scroll (Jûbei ninpûchô) (1995)",0,0
+"492",6868,"Wonderland (2003)",4,1
+"493",6885,"In the Cut (2003)",0,0
+"494",6892,"Singing Detective, The (2003)",0,0
+"495",6902,"Interstate 60 (2002)",45,11
+"496",6934,"Matrix Revolutions, The (2003)",73,20
+"497",6953,"21 Grams (2003)",0,0
+"498",6954,"Barbarian Invasions, The (Les invasions barbares) (2003)",3,1
+"499",6958,"Haunted Mansion, The (2003)",2.5,1
+"500",6966,"Darkman (1990)",0,0
+"501",6990,"The Great Train Robbery (1978)",12,4
+"502",7001,"Invasion of the Body Snatchers (1978)",0,0
+"503",7003,"Kafka (1991)",0,0
+"504",7004,"Kindergarten Cop (1990)",4.5,1
+"505",7007,"Last Boy Scout, The (1991)",13.5,5
+"506",7022,"Battle Royale (Batoru rowaiaru) (2000)",0,0
+"507",7040,"To Live and Die in L.A. (1985)",18.5,7
+"508",7044,"Wild at Heart (1990)",14,5
+"509",7046,"Witches of Eastwick, The (1987)",6,2
+"510",7048,"Nothing to Lose (1997)",4,1
+"511",7067,"Juliet of the Spirits (Giulietta degli spiriti) (1965)",33.5,9
+"512",7072,"Stagecoach (1939)",111.5,37
+"513",7076,"Bullitt (1968)",259,69
+"514",7099,"Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)",0,0
+"515",7123,"Naked Lunch (1991)",182.5,49
+"516",7126,"Killing of a Chinese Bookie, The (1976)",4.5,3
+"517",7135,"Shoot the Piano Player (Tirez sur le pianiste) (1960)",9,4
+"518",7143,"Last Samurai, The (2003)",17,5
+"519",7153,"Lord of the Rings: The Return of the King, The (2003)",11,4
+"520",7164,"Peter Pan (2003)",0,0
+"521",7198,"The Pick-up Artist (1987)",6.5,2
+"522",7215,"To Have and Have Not (1944)",2,1
+"523",7216,"High Sierra (1941)",88,23
+"524",7217,"Dark Passage (1947)",18,7
+"525",7235,"Ichi the Killer (Koroshiya 1) (2001)",5,1
+"526",7247,"Chitty Chitty Bang Bang (1968)",3.5,1
+"527",7248,"Suriyothai (a.k.a. Legend of Suriyothai, The) (2001)",0,0
+"528",7305,"Black Widow (1987)",3,1
+"529",7307,"Flesh & Blood (1985)",11,3
+"530",7325,"Starsky & Hutch (2004)",0,0
+"531",7360,"Dawn of the Dead (2004)",8,3
+"532",7369,"Scooby-Doo 2: Monsters Unleashed (2004)",0,0
+"533",7373,"Hellboy (2004)",58,16
+"534",7374,"Home on the Range (2004)",0,0
+"535",7415,"Late Show, The (1977)",0,0
+"536",7445,"Man on Fire (2004)",0,0
+"537",7454,"Van Helsing (2004)",0,0
+"538",7458,"Troy (2004)",4,1
+"539",7569,"You Only Live Twice (1967)",3,1
+"540",7571,"Blue Gardenia, The (1953)",3.5,1
+"541",7577,"Magic Flute, The (Trollflöjten) (1975)",5,2
+"542",7700,"Wages of Fear, The (Salaire de la peur, Le) (1953)",4,1
+"543",7713,"Cat People (1942)",15,4
+"544",7720,"Four Musketeers, The (1974)",0,0
+"545",7728,"Postman Always Rings Twice, The (1946)",0,0
+"546",7766,"Throne of Blood (Kumonosu jô) (1957)",3.5,1
+"547",7802,"Warriors, The (1979)",9.5,2
+"548",7831,"Another Thin Man (1939)",17.5,5
+"549",7834,"After the Thin Man (1936)",0,0
+"550",7835,"Song of the Thin Man (1947)",62.5,22
+"551",7926,"High and Low (Tengoku to jigoku) (1963)",0,0
+"552",7935,"Face to Face (Ansikte mot ansikte) (1976)",0,0
+"553",7982,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",3.5,1
+"554",8015,"Phantom Tollbooth, The (1970)",20,5
+"555",8016,"Getaway, The (1972)",0,0
+"556",8019,"Dark Water (Honogurai mizu no soko kara) (2002)",0,0
+"557",8093,"Shiri (Swiri) (1999)",11.5,3
+"558",8169,"*batteries not included (1987)",1,1
+"559",8253,"Lupin III: The Castle Of Cagliostro (Rupan sansei: Kariosutoro no shiro) (1979)",7,2
+"560",8254,"Arizona Dream (1993)",7,2
+"561",8360,"Shrek 2 (2004)",0,0
+"562",8361,"Day After Tomorrow, The (2004)",0,0
+"563",8369,"Mindhunters (2004)",31,9
+"564",8370,"Blind Swordsman: Zatoichi, The (Zatôichi) (2003)",0,0
+"565",8403,"Helen of Troy (1956)",0,0
+"566",8465,"Johnny Eager (1942)",2,1
+"567",8537,"Kaena: The Prophecy (Kaena: La prophétie) (2003)",11,6
+"568",8574,"Claymation Christmas Celebration, A (1987)",0,0
+"569",8580,"Into the Woods (1991)",0,0
+"570",8600,"Angels with Dirty Faces (1938)",0,0
+"571",8620,"Exterminating Angel, The (Ángel exterminador, El) (1962)",15.5,5
+"572",8633,"Last Starfighter, The (1984)",0,0
+"573",8636,"Spider-Man 2 (2004)",0,0
+"574",8640,"King Arthur (2004)",0,0
+"575",8644,"I, Robot (2004)",0,0
+"576",8670,"Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse) (1933)",171,54
+"577",8690,"Slaughterhouse-Five (1972)",57,23
+"578",8713,"New Adventures of Pippi Longstocking, The (1988)",0,0
+"579",8795,"Musa the Warrior (Musa) (2001)",0,0
+"580",8798,"Collateral (2004)",0,0
+"581",8810,"AVP: Alien vs. Predator (2004)",0,0
+"582",8811,"Yu-Gi-Oh! (2004)",0,0
+"583",8830,"Anacondas: The Hunt for the Blood Orchid (2004)",4.5,1
+"584",8860,"Cellular (2004)",0,0
+"585",8861,"Resident Evil: Apocalypse (2004)",39.5,12
+"586",8870,"Forgotten, The (2004)",5,2
+"587",8882,"Boston Strangler, The (1968)",2.5,1
+"588",8917,"Team America: World Police (2004)",15.5,4
+"589",8961,"Incredibles, The (2004)",0,0
+"590",8963,"It's All About Love (2003)",17,5
+"591",8965,"Polar Express, The (2004)",101.5,27
+"592",8968,"After the Sunset (2004)",8,2
+"593",8972,"National Treasure (2004)",0,0
+"594",8974,"SpongeBob SquarePants Movie, The (2004)",1.5,1
+"595",8977,"Alexander (2004)",3,1
+"596",8984,"Ocean's Twelve (2004)",2.5,1
+"597",8985,"Blade: Trinity (2004)",5.5,2
+"598",25807,"Black Cat, The (1934)",0,0
+"599",25920,"Blue Dahlia, The (1946)",1.5,2
+"600",25930,"Odd Man Out (1947)",3,1
+"601",26084,"Music Man, The (1962)",5,2
+"602",26093,"Wonderful World of the Brothers Grimm, The (1962)",9,2
+"603",26117,"Killers, The (1964)",2.5,1
+"604",26160,"Asterix and the Gauls (Astérix le Gaulois) (1967)",4.5,1
+"605",26172,"Point Blank (1967)",0,0
+"606",26265,"Dr. Phibes Rises Again (1972)",5,1
+"607",26492,"Twilight Zone: The Movie (1983)",78,24
+"608",26509,"Electric Dreams (1984)",0,0
+"609",26513,"Ice Pirates, The (1984)",2,2
+"610",26547,"Police Story (Ging chaat goo si) (1985)",4,1
+"611",26603,"Prince of Darkness (1987)",6,2
+"612",26606,"Chinese Ghost Story, A (Sinnui yauwan) (1987)",3.5,1
+"613",26614,"Bourne Identity, The (1988)",0,0
+"614",26662,"Kiki's Delivery Service (Majo no takkyûbin) (1989)",4,1
+"615",26693,"It (1990)",0,0
+"616",26701,"Patlabor: The Movie (Kidô keisatsu patorebâ: The Movie) (1989)",4,1
+"617",26776,"Porco Rosso (Crimson Pig) (Kurenai no buta) (1992)",5,2
+"618",26791,"Shining Through (1992)",0,0
+"619",26840,"Sonatine (Sonachine) (1993)",0,0
+"620",26842,"Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng) (1993)",96,31
+"621",26999,"Lion King II: Simba's Pride, The (1998)",2,1
+"622",27002,"From the Earth to the Moon (1998)",0,0
+"623",27005,"Interview, The (1998)",0,0
+"624",27032,"Who Am I? (Wo shi shei) (1998)",4.5,1
+"625",27109,"Lady Snowblood (Shurayukihime) (1973)",0,0
+"626",27156,"Neon Genesis Evangelion: The End of Evangelion (Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni) (1997)",3,1
+"627",27186,"Kirikou and the Sorceress (Kirikou et la sorcière) (1998)",11,3
+"628",27266,"2046 (2004)",0,0
+"629",27317,"Audition (Ôdishon) (1999)",8,2
+"630",27338,"The Hole (2001)",130.5,35
+"631",27397,"Joint Security Area (Gongdong gyeongbi guyeok JSA) (2000)",0,0
+"632",27660,"Animatrix, The (2003)",5.5,2
+"633",27674,"11:14 (2003)",0,0
+"634",27704,"Battle Royale 2: Requiem (Batoru rowaiaru II: Chinkonka) (2003)",0,0
+"635",27706,"Lemony Snicket's A Series of Unfortunate Events (2004)",0,0
+"636",27721,"Very Long Engagement, A (Un long dimanche de fiançailles) (2004)",11.5,3
+"637",27728,"Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004)",3,1
+"638",27731,"Cat Returns, The (Neko no ongaeshi) (2002)",0,0
+"639",27751,"'Salem's Lot (2004)",0,0
+"640",27788,"Jacket, The (2005)",0,0
+"641",27790,"Millions (2004)",7.5,2
+"642",27792,"Saddest Music in the World, The (2003)",0,0
+"643",27793,"Starship Troopers 2: Hero of the Federation (2004)",11.5,3
+"644",27800,"Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)",0,0
+"645",27802,"Infernal Affairs 2 (Mou gaan dou II) (2003)",0,0
+"646",27816,"Saints and Soldiers (2003)",2,1
+"647",27839,"Ring Two, The (2005)",2.5,1
+"648",27904,"Scanner Darkly, A (2006)",4,1
+"649",30745,"Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003)",0,0
+"650",30793,"Charlie and the Chocolate Factory (2005)",0,0
+"651",30894,"White Noise (2005)",8.5,2
+"652",31150,"Wizards (1977)",0,0
+"653",31184,"Appleseed (Appurushîdo) (2004)",0,0
+"654",31221,"Elektra (2005)",0,0
+"655",31290,"Beastmaster 2: Through the Portal of Time (1991)",0,0
+"656",31364,"Memories of Murder (Salinui chueok) (2003)",7,2
+"657",31420,"Assault on Precinct 13 (2005)",0,0
+"658",31431,"Boogeyman (2005)",5,1
+"659",31502,"Salem's Lot (1979)",0,0
+"660",31658,"Howl's Moving Castle (Hauru no ugoku shiro) (2004)",0,0
+"661",31660,"Steamboy (Suchîmubôi) (2004)",0,0
+"662",31696,"Constantine (2005)",0,0
+"663",31804,"Night Watch (Nochnoy dozor) (2004)",0,0
+"664",31921,"Seven-Per-Cent Solution, The (1976)",22,9
+"665",31952,"Control (Kontroll) (2003)",0,0
+"666",32029,"Hostage (2005)",0,0
+"667",32031,"Robots (2005)",0,0
+"668",32153,"Once Upon a Forest (1993)",4,1
+"669",32211,"Thriller: A Cruel Picture (Thriller - en grym film) (1974)",6.5,2
+"670",32352,"Thief and the Cobbler, The (a.k.a. Arabian Knight) (1995)",0,0
+"671",32369,"Panic in the Streets (1950)",0,0
+"672",32395,"Attack of the Mushroom People (Matango) (1963)",2,1
+"673",32456,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko) (1994)",0,0
+"674",32460,"Knockin' on Heaven's Door (1997)",5.5,2
+"675",32515,"Walker (1987)",0,0
+"676",32554,"Memories (Memorîzu) (1995)",2.5,1
+"677",32587,"Sin City (2005)",2,1
+"678",32898,"Trip to the Moon, A (Voyage dans la lune, Le) (1902)",0,0
+"679",33162,"Kingdom of Heaven (2005)",0,0
+"680",33437,"Unleashed (Danny the Dog) (2005)",0,0
+"681",33615,"Madagascar (2005)",0,0
+"682",33679,"Mr. & Mrs. Smith (2005)",0,0
+"683",33681,"Adventures of Sharkboy and Lavagirl 3-D, The (2005)",1,1
+"684",33903,"Edukators, The (Die Fetten Jahre sind vorbei) (2004)",0,0
+"685",34048,"War of the Worlds (2005)",0,0
+"686",34332,"Sky High (2005)",26,6
+"687",34334,"Stealth (2005)",112,32
+"688",34435,"Sholay (1975)",0,0
+"689",34532,"Skeleton Key, The (2005)",7,2
+"690",36289,"Asterix & Obelix vs. Caesar (Astérix et Obélix contre César) (1999)",18.5,7
+"691",36397,"Valiant (2005)",23,7
+"692",36401,"Brothers Grimm, The (2005)",23.5,6
+"693",36509,"Cave, The (2005)",11.5,3
+"694",36529,"Lord of War (2005)",0,0
+"695",36533,"Cry_Wolf (a.k.a. Cry Wolf) (2005)",0,0
+"696",36553,"In Old Chicago (1937)",8.5,3
+"697",37720,"Exorcism of Emily Rose, The (2005)",24,6
+"698",37729,"Corpse Bride (2005)",11,3
+"699",37733,"History of Violence, A (2005)",6,2
+"700",37830,"Final Fantasy VII: Advent Children (2004)",8.5,2
+"701",37853,"Into the Blue (2005)",6.5,2
+"702",37857,"MirrorMask (2005)",8,2
+"703",38038,"Wallace & Gromit in The Curse of the Were-Rabbit (2005)",0,0
+"704",38061,"Kiss Kiss Bang Bang (2005)",8,4
+"705",39435,"Legend of Zorro, The (2005)",12.5,3
+"706",39768,"Life is a Miracle (Zivot je cudo) (2004)",3,1
+"707",40226,"Wild Zero (2000)",95.5,28
+"708",40339,"Chicken Little (2005)",59,16
+"709",40732,"Descent, The (2005)",11.5,4
+"710",40815,"Harry Potter and the Goblet of Fire (2005)",4,1
+"711",40851,"Zathura (2005)",2,1
+"712",40959,"Ice Harvest, The (2005)",30,9
+"713",41527,"Paradise Now (2005)",0,0
+"714",41569,"King Kong (2005)",0,0
+"715",41997,"Munich (2005)",5,2
+"716",42015,"Casanova (2005)",0,0
+"717",42632,"Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005)",5,1
+"718",42681,"49th Parallel (1941)",0,0
+"719",42900,"Cul-de-sac (1966)",0,0
+"720",43419,"Bandidas (2006)",9.5,3
+"721",43869,"Curious George (2006)",4.5,1
+"722",43917,"Eight Below (2006)",0,0
+"723",43928,"Ultraviolet (2006)",464,122
+"724",43932,"Pulse (2006)",11,4
+"725",44022,"Ice Age 2: The Meltdown (2006)",0,0
+"726",44191,"V for Vendetta (2006)",3.5,1
+"727",44759,"Basic Instinct 2 (2006)",3,1
+"728",44761,"Brick (2005)",0,0
+"729",44849,"Renaissance (2006)",17.5,5
+"730",44911,"Magic (1978)",1.5,1
+"731",45179,"Glass Key, The (1942)",7.5,2
+"732",45183,"Protector, The (a.k.a. Warrior King) (Tom yum goong) (2005)",2.5,2
+"733",45431,"Over the Hedge (2006)",0,0
+"734",45442,"Poseidon (2006)",3.5,1
+"735",45672,"Click (2006)",3.5,1
+"736",45679,"Seventh Victim, The (1943)",0,0
+"737",46062,"High School Musical (2006)",0,0
+"738",46335,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)",0,0
+"739",46530,"Superman Returns (2006)",0,0
+"740",46855,"Army of Shadows (L'armée des ombres) (1969)",0,0
+"741",46948,"Monster House (2006)",0,0
+"742",46965,"Snakes on a Plane (2006)",6,2
+"743",46972,"Night at the Museum (2006)",0,0
+"744",46976,"Stranger than Fiction (2006)",0,0
+"745",47044,"Miami Vice (2006)",5,4
+"746",47124,"Ant Bully, The (2006)",0,0
+"747",47196,"Rainmaker, The (1956)",0,0
+"748",47254,"Chaos (2005)",0,0
+"749",47330,"Dirty Mary Crazy Larry (1974)",0,0
+"750",47384,"Zoom (2006)",2,1
+"751",47404,"Mind Game (2004)",0,0
+"752",47610,"Illusionist, The (2006)",4,1
+"753",47714,"Blithe Spirit (1945)",4,1
+"754",47950,"Hollywoodland (2006)",12,3
+"755",47997,"Idiocracy (2006)",0,0
+"756",48032,"Tiger and the Snow, The (La tigre e la neve) (2005)",2.5,1
+"757",48061,"Snoopy Come Home (1972)",0,0
+"758",48082,"Science of Sleep, The (La science des rêves) (2006)",0,0
+"759",48142,"Black Dahlia, The (2006)",8.5,3
+"760",48159,"Everyone's Hero (2006)",0,0
+"761",48319,"Flyboys (2006)",38,16
+"762",48414,"Open Season (2006)",18.5,5
+"763",48591,"Grudge 2, The (2006)",0,0
+"764",48774,"Children of Men (2006)",0,0
+"765",48780,"Prestige, The (2006)",0,0
+"766",49274,"Happy Feet (2006)",0,0
+"767",49528,"Turistas (2006)",0,0
+"768",49530,"Blood Diamond (2006)",8.5,3
+"769",49647,"Charlotte's Web (2006)",2,1
+"770",50011,"Bothersome Man, The (Brysomme mannen, Den) (2006)",1,1
+"771",50794,"Smokin' Aces (2006)",0,0
+"772",51255,"Hot Fuzz (2007)",0.5,1
+"773",51662,"300 (2007)",0,0
+"774",51709,"Host, The (Gwoemul) (2006)",12,5
+"775",51925,"Premonition (2007)",57.5,15
+"776",51939,"TMNT (Teenage Mutant Ninja Turtles) (2007)",0,0
+"777",52281,"Grindhouse (2007)",0,0
+"778",52287,"Meet the Robinsons (2007)",0.5,1
+"779",52319,"Inglorious Bastards (Quel maledetto treno blindato) (1978)",0,0
+"780",52328,"Sunshine (2007)",0,0
+"781",52435,"How the Grinch Stole Christmas! (1966)",0,0
+"782",52456,"Perfect Stranger (2007)",3,1
+"783",52460,"Pathfinder (2007)",7,3
+"784",52462,"Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)",3.5,1
+"785",52604,"Fracture (2007)",0,0
+"786",52712,"Invisible, The (2007)",3.5,1
+"787",52717,"Condemned, The (2007)",0,0
+"788",52722,"Spider-Man 3 (2007)",0,0
+"789",52831,"Maniac Cop (1988)",1.5,1
+"790",52950,"Day Watch (Dnevnoy dozor) (2006)",0,0
+"791",53121,"Shrek the Third (2007)",2,1
+"792",53125,"Pirates of the Caribbean: At World's End (2007)",82.5,22
+"793",53207,"88 Minutes (2008)",11.5,3
+"794",53519,"Death Proof (2007)",3.5,1
+"795",53550,"Rescue Dawn (2006)",23.5,6
+"796",53737,"Night of the Generals, The (1967)",5,1
+"797",53887,"O Lucky Man! (1973)",0,0
+"798",53972,"Live Free or Die Hard (2007)",19.5,6
+"799",53996,"Transformers (2007)",0,0
+"800",54001,"Harry Potter and the Order of the Phoenix (2007)",0,0
+"801",54190,"Across the Universe (2007)",0,0
+"802",54259,"Stardust (2007)",0,0
+"803",54372,"Tell No One (Ne le dis à personne) (2006)",0.5,1
+"804",54648,"Rush Hour 3 (2007)",0,0
+"805",54771,"Invasion, The (2007)",4,1
+"806",54997,"3:10 to Yuma (2007)",8.5,2
+"807",55116,"Hunting Party, The (2007)",0,0
+"808",55167,"Tekkonkinkreet (Tekkon kinkurîto) (2006)",0,0
+"809",55232,"Resident Evil: Extinction (2007)",15,4
+"810",55253,"Lust, Caution (Se, jie) (2007)",14.5,4
+"811",55259,"Seeker: The Dark Is Rising, The (2007)",19,5
+"812",55721,"Elite Squad (Tropa de Elite) (2007)",3,1
+"813",55995,"Beowulf (2007)",4,1
+"814",56003,"Southland Tales (2006)",0,0
+"815",56015,"Kansas City Confidential (1952)",0,0
+"816",56069,"Murder Party (2007)",0,0
+"817",56152,"Enchanted (2007)",0,0
+"818",56174,"I Am Legend (2007)",0,0
+"819",56339,"Orphanage, The (Orfanato, El) (2007)",0,0
+"820",56757,"Sweeney Todd: The Demon Barber of Fleet Street (2007)",0,0
+"821",56921,"Battlestar Galactica: Razor (2007)",0,0
+"822",57223,"D-War (Dragon Wars) (2007)",16.5,4
+"823",57368,"Cloverfield (2008)",424,111
+"824",57504,"Girl Who Leapt Through Time, The (Toki o kakeru shôjo) (2006)",32,10
+"825",57528,"Rambo (Rambo 4) (2008)",35.5,10
+"826",57640,"Hellboy II: The Golden Army (2008)",4.5,1
+"827",57669,"In Bruges (2008)",4,1
+"828",57951,"Fool's Gold (2008)",29,12
+"829",58025,"Jumper (2008)",0,0
+"830",58105,"Spiderwick Chronicles, The (2008)",0,0
+"831",58297,"Doomsday (2008)",0,0
+"832",58299,"Horton Hears a Who! (2008)",0,0
+"833",58559,"Dark Knight, The (2008)",0,0
+"834",58803,"21 (2008)",0,0
+"835",59037,"Speed Racer (2008)",11.5,3
+"836",59103,"Forbidden Kingdom, The (2008)",85.5,27
+"837",59369,"Taken (2008)",0,0
+"838",59615,"Indiana Jones and the Kingdom of the Crystal Skull (2008)",0,0
+"839",59784,"Kung Fu Panda (2008)",0,0
+"840",59814,"Ex Drummer (2007)",14,4
+"841",60069,"WALL·E (2008)",2.5,1
+"842",60074,"Hancock (2008)",3.5,1
+"843",60161,"Futurama: The Beast with a Billion Backs (2008)",9.5,3
+"844",60471,"Rogue (2007)",0,0
+"845",60516,"Meet Dave (2008)",24.5,7
+"846",60609,"Death Note (2006)",4.5,1
+"847",60684,"Watchmen (2009)",4.5,3
+"848",60760,"X-Files: I Want to Believe, The (2008)",14.5,5
+"849",60937,"Mummy: Tomb of the Dragon Emperor, The (2008)",39.5,10
+"850",61013,"Absolute Giganten (1999)",6,2
+"851",61026,"Red Cliff (Chi bi) (2008)",0,0
+"852",61071,"Sisterhood of the Traveling Pants 2, The (2008)",4,1
+"853",61123,"High School Musical 2 (2007)",98,26
+"854",61132,"Tropic Thunder (2008)",3,1
+"855",61160,"Star Wars: The Clone Wars (2008)",8,2
+"856",61236,"Waltz with Bashir (Vals im Bashir) (2008)",12,3
+"857",61240,"Let the Right One In (Låt den rätte komma in) (2008)",3,1
+"858",61248,"Death Race (2008)",0,0
+"859",61350,"Babylon A.D. (2008)",0,0
+"860",61401,"Spirit, The (2008)",7,2
+"861",62081,"Eagle Eye (2008)",0,0
+"862",62331,"Dead Leaves (2004)",0,0
+"863",62336,"FLCL (2000)",0,0
+"864",62394,"Max Payne (2008)",24.5,8
+"865",62733,"Quarantine (2008)",0,0
+"866",62764,"Black Moon (1975)",3,1
+"867",62956,"Futurama: Bender's Game (2008)",16,4
+"868",62999,"Madagascar: Escape 2 Africa (2008)",19,5
+"869",63239,"Cinderella (1997)",7,2
+"870",63853,"Australia (2008)",0,0
+"871",63859,"Bolt (2008)",0.5,1
+"872",63992,"Twilight (2008)",2.5,1
+"873",64030,"Transporter 3 (2008)",8,2
+"874",64249,"Shrek the Halls (2007)",10.5,4
+"875",64497,"Day the Earth Stood Still, The (2008)",0,0
+"876",64900,"Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do) (1990)",7.5,2
+"877",64957,"Curious Case of Benjamin Button, The (2008)",22.5,6
+"878",65261,"Ponyo (Gake no ue no Ponyo) (2008)",0,0
+"879",65577,"Tale of Despereaux, The (2008)",210.5,55
+"880",65682,"Underworld: Rise of the Lycans (2009)",726.5,176
+"881",66297,"Futurama: Into the Wild Green Yonder (2009)",0,0
+"882",66785,"Good, the Bad, the Weird, The (Joheunnom nabbeunnom isanghannom) (2008)",4,1
+"883",66915,"Rock-A-Doodle (1991)",0,0
+"884",66934,"Dr. Horrible's Sing-Along Blog (2008)",0,0
+"885",67197,"Knowing (2009)",0,0
+"886",67255,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)",1.5,1
+"887",67295,"Kung Fu Panda: Secrets of the Furious Five (2008)",0,0
+"888",67508,"Baader Meinhof Komplex, Der (2008)",3,1
+"889",67799,"The Butterfly Effect 3: Revelations (2009)",0,0
+"890",67867,"Dragonball Evolution (2009)",0,0
+"891",67923,"Fast & Furious (Fast and the Furious 4, The) (2009)",0,0
+"892",68237,"Moon (2009)",0,0
+"893",68358,"Star Trek (2009)",4,1
+"894",68554,"Angels & Demons (2009)",9.5,3
+"895",68791,"Terminator Salvation (2009)",0,0
+"896",68835,"Were the World Mine (2008)",2.5,1
+"897",68848,"Brothers Bloom, The (2008)",0,0
+"898",68945,"Neon Genesis Evangelion: Death & Rebirth (Shin seiki Evangelion Gekijô-ban: Shito shinsei) (1997)",28,7
+"899",68954,"Up (2009)",0,0
+"900",68959,"Fullmetal Alchemist the Movie: Conqueror of Shamballa (Gekijô-ban hagane no renkinjutsushi: Shanbara wo yuku mono) (2005)",4,1
+"901",69275,"Dead Snow (Død snø) (2009)",17,5
+"902",69278,"Land of the Lost (2009)",3,1
+"903",69481,"Hurt Locker, The (2008)",166.5,48
+"904",69526,"Transformers: Revenge of the Fallen (2009)",1.5,1
+"905",69559,"File on Thelma Jordan, The (1950)",5,1
+"906",69644,"Ice Age: Dawn of the Dinosaurs (2009)",0,0
+"907",69746,"Watchmen: Tales of the Black Freighter (2009)",0,0
+"908",69844,"Harry Potter and the Half-Blood Prince (2009)",0,0
+"909",70159,"Orphan (2009)",0.5,1
+"910",70282,"Aliens in the Attic (2009)",0,0
+"911",70305,"Race to Witch Mountain (2009)",0,0
+"912",70336,"G.I. Joe: The Rise of Cobra (2009)",0,0
+"913",70697,"G-Force (2009)",17.5,5
+"914",70728,"Bronson (2009)",0,0
+"915",71033,"Secret in Their Eyes, The (El secreto de sus ojos) (2009)",0,0
+"916",71205,"Jennifer's Body (2009)",78,21
+"917",71211,"Informant!, The (2009)",24.5,7
+"918",71264,"Cloudy with a Chance of Meatballs (2009)",0,0
+"919",71433,"Black God, White Devil (Deus e o Diabo na Terra do Sol) (1964)",0,0
+"920",71494,"Haunted World of El Superbeasto, The (2009)",0,0
+"921",71573,"Whiteout (2009)",0,0
+"922",71745,"Where the Wild Things Are (2009)",2.5,1
+"923",71810,"Legionnaire (1998)",437,106
+"924",72104,"Balance (1989)",0,0
+"925",72109,"Vampire Girl vs. Frankenstein Girl (Kyûketsu Shôjo tai Shôjo Furanken) (2009)",4.5,2
+"926",72129,"Saw VI (2009)",0,0
+"927",72165,"Cirque du Freak: The Vampire's Assistant (2009)",3,1
+"928",72209,"Astro Boy (2009)",7,3
+"929",72226,"Fantastic Mr. Fox (2009)",0,0
+"930",72294,"Christmas Carol, A (2009)",4,1
+"931",72308,"Battlestar Galactica: The Plan (2009)",24,6
+"932",72356,"Partly Cloudy (2009)",8,3
+"933",72378,"2012 (2009)",0,0
+"934",72380,"Box, The (2009)",0,0
+"935",72393,"Fourth Kind, The (2009)",52,13
+"936",72407,"Twilight Saga: New Moon, The (2009)",0,0
+"937",72489,"Ninja Assassin (2009)",0,0
+"938",72701,"Planet 51 (2009)",0,0
+"939",72731,"Lovely Bones, The (2009)",0,0
+"940",72737,"Princess and the Frog, The (2009)",0,0
+"941",72919,"Did You Hear About the Morgans? (2009)",4,2
+"942",72998,"Avatar (2009)",0,0
+"943",73017,"Sherlock Holmes (2009)",2.5,1
+"944",73042,"Alvin and the Chipmunks: The Squeakquel (2009)",0,0
+"945",73268,"Daybreakers (2010)",0,0
+"946",73741,"Ninja (2009)",377.5,103
+"947",73854,"Rudolph, the Red-Nosed Reindeer (1964)",0,0
+"948",73929,"Legion (2010)",48.5,17
+"949",74228,"Triangle (2009)",2,1
+"950",74438,"Legend of the Red Dragon (a.k.a. New Legend of Shaolin, The) (Hong Xi Guan: Zhi Shao Lin wu zu) (1994)",0,0
+"951",74510,"Girl Who Played with Fire, The (Flickan som lekte med elden) (2009)",0,0
+"952",74685,"Crazies, The (2010)",0,0
+"953",74727,"Gentlemen of Fortune (Dzhentlmeny udachi) (1972)",0,0
+"954",74795,"Green Zone (2010)",13.5,4
+"955",75813,"Leaves of Grass (2009)",19,5
+"956",76091,"Mother (Madeo) (2009)",0,0
+"957",76093,"How to Train Your Dragon (2010)",0,0
+"958",76175,"Clash of the Titans (2010)",0,0
+"959",77364,"Losers, The (2010)",0,0
+"960",77561,"Iron Man 2 (2010)",0,0
+"961",77866,"Robin Hood (2010)",0,0
+"962",78105,"Prince of Persia: The Sands of Time (2010)",0,0
+"963",78467,"Jonah Hex (2010)",0,0
+"964",78499,"Toy Story 3 (2010)",0,0
+"965",78637,"Shrek Forever After (a.k.a. Shrek: The Final Chapter) (2010)",0,0
+"966",78703,"TiMER (2009)",0,0
+"967",78729,"24: Redemption (2008)",5,1
+"968",78772,"Twilight Saga: Eclipse, The (2010)",0,0
+"969",78967,"Island of Dr. Moreau, The (1977)",17.5,5
+"970",79091,"Despicable Me (2010)",0,0
+"971",79132,"Inception (2010)",0,0
+"972",79139,"Sorcerer's Apprentice, The (2010)",8.5,3
+"973",79357,"Mr. Nobody (2009)",0,0
+"974",79702,"Scott Pilgrim vs. the World (2010)",0,0
+"975",79796,"Centurion (2010)",0,0
+"976",79868,"Heartless (2009)",0,0
+"977",80083,"Dragon Ball Z: Dead Zone (Doragon bôru Z 1: Ora no Gohan wo kaese) (1989)",0,0
+"978",80219,"Machete (2010)",21.5,6
+"979",80363,"Resident Evil: Afterlife (2010)",0,0
+"980",80615,"Legend of the Guardians: The Owls of Ga'Hoole (2010)",0,0
+"981",81132,"Rubber (2010)",28,7
+"982",81516,"Black Death (2010)",0,0
+"983",81564,"Megamind (2010)",0,0
+"984",81788,"Next Three Days, The (2010)",0,0
+"985",81834,"Harry Potter and the Deathly Hallows: Part 1 (2010)",0,0
+"986",81847,"Tangled (2010)",0,0
+"987",82461,"Tron: Legacy (2010)",0,0
+"988",83349,"Green Hornet, The (2011)",7.5,2
+"989",83613,"Cowboys & Aliens (2011)",0,0
+"990",84187,"Evangelion: 2.0 You Can (Not) Advance (Evangerion shin gekijôban: Ha) (2009)",0,0
+"991",84414,"All-Star Superman (2011)",0,0
+"992",84637,"Gnomeo & Juliet (2011)",0,0
+"993",84944,"Rango (2011)",0,0
+"994",85056,"I Am Number Four (2011)",16.5,4
+"995",85179,"Summer Wars (Samâ wôzu) (2009)",1,1
+"996",85261,"Mars Needs Moms (2011)",0,0
+"997",85397,"Red Riding Hood (2011)",28.5,7
+"998",85414,"Source Code (2011)",0,0
+"999",85510,"Sucker Punch (2011)",0,0
+"1000",85736,"BURN-E (2008)",0,0
+"1001",85796,"Hobo with a Shotgun (2011)",0,0
+"1002",86190,"Hanna (2011)",3.5,1
+"1003",86298,"Rio (2011)",2,1
+"1004",86332,"Thor (2011)",8.5,3
+"1005",86644,"Fast Five (Fast and the Furious 5, The) (2011)",0,0
+"1006",86835,"Priest (2011)",0,0
+"1007",86880,"Pirates of the Caribbean: On Stranger Tides (2011)",0,0
+"1008",87222,"Kung Fu Panda 2 (2011)",2.5,1
+"1009",87232,"X-Men: First Class (2011)",0,0
+"1010",87306,"Super 8 (2011)",0,0
+"1011",87520,"Transformers: Dark of the Moon (2011)",0,0
+"1012",87529,"Your Highness (2011)",11,3
+"1013",87876,"Cars 2 (2011)",21.5,6
+"1014",88125,"Harry Potter and the Deathly Hallows: Part 2 (2011)",3.5,1
+"1015",88129,"Drive (2011)",16,4
+"1016",88140,"Captain America: The First Avenger (2011)",3,1
+"1017",88380,"Dylan Dog: Dead of Night (2010)",0,0
+"1018",88744,"Rise of the Planet of the Apes (2011)",0,0
+"1019",89087,"Colombiana (2011)",2.5,1
+"1020",89343,"Red State (2011)",3,1
+"1021",89745,"Avengers, The (2012)",0,0
+"1022",90249,"Real Steel (2011)",0,0
+"1023",90345,"Thing, The (2011)",0,0
+"1024",90524,"Abduction (2011)",4.5,1
+"1025",90647,"Puss in Boots (2011)",4.5,1
+"1026",90738,"Double, The (2011)",0,0
+"1027",90746,"Adventures of Tintin, The (2011)",0,0
+"1028",91104,"Twilight Saga: Breaking Dawn - Part 1, The (2011)",0,0
+"1029",91286,"Little Colonel, The (1935)",16.5,4
+"1030",91355,"Asterix and the Vikings (Astérix et les Vikings) (2006)",1.5,1
+"1031",91414,"Arthur Christmas (2011)",4,1
+"1032",91500,"The Hunger Games (2012)",0,0
+"1033",91529,"Dark Knight Rises, The (2012)",0,0
+"1034",91535,"Bourne Legacy, The (2012)",0,0
+"1035",91542,"Sherlock Holmes: A Game of Shadows (2011)",0,0
+"1036",91630,"Mission: Impossible - Ghost Protocol (2011)",0,0
+"1037",91660,"Darkest Hour, The (2011)",0,0
+"1038",91842,"Contraband (2012)",0,0
+"1039",91974,"Underworld: Awakening (2012)",11.5,3
+"1040",92210,"Disappearance of Haruhi Suzumiya, The (Suzumiya Haruhi no shôshitsu) (2010)",0,0
+"1041",92234,"Red Tails (2012)",3.5,1
+"1042",92507,"Safe House (2012)",0,0
+"1043",92681,"Journey 2: The Mysterious Island (2012)",0,0
+"1044",93272,"Dr. Seuss' The Lorax (2012)",21.5,6
+"1045",93363,"John Carter (2012)",8,2
+"1046",93766,"Wrath of the Titans (2012)",0,0
+"1047",93840,"Cabin in the Woods, The (2012)",0,0
+"1048",94018,"Battleship (2012)",0,0
+"1049",94777,"Men in Black III (M.III.B.) (M.I.B.³) (2012)",0,0
+"1050",94833,"Pirates! Band of Misfits, The (2012)",0,0
+"1051",94864,"Prometheus (2012)",2.5,1
+"1052",95105,"Madagascar 3: Europe's Most Wanted (2012)",0,0
+"1053",95147,"Dragon Ball: Sleeping Princess in Devil's Castle (Doragon bôru: Majinjô no nemuri hime) (1987)",3.5,1
+"1054",95165,"Dragon Ball Z the Movie: The World's Strongest (a.k.a. Dragon Ball Z: The Strongest Guy in The World) (Doragon bôru Z: Kono yo de ichiban tsuyoi yatsu) (1990)",0,0
+"1055",95167,"Brave (2012)",0,0
+"1056",95182,"Dragon Ball Z the Movie: The Tree of Might (Doragon bôru Z 3: Chikyû marugoto chô kessen) (1990)",0,0
+"1057",95207,"Abraham Lincoln: Vampire Hunter (2012)",0,0
+"1058",95307,"Rock of Ages (2012)",0,0
+"1059",95311,"Presto (2008)",0,0
+"1060",95313,"Jack-Jack Attack (2005)",0,0
+"1061",95510,"Amazing Spider-Man, The (2012)",0,0
+"1062",96079,"Skyfall (2012)",0,0
+"1063",96691,"Resident Evil: Retribution (2012)",4,2
+"1064",96792,"Kismet (1955)",0,0
+"1065",96832,"Holy Motors (2012)",0,0
+"1066",96861,"Taken 2 (2012)",0,0
+"1067",97742,"Alex Cross (2012)",4.5,2
+"1068",97757,"'Hellboy': The Seeds of Creation (2004)",0,0
+"1069",97957,"Excision (2012)",0,0
+"1070",98243,"Rise of the Guardians (2012)",5,2
+"1071",98441,"Rebecca of Sunnybrook Farm (1938)",0,0
+"1072",99149,"Misérables, Les (2012)",0,0
+"1073",99764,"It's Such a Beautiful Day (2012)",0,0
+"1074",100163,"Hansel & Gretel: Witch Hunters (2013)",7,2
+"1075",100383,"Side Effects (2013)",0,0
+"1076",100498,"Good Day to Die Hard, A (2013)",0,0
+"1077",101076,"G.I. Joe: Retaliation (2013)",0,0
+"1078",101112,"Oz the Great and Powerful (2013)",0,0
+"1079",101864,"Oblivion (2013)",0,0
+"1080",102125,"Iron Man 3 (2013)",0,0
+"1081",102445,"Star Trek Into Darkness (2013)",0,0
+"1082",102716,"Fast & Furious 6 (Fast and the Furious 6, The) (2013)",0,0
+"1083",102880,"After Earth (2013)",3.5,1
+"1084",103042,"Man of Steel (2013)",33,9
+"1085",103228,"Pacific Rim (2013)",0,0
+"1086",103249,"World War Z (2013)",0,0
+"1087",103253,"Elysium (2013)",0,0
+"1088",103335,"Despicable Me 2 (2013)",0,0
+"1089",103339,"White House Down (2013)",0,0
+"1090",103384,"Lone Ranger, The (2013)",0,0
+"1091",103449,"Passion (2012)",0,0
+"1092",103659,"Justice League: The Flashpoint Paradox (2013)",8,4
+"1093",103755,"Turbo (2013)",6,2
+"1094",103772,"Wolverine, The (2013)",316,84
+"1095",103810,"Red 2 (2013)",27.5,7
+"1096",104243,"Riddick (2013)",0,0
+"1097",104312,"Mortal Instruments: City of Bones, The (2013)",0,0
+"1098",105468,"Cloudy with a Chance of Meatballs 2 (2013)",0,0
+"1099",105504,"Captain Phillips (2013)",0,0
+"1100",106002,"Ender's Game (2013)",0,0
+"1101",106004,"Maniac (1963)",0,0
+"1102",106072,"Thor: The Dark World (2013)",0,0
+"1103",106471,"One Piece Film: Strong World (2009)",4,1
+"1104",106473,"One Piece Film Z (2012)",0,0
+"1105",106487,"The Hunger Games: Catching Fire (2013)",0,0
+"1106",106696,"Frozen (2013)",0,0
+"1107",106762,"Trigun: Badlands Rumble (2010)",2.5,1
+"1108",107069,"Lone Survivor (2013)",0,0
+"1109",107953,"Dragon Ball Z: Battle of Gods (2013)",0,0
+"1110",108090,"Dragon Ball: The Path to Power (Doragon bôru: Saikyô e no michi) (1996)",0,0
+"1111",108188,"Jack Ryan: Shadow Recruit (2014)",0,0
+"1112",108190,"Divergent (2014)",0,0
+"1113",108514,"Yeh Jawaani Hai Deewani (2013)",0,0
+"1114",108689,"I, Frankenstein (2014)",0,0
+"1115",108795,"Wonder Woman (2009)",0,0
+"1116",108932,"The Lego Movie (2014)",0,0
+"1117",108945,"RoboCop (2014)",0,0
+"1118",108979,"Cowboy Bebop (1998)",0,0
+"1119",109673,"300: Rise of an Empire (2014)",0,0
+"1120",109850,"Need for Speed (2014)",0,0
+"1121",110102,"Captain America: The Winter Soldier (2014)",0,0
+"1122",110655,"Rio 2 (2014)",0,0
+"1123",110781,"Mulan II (2004)",6,2
+"1124",111364,"Godzilla (2014)",7.5,2
+"1125",111659,"Maleficent (2014)",0,0
+"1126",113741,"Coherence (2013)",0,0
+"1127",114552,"Boxtrolls, The (2014)",0,0
+"1128",114935,"Predestination (2014)",0,0
+"1129",115680,"Time Lapse (2014)",0,0
+"1130",115927,"Doctor Strange (2007)",3,1
+"1131",116799,"Inherent Vice (2014)",2.5,1
+"1132",117121,"Dorothy Mills (2008)",4.5,1
+"1133",117529,"Jurassic World (2015)",0,0
+"1134",117851,"Penguins of Madagascar (2014)",0,0
+"1135",118354,"Kill the Messenger (2014)",0,0
+"1136",118898,"A Most Violent Year (2014)",0,0
+"1137",118997,"Into the Woods (2014)",0,0
+"1138",119145,"Kingsman: The Secret Service (2015)",4,1
+"1139",119155,"Night at the Museum: Secret of the Tomb (2014)",0,0
+"1140",120392,"Comet (2014)",3.5,1
+"1141",120637,"Blackhat (2015)",0,0
+"1142",120799,"Terminator Genisys (2015)",0,0
+"1143",122882,"Mad Max: Fury Road (2015)",87.5,29
+"1144",122886,"Star Wars: Episode VII - The Force Awakens (2015)",210.5,58
+"1145",122902,"Fantastic Four (2015)",0,0
+"1146",122904,"Deadpool (2016)",3,1
+"1147",122924,"X-Men: Apocalypse (2016)",0,0
+"1148",126430,"The Pacific (2010)",0,0
+"1149",129191,"The Clowns (1970)",0,0
+"1150",129354,"Focus (2015)",0,0
+"1151",129937,"Run All Night (2015)",0,0
+"1152",130073,"Cinderella (2015)",0,0
+"1153",130083,"Kidnapping Mr. Heineken (2015)",0,0
+"1154",130520,"Home (2015)",3.5,1
+"1155",132046,"Tomorrowland (2015)",3.5,1
+"1156",132618,"Kite (2014)",4,1
+"1157",134170,"Kung Fury (2015)",0,0
+"1158",134853,"Inside Out (2015)",0,0
+"1159",135266,"Zenon: The Zequel (2001)",6,2
+"1160",135518,"Self/less (2015)",0,0
+"1161",135887,"Minions (2015)",14,4
+"1162",136016,"The Good Dinosaur (2015)",4,1
+"1163",136864,"Batman v Superman: Dawn of Justice (2016)",0,0
+"1164",139130,"Afro Samurai (2007)",83,21
+"1165",139620,"Everything's Gonna Be Great (1998)",486.5,126
+"1166",140711,"American Ultra (2015)",0,0
+"1167",142192,"Female on the Beach (1955)",2.5,1
+"1168",145935,"Peanuts Movie, The (2015)",0,0
+"1169",149830,"Pride and Prejudice and Zombies (2016)",0,0
+"1170",150548,"Sherlock: The Abominable Bride (2016)",0,0
+"1171",152081,"Zootopia (2016)",0,0
+"1172",156025,"Ice Age: The Great Egg-Scapade (2016)",0,0
+"1173",156607,"The Huntsman Winter's War (2016)",0,0
+"1174",157407,"I Am Wrath (2016)",0,0
+"1175",160080,"Ghostbusters (2016)",0,0
+"1176",161594,"Kingsglaive: Final Fantasy XV (2016)",0,0
+"1177",161918,"Sharknado 4: The 4th Awakens (2016)",0,0
+"1178",163056,"Shin Godzilla (2016)",0,0

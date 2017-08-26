@@ -1,0 +1,3040 @@
+"","movieId","title","totalRating","qtdObs"
+"1",3,"Grumpier Old Men (1995)",186.5,59
+"2",7,"Sabrina (1995)",174,53
+"3",8,"Tom and Huck (1995)",19,5
+"4",12,"Dracula: Dead and Loving It (1995)",51.5,18
+"5",16,"Casino (1995)",347.5,88
+"6",17,"Sense and Sensibility (1995)",337.5,86
+"7",24,"Powder (1995)",103.5,34
+"8",25,"Leaving Las Vegas (1995)",378,101
+"9",27,"Now and Then (1995)",22,7
+"10",28,"Persuasion (1995)",73.5,18
+"11",30,"Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",40.5,10
+"12",34,"Babe (1995)",0,0
+"13",35,"Carrington (1995)",533,148
+"14",36,"Dead Man Walking (1995)",39,11
+"15",37,"Across the Sea of Time (1995)",409.5,104
+"16",38,"It Takes Two (1995)",4,2
+"17",39,"Clueless (1995)",4,2
+"18",41,"Richard III (1995)",23.5,6
+"19",46,"How to Make an American Quilt (1995)",151.5,43
+"20",47,"Seven (a.k.a. Se7en) (1995)",38,12
+"21",49,"When Night Is Falling (1995)",178.5,61
+"22",53,"Lamerica (1994)",0,0
+"23",54,"Big Green, The (1995)",185.5,51
+"24",59,"Confessional, The (Confessionnal, Le) (1995)",0,0
+"25",61,"Eye for an Eye (1996)",180,45
+"26",63,"Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",90.5,32
+"27",64,"Two if by Sea (1996)",25,7
+"28",68,"French Twist (Gazon maudit) (1995)",24,10
+"29",72,"Kicking and Screaming (1995)",28,8
+"30",73,"Misérables, Les (1995)",84,22
+"31",74,"Bed of Roses (1996)",145,48
+"32",79,"Juror, The (1996)",57.5,19
+"33",80,"White Balloon, The (Badkonake sefid) (1995)",0,0
+"34",82,"Antonia's Line (Antonia) (1995)",8,2
+"35",83,"Once Upon a Time... When We Were Colored (1995)",32,10
+"36",84,"Last Summer in the Hamptons (1995)",77,26
+"37",85,"Angels and Insects (1995)",18.5,4
+"38",87,"Dunston Checks In (1996)",38,10
+"39",89,"Nick of Time (1995)",4,1
+"40",96,"In the Bleak Midwinter (1995)",58.5,17
+"41",97,"Hate (Haine, La) (1995)",0,0
+"42",98,"Shopping (1994)",0,0
+"43",100,"City Hall (1996)",24.5,11
+"44",105,"Bridges of Madison County, The (1995)",3,1
+"45",113,"Before and After (1996)",309.5,94
+"46",117,"Young Poisoner's Handbook, The (1995)",93.5,27
+"47",118,"If Lucy Fell (1996)",4,1
+"48",122,"Boomerang (1992)",498.5,118
+"49",129,"Pie in the Sky (1996)",28.5,6
+"50",131,"Frankie Starlight (1995)",14,5
+"51",140,"Up Close and Personal (1996)",58,19
+"52",146,"Amazing Panda Adventure, The (1995)",27,10
+"53",152,"Addiction, The (1995)",23,8
+"54",156,"Blue in the Face (1995)",0,0
+"55",157,"Canadian Bacon (1995)",1,1
+"56",158,"Casper (1995)",0,0
+"57",171,"Jeffrey (1995)",171,48
+"58",178,"Love & Human Remains (1993)",166.5,58
+"59",179,"Mad Love (1995)",31.5,8
+"60",180,"Mallrats (1995)",147.5,63
+"61",181,"Mighty Morphin Power Rangers: The Movie (1995)",306.5,80
+"62",186,"Nine Months (1995)",489,142
+"63",189,"Reckless (1995)",134,43
+"64",191,"Scarlet Letter, The (1995)",85.5,26
+"65",194,"Smoke (1995)",123.5,48
+"66",196,"Species (1995)",9,4
+"67",201,"Three Wishes (1995)",23.5,5
+"68",202,"Total Eclipse (1995)",21,6
+"69",205,"Unstrung Heroes (1995)",0,0
+"70",207,"Walk in the Clouds, A (1995)",9,2
+"71",214,"Before the Rain (Pred dozhdot) (1994)",4,1
+"72",215,"Before Sunrise (1995)",23,6
+"73",217,"Babysitter, The (1995)",0,0
+"74",218,"Boys on the Side (1995)",81,35
+"75",222,"Circle of Friends (1995)",154.5,55
+"76",225,"Disclosure (1994)",10,3
+"77",227,"Drop Zone (1994)",4,1
+"78",229,"Death and the Maiden (1994)",12,4
+"79",230,"Dolores Claiborne (1995)",76,23
+"80",231,"Dumb & Dumber (Dumb and Dumber) (1994)",93,31
+"81",235,"Ed Wood (1994)",311,113
+"82",237,"Forget Paris (1995)",0,0
+"83",238,"Far From Home: The Adventures of Yellow Dog (1995)",10,3
+"84",241,"Fluke (1995)",6,2
+"85",242,"Farinelli: il castrato (1994)",67,18
+"86",244,"Gumby: The Movie (1995)",19,7
+"87",245,"The Glass Shield (1994)",50,15
+"88",247,"Heavenly Creatures (1994)",6,2
+"89",249,"Immortal Beloved (1994)",86.5,22
+"90",250,"Heavyweights (Heavy Weights) (1995)",432,109
+"91",252,"I.Q. (1994)",165,52
+"92",253,"Interview with the Vampire: The Vampire Chronicles (1994)",0,0
+"93",256,"Junior (1994)",49,12
+"94",257,"Just Cause (1995)",92.5,25
+"95",262,"Little Princess, A (1995)",304.5,78
+"96",268,"Little Odessa (1994)",14,4
+"97",270,"Love Affair (1994)",4,1
+"98",272,"Madness of King George, The (1994)",3,1
+"99",276,"Milk Money (1994)",67.5,20
+"100",280,"Murder in the First (1995)",424.5,125
+"101",283,"New Jersey Drive (1995)",113.5,42
+"102",285,"Beyond Bedlam (1993)",46.5,13
+"103",287,"Nina Takes a Lover (1994)",27.5,11
+"104",289,"Only You (1994)",1228.5,291
+"105",290,"Once Were Warriors (1994)",189.5,51
+"106",291,"Poison Ivy II (1996)",77,20
+"107",294,"Perez Family, The (1995)",240.5,62
+"108",295,"Pyromaniac's Love Story, A (1995)",254.5,73
+"109",301,"Picture Bride (Bijo photo) (1994)",29,9
+"110",302,"Queen Margot (Reine Margot, La) (1994)",14,4
+"111",304,"Roommates (1995)",84.5,27
+"112",308,"Three Colors: White (Trzy kolory: Bialy) (1994)",117.5,35
+"113",313,"Swan Princess, The (1994)",90.5,22
+"114",318,"Shawshank Redemption, The (1994)",4,1
+"115",320,"Suture (1993)",16,5
+"116",322,"Swimming with Sharks (1995)",48.5,14
+"117",324,"Sum of Us, The (1994)",63,16
+"118",328,"Tales from the Crypt Presents: Demon Knight (1995)",10,3
+"119",332,"Village of the Damned (1995)",0,0
+"120",335,"Underneath (1995)",5,1
+"121",336,"Walking Dead, The (1995)",26,7
+"122",339,"While You Were Sleeping (1995)",33,12
+"123",345,"Adventures of Priscilla, Queen of the Desert, The (1994)",0,0
+"124",346,"Backbeat (1993)",18,5
+"125",352,"Crooklyn (1994)",1395.5,311
+"126",357,"Four Weddings and a Funeral (1994)",0,0
+"127",360,"I Love Trouble (1994)",3,1
+"128",370,"Naked Gun 33 1/3: The Final Insult (1994)",9,3
+"129",371,"Paper, The (1994)",3,1
+"130",374,"Richie Rich (1994)",347.5,101
+"131",376,"River Wild, The (1994)",9,2
+"132",378,"Speechless (1994)",3,1
+"133",381,"When a Man Loves a Woman (1994)",18,6
+"134",387,"Low Down Dirty Shame, A (1994)",233,70
+"135",391,"Jason's Lyric (1994)",7,2
+"136",392,"Secret Adventures of Tom Thumb, The (1993)",86,39
+"137",401,"Mirage (1995)",449.5,122
+"138",405,"Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)",17,7
+"139",407,"In the Mouth of Madness (1995)",0,0
+"140",409,"Above the Rim (1994)",84.5,25
+"141",415,"Another Stakeout (1993)",36,11
+"142",417,"Barcelona (1994)",251,71
+"143",423,"Blown Away (1994)",42,20
+"144",425,"Blue Sky (1994)",161,47
+"145",431,"Carlito's Way (1993)",91,29
+"146",435,"Coneheads (1993)",0,0
+"147",436,"Color of Night (1994)",0,0
+"148",440,"Dave (1993)",20.5,5
+"149",443,"Endless Summer 2, The (1994)",10.5,5
+"150",444,"Even Cowgirls Get the Blues (1993)",0,0
+"151",446,"Farewell My Concubine (Ba wang bie ji) (1993)",0,0
+"152",447,"Favor, The (1994)",0,0
+"153",450,"With Honors (1994)",0,0
+"154",453,"For Love or Money (1993)",0,0
+"155",454,"Firm, The (1993)",0,0
+"156",458,"Geronimo: An American Legend (1993)",3,1
+"157",461,"Go Fish (1994)",0,0
+"158",468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)",47,13
+"159",469,"House of the Spirits, The (1993)",6,2
+"160",472,"I'll Do Anything (1994)",33,11
+"161",473,"In the Army Now (1994)",33.5,9
+"162",474,"In the Line of Fire (1993)",47.5,14
+"163",476,"Inkwell, The (1994)",15.5,4
+"164",477,"What's Love Got to Do with It? (1993)",38,12
+"165",481,"Kalifornia (1993)",23,9
+"166",484,"Lassie (1994)",167,63
+"167",487,"Lightning Jack (1994)",135.5,55
+"168",488,"M. Butterfly (1993)",11,5
+"169",492,"Manhattan Murder Mystery (1993)",320.5,90
+"170",497,"Much Ado About Nothing (1993)",28,9
+"171",498,"Mr. Jones (1993)",36,9
+"172",499,"Mr. Wonderful (1993)",4,1
+"173",500,"Mrs. Doubtfire (1993)",39.5,11
+"174",509,"Piano, The (1993)",20,6
+"175",511,"Program, The (1993)",15,4
+"176",512,"Puppet Masters, The (1994)",7,2
+"177",515,"Remains of the Day, The (1993)",0,0
+"178",516,"Renaissance Man (1994)",24,7
+"179",521,"Romeo Is Bleeding (1993)",109,33
+"180",522,"Romper Stomper (1992)",25,8
+"181",527,"Schindler's List (1993)",3,3
+"182",528,"Scout, The (1994)",309,80
+"183",531,"Secret Garden, The (1993)",4,1
+"184",534,"Shadowlands (1993)",13,4
+"185",544,"Striking Distance (1993)",31.5,12
+"186",549,"Thirty-Two Short Films About Glenn Gould (1993)",76,23
+"187",550,"Threesome (1994)",212,61
+"188",555,"True Romance (1993)",3,1
+"189",561,"Killer (Bulletproof Heart) (1994)",0,0
+"190",562,"Welcome to the Dollhouse (1995)",16,5
+"191",563,"Germinal (1993)",19,7
+"192",565,"Cronos (1993)",59.5,17
+"193",567,"Kika (1993)",315.5,86
+"194",568,"Bhaji on the Beach (1993)",292.5,78
+"195",569,"Little Big League (1994)",11.5,5
+"196",571,"Wedding Gift, The (1994)",9,3
+"197",574,"Spanking the Monkey (1994)",15,6
+"198",575,"Little Rascals, The (1994)",62,17
+"199",582,"Métisse (Café au Lait) (1993)",23.5,11
+"200",586,"Home Alone (1990)",199,65
+"201",589,"Terminator 2: Judgment Day (1991)",20,6
+"202",597,"Pretty Woman (1990)",0,0
+"203",599,"Wild Bunch, The (1969)",110.5,31
+"204",605,"One Fine Day (1996)",105,25
+"205",606,"Candyman: Farewell to the Flesh (1995)",101,26
+"206",609,"Homeward Bound II: Lost in San Francisco (1996)",30.5,10
+"207",613,"Jane Eyre (1996)",589.5,146
+"208",614,"Loaded (1994)",52,19
+"209",615,"Bread and Chocolate (Pane e cioccolata) (1973)",174,52
+"210",616,"Aristocats, The (1970)",23.5,9
+"211",617,"Flower of My Secret, The (La flor de mi secreto) (1995)",0,0
+"212",627,"Last Supper, The (1995)",36,11
+"213",630,"Carried Away (1996)",157,50
+"214",632,"Land and Freedom (Tierra y libertad) (1995)",6,2
+"215",635,"Family Thing, A (1996)",58.5,15
+"216",639,"Girl 6 (1996)",5,1
+"217",640,"Diabolique (1996)",0,0
+"218",671,"Mystery Science Theater 3000: The Movie (1996)",0,0
+"219",678,"Some Folks Call It a Sling Blade (1993)",0,0
+"220",687,"Country Life (1994)",0,0
+"221",690,"Promise, The (Versprechen, Das) (1995)",401.5,129
+"222",691,"Mrs. Winterbourne (1996)",419,126
+"223",695,"True Crime (1996)",751,202
+"224",696,"Butterfly Kiss (1995)",0,0
+"225",697,"Feeling Minnesota (1996)",666,196
+"226",704,"Quest, The (1996)",494,147
+"227",708,"Truth About Cats & Dogs, The (1996)",4,1
+"228",711,"Flipper (1996)",3,1
+"229",715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",63.5,19
+"230",731,"Heaven's Prisoners (1996)",7,2
+"231",737,"Barb Wire (1996)",8.5,4
+"232",741,"Ghost in the Shell (Kôkaku kidôtai) (1995)",6.5,2
+"233",742,"Thinner (1996)",10,3
+"234",750,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",30,9
+"235",754,"Gold Diggers: The Secret of Bear Mountain (1995)",0,0
+"236",755,"Kim (1950)",7,2
+"237",760,"Stalingrad (1993)",0,0
+"238",761,"Phantom, The (1996)",27,7
+"239",762,"Striptease (1996)",0,0
+"240",764,"Heavy (1995)",80,29
+"241",765,"Jack (1996)",4,1
+"242",767,"Grass Harp, The (1995)",60,18
+"243",775,"Spirits of the Dead (1968)",0,0
+"244",779,"'Til There Was You (1997)",0,0
+"245",782,"Fan, The (1996)",112.5,31
+"246",784,"Cable Guy, The (1996)",0,0
+"247",801,"Harriet the Spy (1996)",0,0
+"248",802,"Phenomenon (1996)",8.5,2
+"249",804,"She's the One (1996)",192.5,53
+"250",805,"Time to Kill, A (1996)",28,9
+"251",806,"American Buffalo (1996)",58,17
+"252",808,"Alaska (1996)",7,2
+"253",809,"Fled (1996)",17,5
+"254",824,"Kaspar Hauser (1993)",133,33
+"255",828,"Adventures of Pinocchio, The (1996)",0,0
+"256",832,"Ransom (1996)",0,0
+"257",839,"Crow: City of Angels, The (1996)",0,0
+"258",840,"House Arrest (1996)",0,0
+"259",842,"Tales from the Crypt Presents: Bordello of Blood (1996)",0,0
+"260",850,"Cyclo (Xich lo) (1995)",2,1
+"261",858,"Godfather, The (1972)",4,2
+"262",864,"Wife, The (1995)",3,1
+"263",867,"Carpool (1996)",0,0
+"264",879,"Relic, The (1997)",84,27
+"265",880,"Island of Dr. Moreau, The (1996)",207.5,61
+"266",881,"First Kid (1996)",34.5,12
+"267",882,"Trigger Effect, The (1996)",3,2
+"268",889,"1-900 (06) (1994)",39,11
+"269",891,"Halloween: The Curse of Michael Myers (Halloween 6: The Curse of Michael Myers) (1995)",8,3
+"270",900,"American in Paris, An (1951)",8,2
+"271",901,"Funny Face (1957)",0,0
+"272",902,"Breakfast at Tiffany's (1961)",112,36
+"273",904,"Rear Window (1954)",6,2
+"274",905,"It Happened One Night (1934)",0,0
+"275",906,"Gaslight (1944)",63.5,16
+"276",910,"Some Like It Hot (1959)",0,0
+"277",912,"Casablanca (1942)",0,0
+"278",913,"Maltese Falcon, The (1941)",33,8
+"279",915,"Sabrina (1954)",35.5,15
+"280",917,"Little Princess, The (1939)",0,0
+"281",923,"Citizen Kane (1941)",260,62
+"282",932,"Affair to Remember, An (1957)",17.5,5
+"283",935,"Band Wagon, The (1953)",3,1
+"284",936,"Ninotchka (1939)",4,1
+"285",937,"Love in the Afternoon (1957)",0,0
+"286",939,"Reluctant Debutante, The (1958)",10,3
+"287",947,"My Man Godfrey (1936)",0,0
+"288",950,"Thin Man, The (1934)",0,0
+"289",951,"His Girl Friday (1940)",0,0
+"290",952,"Around the World in 80 Days (1956)",0,0
+"291",955,"Bringing Up Baby (1938)",0,0
+"292",956,"Penny Serenade (1941)",0,0
+"293",960,"Angel on My Shoulder (1946)",10.5,4
+"294",962,"They Made Me a Criminal (1939)",15,4
+"295",964,"Angel and the Badman (1947)",164.5,49
+"296",966,"A Walk in the Sun (1945)",200,60
+"297",973,"Meet John Doe (1941)",0,0
+"298",976,"Farewell to Arms, A (1932)",0,0
+"299",984,"Pompatus of Love, The (1996)",0,0
+"300",986,"Fly Away Home (1996)",0,0
+"301",987,"Bliss (1997)",41,12
+"302",988,"Grace of My Heart (1996)",77.5,24
+"303",994,"Big Night (1996)",8.5,2
+"304",997,"Caught (1996)",184.5,49
+"305",998,"Set It Off (1996)",26,9
+"306",999,"2 Days in the Valley (1996)",0,0
+"307",1003,"Extreme Measures (1996)",6.5,2
+"308",1004,"Glimmer Man, The (1996)",11,4
+"309",1005,"D3: The Mighty Ducks (1996)",16,8
+"310",1008,"Davy Crockett, King of the Wild Frontier (1955)",8,3
+"311",1010,"Love Bug, The (1969)",0,0
+"312",1012,"Old Yeller (1957)",0,0
+"313",1016,"Shaggy Dog, The (1959)",0,0
+"314",1017,"Swiss Family Robinson (1960)",0,0
+"315",1021,"Angels in the Outfield (1994)",0,0
+"316",1026,"So Dear to My Heart (1949)",7,2
+"317",1027,"Robin Hood: Prince of Thieves (1991)",271,76
+"318",1035,"Sound of Music, The (1965)",7,2
+"319",1042,"That Thing You Do! (1996)",5,1
+"320",1043,"To Gillian on Her 37th Birthday (1996)",12,3
+"321",1046,"Beautiful Thing (1996)",38,11
+"322",1049,"Ghost and the Darkness, The (1996)",18,4
+"323",1050,"Looking for Richard (1996)",24,8
+"324",1059,"William Shakespeare's Romeo + Juliet (1996)",897.5,200
+"325",1060,"Swingers (1996)",0,0
+"326",1068,"Crossfire (1947)",4,1
+"327",1077,"Sleeper (1973)",11,4
+"328",1078,"Bananas (1971)",5,3
+"329",1079,"Fish Called Wanda, A (1988)",0,0
+"330",1083,"Great Race, The (1965)",8,2
+"331",1084,"Bonnie and Clyde (1967)",5,1
+"332",1085,"Old Man and the Sea, The (1958)",0,0
+"333",1090,"Platoon (1986)",8,3
+"334",1101,"Top Gun (1986)",26.5,7
+"335",1114,"Funeral, The (1996)",268.5,64
+"336",1120,"People vs. Larry Flynt, The (1996)",87,22
+"337",1125,"Return of the Pink Panther, The (1975)",291.5,69
+"338",1126,"Drop Dead Fred (1991)",397,92
+"339",1130,"Howling, The (1980)",371.5,87
+"340",1131,"Jean de Florette (1986)",125.5,33
+"341",1133,"Talking About Sex (1994)",111,27
+"342",1161,"Tin Drum, The (Blechtrommel, Die) (1979)",357,85
+"343",1162,"Ruling Class, The (1972)",478,123
+"344",1165,"Bloody Child, The (1996)",22.5,5
+"345",1173,"Cook the Thief His Wife & Her Lover, The (1989)",115,29
+"346",1177,"Enchanted April (1992)",19,5
+"347",1178,"Paths of Glory (1957)",42,11
+"348",1184,"Mediterraneo (1991)",48,12
+"349",1188,"Strictly Ballroom (1992)",40.5,11
+"350",1191,"Madonna: Truth or Dare (1991)",71.5,17
+"351",1198,"Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)",9.5,3
+"352",1199,"Brazil (1985)",4,1
+"353",1213,"Goodfellas (1990)",17.5,5
+"354",1214,"Alien (1979)",64.5,17
+"355",1217,"Ran (1985)",0,0
+"356",1219,"Psycho (1960)",6,2
+"357",1221,"Godfather: Part II, The (1974)",0,0
+"358",1222,"Full Metal Jacket (1987)",0,0
+"359",1226,"Quiet Man, The (1952)",0,0
+"360",1227,"Once Upon a Time in America (1984)",9,2
+"361",1230,"Annie Hall (1977)",49.5,14
+"362",1234,"Sting, The (1973)",2.5,1
+"363",1242,"Glory (1989)",8,3
+"364",1243,"Rosencrantz and Guildenstern Are Dead (1990)",11,3
+"365",1251,"8 1/2 (8½) (1963)",18,6
+"366",1257,"Better Off Dead... (1985)",68.5,19
+"367",1259,"Stand by Me (1986)",33,10
+"368",1263,"Deer Hunter, The (1978)",34,10
+"369",1266,"Unforgiven (1992)",44.5,14
+"370",1268,"Pump Up the Volume (1990)",69.5,17
+"371",1272,"Patton (1970)",137,44
+"372",1278,"Young Frankenstein (1974)",74,21
+"373",1279,"Night on Earth (1991)",39.5,10
+"374",1283,"High Noon (1952)",0,0
+"375",1286,"Somewhere in Time (1980)",100.5,26
+"376",1290,"Some Kind of Wonderful (1987)",0,0
+"377",1291,"Indiana Jones and the Last Crusade (1989)",31,8
+"378",1292,"Being There (1979)",96.5,30
+"379",1296,"Room with a View, A (1986)",32,9
+"380",1298,"Pink Floyd: The Wall (1982)",0,0
+"381",1299,"Killing Fields, The (1984)",2,1
+"382",1300,"My Life as a Dog (Mitt liv som hund) (1985)",3,2
+"383",1301,"Forbidden Planet (1956)",6,3
+"384",1303,"Man Who Would Be King, The (1975)",65,17
+"385",1304,"Butch Cassidy and the Sundance Kid (1969)",0,0
+"386",1305,"Paris, Texas (1984)",204.5,58
+"387",1307,"When Harry Met Sally... (1989)",117,33
+"388",1332,"Believers, The (1987)",73,19
+"389",1333,"Birds, The (1963)",353.5,89
+"390",1334,"Blob, The (1958)",351,91
+"391",1335,"Blood Beach (1981)",106.5,29
+"392",1336,"Body Parts (1991)",59,16
+"393",1342,"Candyman (1992)",15,4
+"394",1347,"Nightmare on Elm Street, A (1984)",184.5,56
+"395",1352,"Albino Alligator (1996)",603,160
+"396",1354,"Breaking the Waves (1996)",39,11
+"397",1355,"Nightwatch (1997)",49,19
+"398",1357,"Shine (1996)",0,0
+"399",1359,"Jingle All the Way (1996)",156.5,40
+"400",1369,"I Can't Sleep (J'ai pas sommeil) (1994)",0,0
+"401",1371,"Star Trek: The Motion Picture (1979)",11,3
+"402",1373,"Star Trek V: The Final Frontier (1989)",9.5,3
+"403",1377,"Batman Returns (1992)",0,0
+"404",1379,"Young Guns II (1990)",119.5,33
+"405",1382,"Marked for Death (1990)",8,2
+"406",1387,"Jaws (1975)",30,11
+"407",1388,"Jaws 2 (1978)",256.5,71
+"408",1389,"Jaws 3-D (1983)",20.5,6
+"409",1392,"Citizen Ruth (1996)",69.5,17
+"410",1393,"Jerry Maguire (1996)",58.5,16
+"411",1395,"Tin Men (1987)",0,0
+"412",1398,"In Love and War (1996)",4,1
+"413",1404,"Night Falls on Manhattan (1996)",0,0
+"414",1410,"Evening Star, The (1996)",0,0
+"415",1416,"Evita (1996)",4,1
+"416",1419,"Walkabout (1971)",3,1
+"417",1427,"Turbulence (1997)",0,0
+"418",1430,"Underworld (1996)",32.5,8
+"419",1431,"Beverly Hills Ninja (1997)",18,5
+"420",1438,"Dante's Peak (1997)",0,0
+"421",1441,"Benny & Joon (1993)",3,1
+"422",1445,"McHale's Navy (1997)",111,31
+"423",1446,"Kolya (Kolja) (1996)",196,46
+"424",1453,"Beautician and the Beast, The (1997)",34,9
+"425",1454,"SubUrbia (1997)",49,13
+"426",1455,"Hotel de Love (1996)",65.5,15
+"427",1459,"Absolute Power (1997)",0,0
+"428",1463,"That Old Feeling (1997)",105,28
+"429",1465,"Rosewood (1997)",38.5,11
+"430",1466,"Donnie Brasco (1997)",115.5,34
+"431",1468,"Booty Call (1997)",80,20
+"432",1472,"City of Industry (1997)",10.5,5
+"433",1474,"Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997)",39.5,9
+"434",1476,"Private Parts (1997)",56,15
+"435",1480,"Smilla's Sense of Snow (1997)",990.5,234
+"436",1482,"Van, The (1996)",686,163
+"437",1483,"Crash (1996)",922.5,220
+"438",1487,"Selena (1997)",224.5,57
+"439",1498,"Inventing the Abbotts (1997)",463.5,112
+"440",1502,"Kissed (1996)",161.5,38
+"441",1507,"Paradise Road (1997)",198.5,52
+"442",1518,"Breakdown (1997)",592,135
+"443",1529,"Nowhere (1997)",46.5,13
+"444",1535,"Love! Valour! Compassion! (1997)",0,0
+"445",1539,"Twin Town (1997)",176,45
+"446",1541,"Addicted to Love (1997)",38.5,10
+"447",1549,"Rough Magic (1995)",70.5,17
+"448",1550,"Trial and Error (1997)",0,0
+"449",1554,"Pillow Book, The (1996)",33,11
+"450",1569,"My Best Friend's Wedding (1997)",80.5,19
+"451",1570,"Tetsuo II: Body Hammer (1992)",152.5,39
+"452",1571,"When the Cat's Away (Chacun cherche son chat) (1996)",269,65
+"453",1582,"Wild America (1997)",140.5,34
+"454",1583,"Simple Wish, A (1997)",91.5,24
+"455",1584,"Contact (1997)",407,101
+"456",1586,"G.I. Jane (1997)",458.5,112
+"457",1588,"George of the Jungle (1997)",125,33
+"458",1592,"Air Bud (1997)",633.5,165
+"459",1593,"Picture Perfect (1997)",221.5,57
+"460",1594,"In the Company of Men (1997)",202,49
+"461",1600,"She's So Lovely (1997)",71,19
+"462",1604,"Money Talks (1997)",44,11
+"463",1605,"Excess Baggage (1997)",302.5,74
+"464",1606,"Kull the Conqueror (1997)",45,12
+"465",1608,"Air Force One (1997)",79,19
+"466",1609,"187 (One Eight Seven) (1997)",93,23
+"467",1611,"My Own Private Idaho (1991)",86.5,21
+"468",1615,"Edge, The (1997)",179,46
+"469",1629,"MatchMaker, The (1997)",87.5,24
+"470",1631,"Assignment, The (1997)",149.5,35
+"471",1632,"Smile Like Yours, A (1997)",77,19
+"472",1636,"Stag (1997)",59,15
+"473",1641,"Full Monty, The (1997)",20,7
+"474",1642,"Indian Summer (a.k.a. Alive & Kicking) (1996)",341,87
+"475",1643,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",0,0
+"476",1648,"House of Yes, The (1997)",0,0
+"477",1657,"Wonderland (1997)",0,0
+"478",1658,"Life Less Ordinary, A (1997)",175,55
+"479",1663,"Stripes (1981)",9,4
+"480",1667,"Mad City (1997)",1,1
+"481",1670,"Welcome to Sarajevo (1997)",1,1
+"482",1676,"Starship Troopers (1997)",191.5,51
+"483",1678,"Joy Luck Club, The (1993)",47,15
+"484",1680,"Sliding Doors (1998)",4,1
+"485",1683,"Wings of the Dove, The (1997)",0,0
+"486",1684,"Mrs. Dalloway (1997)",171.5,52
+"487",1686,"Red Corner (1997)",30,8
+"488",1687,"Jackal, The (1997)",16,4
+"489",1692,"Alien Escape (1995)",136,37
+"490",1693,"Amistad (1997)",28,9
+"491",1696,"Bent (1997)",80,21
+"492",1699,"Butcher Boy, The (1997)",9,2
+"493",1701,"Deconstructing Harry (1997)",84,25
+"494",1704,"Good Will Hunting (1997)",38.5,13
+"495",1707,"Home Alone 3 (1997)",79.5,20
+"496",1713,"Mouse Hunt (1997)",318,82
+"497",1721,"Titanic (1997)",0,0
+"498",1727,"Horse Whisperer, The (1998)",23.5,7
+"499",1732,"Big Lebowski, The (1998)",0,0
+"500",1733,"Afterglow (1997)",5,2
+"501",1734,"My Life in Pink (Ma vie en rose) (1997)",217,66
+"502",1735,"Great Expectations (1998)",143.5,47
+"503",1755,"Shooting Fish (1997)",46.5,19
+"504",1757,"Fallen Angels (Duo luo tian shi) (1995)",0,0
+"505",1767,"Music From Another Room (1998)",408,108
+"506",1777,"Wedding Singer, The (1998)",239.5,80
+"507",1779,"Sphere (1998)",27,8
+"508",1785,"King of New York (1990)",48,14
+"509",1788,"Men with Guns (1997)",184.5,51
+"510",1794,"Love and Death on Long Island (1997)",35,10
+"511",1796,"In God's Hands (1998)",28,8
+"512",1797,"Everest (1998)",0,0
+"513",1804,"Newton Boys, The (1998)",13,4
+"514",1809,"Fireworks (Hana-bi) (1997)",11,4
+"515",1810,"Primary Colors (1998)",104,25
+"516",1816,"Two Girls and a Guy (1997)",14,4
+"517",1819,"Storefront Hitchcock (1997)",37,10
+"518",1821,"Object of My Affection, The (1998)",7,2
+"519",1822,"Meet the Deedles (1998)",70,22
+"520",1824,"Homegrown (1998)",2,1
+"521",1826,"Barney's Great Adventure (1998)",0,0
+"522",1827,"Big One, The (1997)",36,10
+"523",1836,"Last Days of Disco, The (1998)",0,0
+"524",1841,"Gingerbread Man, The (1998)",5,1
+"525",1844,"Live Flesh (Carne trémula) (1997)",47.5,13
+"526",1852,"Love Walked In (1998)",3,1
+"527",1854,"Kissing a Fool (1998)",0,0
+"528",1858,"Mr. Nice Guy (Yat goh ho yan) (1997)",10.5,3
+"529",1861,"Junk Mail (Budbringeren) (1997)",12,4
+"530",1862,"Species II (1998)",94.5,28
+"531",1870,"Dancer, Texas Pop. 81 (1998)",34.5,9
+"532",1874,"Still Breathing (1997)",0,0
+"533",1878,"Woo (1998)",0,0
+"534",1891,"Ugly, The (1997)",0,0
+"535",1897,"High Art (1998)",0,0
+"536",1900,"Children of Heaven, The (Bacheha-Ye Aseman) (1997)",7,3
+"537",1902,"Dream for an Insomniac (1996)",0,0
+"538",1904,"Henry Fool (1997)",4,1
+"539",1913,"Picnic at Hanging Rock (1975)",0,0
+"540",1914,"Smoke Signals (1998)",107.5,35
+"541",1916,"Buffalo '66 (a.k.a. Buffalo 66) (1998)",21.5,6
+"542",1919,"Madeline (1998)",29.5,9
+"543",1923,"There's Something About Mary (1998)",25.5,8
+"544",1924,"Plan 9 from Outer Space (1959)",45,15
+"545",1928,"Cimarron (1931)",0,0
+"546",1929,"Grand Hotel (1932)",4,1
+"547",1931,"Mutiny on the Bounty (1935)",0,0
+"548",1932,"Great Ziegfeld, The (1936)",2,2
+"549",1934,"You Can't Take It with You (1938)",8.5,3
+"550",1936,"Mrs. Miniver (1942)",56.5,28
+"551",1939,"Best Years of Our Lives, The (1946)",3.5,2
+"552",1945,"On the Waterfront (1954)",10,3
+"553",1946,"Marty (1955)",0,0
+"554",1950,"In the Heat of the Night (1967)",146.5,45
+"555",1951,"Oliver! (1968)",0,0
+"556",1958,"Terms of Endearment (1983)",0,0
+"557",1959,"Out of Africa (1985)",0,0
+"558",1963,"Take the Money and Run (1969)",13,6
+"559",1964,"Klute (1971)",434,118
+"560",1965,"Repo Man (1984)",0,0
+"561",1968,"Breakfast Club, The (1985)",5,1
+"562",1970,"Nightmare on Elm Street 3: Dream Warriors, A (1987)",0,0
+"563",1971,"Nightmare on Elm Street 4: The Dream Master, A (1988)",0,0
+"564",1988,"Prom Night II (1987)",0,0
+"565",1991,"Child's Play (1988)",20,6
+"566",1992,"Child's Play 2 (1990)",4,1
+"567",1994,"Poltergeist (1982)",0,0
+"568",1995,"Poltergeist II: The Other Side (1986)",0,0
+"569",1996,"Poltergeist III (1988)",0,0
+"570",1997,"Exorcist, The (1973)",0,0
+"571",2003,"Gremlins (1984)",112,32
+"572",2004,"Gremlins 2: The New Batch (1990)",0,0
+"573",2010,"Metropolis (1927)",286.5,83
+"574",2020,"Dangerous Liaisons (1988)",3,2
+"575",2021,"Dune (1984)",343,92
+"576",2024,"Rapture, The (1991)",80,24
+"577",2025,"Lolita (1997)",52.5,17
+"578",2026,"Disturbing Behavior (1998)",64.5,19
+"579",2027,"Jane Austen's Mafia! (1998)",68,23
+"580",2029,"Billy's Hollywood Screen Kiss (1997)",19.5,7
+"581",2031,"Million Dollar Duck, The (a.k.a. $1,000,000 Duck) (1971)",19.5,7
+"582",2032,"Barefoot Executive, The (1971)",48,14
+"583",2034,"Black Hole, The (1979)",7,3
+"584",2035,"Blackbeard's Ghost (1968)",147.5,44
+"585",2036,"Blank Check (1994)",15,4
+"586",2039,"Cheetah (1989)",14,4
+"587",2040,"Computer Wore Tennis Shoes, The (1969)",2,2
+"588",2042,"D2: The Mighty Ducks (1994)",6,2
+"589",2044,"Devil and Max Devlin, The (1981)",9,4
+"590",2049,"Happiest Millionaire, The (1967)",49,12
+"591",2056,"In Search of the Castaways (1962)",0,0
+"592",2057,"Incredible Journey, The (1963)",65.5,19
+"593",2062,"Governess, The (1998)",11.5,5
+"594",2063,"Seventh Heaven (Septième ciel, Le) (1997)",4,1
+"595",2075,"Mephisto (1981)",2,2
+"596",2077,"Journey of Natty Gann, The (1985)",0,0
+"597",2082,"Mighty Ducks, The (1992)",40.5,10
+"598",2084,"Newsies (1992)",207.5,60
+"599",2086,"One Magic Christmas (1985)",16,6
+"600",2091,"Return from Witch Mountain (1978)",8,2
+"601",2095,"Shaggy D.A., The (1976)",0,0
+"602",2098,"Son of Flubber (1963)",0,0
+"603",2101,"Squanto: A Warrior's Tale (1994)",0,0
+"604",2106,"Swing Kids (1993)",22,8
+"605",2107,"Halloween H20: 20 Years Later (Halloween 7: The Revenge of Laurie Strode) (1998)",5.5,3
+"606",2108,"L.A. Story (1991)",4,1
+"607",2112,"Grand Canyon (1991)",243,62
+"608",2113,"Graveyard Shift (Stephen King's Graveyard Shift) (1990)",226.5,56
+"609",2117,"1984 (Nineteen Eighty-Four) (1984)",78.5,21
+"610",2120,"Needful Things (1993)",17,9
+"611",2121,"Cujo (1983)",532.5,137
+"612",2122,"Children of the Corn (1984)",37.5,10
+"613",2133,"Adventures in Babysitting (1987)",5,1
+"614",2136,"Nutty Professor, The (1963)",0,0
+"615",2137,"Charlotte's Web (1973)",2,1
+"616",2140,"Dark Crystal, The (1982)",33,9
+"617",2144,"Sixteen Candles (1984)",13,5
+"618",2146,"St. Elmo's Fire (1985)",0,0
+"619",2150,"Gods Must Be Crazy, The (1980)",0,0
+"620",2152,"Air Bud: Golden Receiver (1998)",67.5,20
+"621",2153,"Avengers, The (1998)",0,0
+"622",2154,"How Stella Got Her Groove Back (1998)",40,16
+"623",2155,"Slums of Beverly Hills, The (1998)",0,0
+"624",2163,"Attack of the Killer Tomatoes! (1978)",96.5,23
+"625",2165,"Your Friends and Neighbors (1998)",546.5,164
+"626",2168,"Dance with Me (1998)",0,0
+"627",2170,"Wrongfully Accused (1998)",13.5,7
+"628",2174,"Beetlejuice (1988)",210.5,57
+"629",2177,"Family Plot (1976)",1,1
+"630",2184,"Trouble with Harry, The (1955)",0,0
+"631",2202,"Lifeboat (1944)",2,1
+"632",2204,"Saboteur (1942)",20.5,7
+"633",2205,"Mr. & Mrs. Smith (1941)",30,10
+"634",2212,"Man Who Knew Too Much, The (1934)",0,0
+"635",2215,"Rich and Strange (1931)",23.5,13
+"636",2219,"Murder! (1930)",0,0
+"637",2221,"Blackmail (1929)",12.5,4
+"638",2238,"Seven Beauties (Pasqualino Settebellezze) (1976)",0,0
+"639",2239,"Swept Away (Travolti da un insolito destino nell'azzurro mare d'Agosto) (1975)",23.5,9
+"640",2244,"Allnighter, The (1987)",0,0
+"641",2252,"Hero (1992)",0,0
+"642",2253,"Toys (1992)",0,0
+"643",2256,"Parasite (1982)",368.5,99
+"644",2257,"No Small Affair (1984)",19,5
+"645",2259,"Blame It on Rio (1984)",0,0
+"646",2260,"Wisdom (1986)",0,0
+"647",2264,"We're No Angels (1989)",13,4
+"648",2265,"Nothing But Trouble (1991)",74,22
+"649",2266,"Butcher's Wife, The (1991)",0,0
+"650",2267,"Mortal Thoughts (1991)",22.5,6
+"651",2269,"Indecent Proposal (1993)",2,1
+"652",2279,"Urban Legend (1998)",0,0
+"653",2282,"Pecker (1998)",126,39
+"654",2290,"Stardust Memories (1980)",0,0
+"655",2292,"Overnight Delivery (1998)",0,0
+"656",2301,"History of the World: Part I (1981)",28,9
+"657",2303,"Nashville (1975)",0,0
+"658",2307,"One Tough Cop (1998)",36,9
+"659",2318,"Happiness (1998)",78,23
+"660",2320,"Apt Pupil (1998)",26,9
+"661",2328,"Vampires (1998)",0,0
+"662",2329,"American History X (1998)",12,3
+"663",2330,"Hands on a Hard Body (1996)",49.5,12
+"664",2334,"Siege, The (1998)",27,10
+"665",2339,"I'll Be Home For Christmas (1998)",0,0
+"666",2342,"Hard Core Logo (1996)",12,5
+"667",2349,"Mona Lisa (1986)",2,1
+"668",2352,"Big Chill, The (1983)",3,1
+"669",2353,"Enemy of the State (1998)",19,6
+"670",2365,"King Kong vs. Godzilla (Kingukongu tai Gojira) (1962)",151,48
+"671",2368,"King Kong Lives (1986)",0,0
+"672",2374,"Gung Ho (1986)",88,24
+"673",2377,"Lifeforce (1985)",44,15
+"674",2378,"Police Academy (1984)",18,6
+"675",2379,"Police Academy 2: Their First Assignment (1985)",0,0
+"676",2380,"Police Academy 3: Back in Training (1986)",2,1
+"677",2381,"Police Academy 4: Citizens on Patrol (1987)",75,23
+"678",2382,"Police Academy 5: Assignment: Miami Beach (1988)",0,0
+"679",2383,"Police Academy 6: City Under Siege (1989)",67,23
+"680",2385,"Home Fries (1998)",3,1
+"681",2386,"Jerry Springer: Ringmaster (1998)",22.5,7
+"682",2387,"Very Bad Things (1998)",0,0
+"683",2388,"Steam: The Turkish Bath (Hamam) (1997)",0,0
+"684",2394,"Prince of Egypt, The (1998)",0,0
+"685",2395,"Rushmore (1998)",0,0
+"686",2398,"Miracle on 34th Street (1947)",151.5,47
+"687",2407,"Cocoon (1985)",128.5,42
+"688",2408,"Cocoon: The Return (1988)",8,2
+"689",2409,"Rocky II (1979)",47,17
+"690",2410,"Rocky III (1982)",149.5,40
+"691",2411,"Rocky IV (1985)",11,3
+"692",2412,"Rocky V (1990)",437,123
+"693",2415,"Violets Are Blue... (1986)",2,1
+"694",2417,"Heartburn (1986)",3,1
+"695",2419,"Extremities (1986)",0,0
+"696",2424,"You've Got Mail (1998)",31,8
+"697",2428,"Faculty, The (1998)",28,7
+"698",2431,"Patch Adams (1998)",26.5,6
+"699",2443,"Playing by Heart (1998)",185,46
+"700",2446,"In Dreams (1999)",119,31
+"701",2447,"Varsity Blues (1999)",120.5,31
+"702",2448,"Virus (1999)",165.5,42
+"703",2453,"Boy Who Could Fly, The (1986)",472,119
+"704",2456,"Fly II, The (1989)",58.5,15
+"705",2457,"Running Scared (1986)",118,32
+"706",2458,"Armed and Dangerous (1986)",43,12
+"707",2469,"Peggy Sue Got Married (1986)",13,6
+"708",2470,"Crocodile Dundee (1986)",10,6
+"709",2476,"Heartbreak Ridge (1986)",25.5,8
+"710",2478,"¡Three Amigos! (1986)",15,8
+"711",2479,"Gloria (1999)",11,5
+"712",2481,"My Name Is Joe (1998)",7,2
+"713",2482,"Still Crazy (1998)",10,4
+"714",2485,"She's All That (1999)",2,1
+"715",2486,"24 Hour Woman, The (1998)",3,1
+"716",2487,"Blood, Guts, Bullets and Octane (1998)",29.5,10
+"717",2490,"Payback (1999)",8,4
+"718",2491,"Simply Irresistible (1999)",141.5,38
+"719",2492,"20 Dates (1998)",19,8
+"720",2495,"Fantastic Planet, The (Planète sauvage, La) (1973)",7,2
+"721",2496,"Blast from the Past (1999)",8,3
+"722",2498,"My Favorite Martian (1999)",183,57
+"723",2502,"Office Space (1999)",187.5,51
+"724",2504,"200 Cigarettes (1999)",188.5,55
+"725",2507,"Breakfast of Champions (1999)",59,17
+"726",2511,"Long Goodbye, The (1973)",103.5,26
+"727",2514,"Pet Sematary II (1992)",307,94
+"728",2523,"Rollercoaster (1977)",92.5,30
+"729",2530,"Beneath the Planet of the Apes (1970)",753.5,191
+"730",2531,"Battle for the Planet of the Apes (1973)",21,5
+"731",2532,"Conquest of the Planet of the Apes (1972)",0,0
+"732",2533,"Escape from the Planet of the Apes (1971)",6.5,2
+"733",2549,"Wing Commander (1999)",28.5,8
+"734",2550,"Haunting, The (1963)",9,4
+"735",2557,"I Stand Alone (Seul contre tous) (1998)",17,6
+"736",2558,"Forces of Nature (1999)",15,4
+"737",2559,"King and I, The (1999)",23,7
+"738",2560,"Ravenous (1999)",40,17
+"739",2561,"True Crime (1999)",208.5,76
+"740",2566,"Doug's 1st Movie (1999)",119.5,33
+"741",2568,"Mod Squad, The (1999)",36.5,12
+"742",2570,"Walk on the Moon, A (1999)",4,2
+"743",2572,"10 Things I Hate About You (1999)",184.5,42
+"744",2573,"Tango (1998)",76,21
+"745",2577,"Metroland (1997)",42,10
+"746",2580,"Go (1999)",52.5,13
+"747",2581,"Never Been Kissed (1999)",30,8
+"748",2582,"Twin Dragons (Shuang long hui) (1992)",58,19
+"749",2583,"Cookie's Fortune (1999)",20,5
+"750",2585,"Lovers of the Arctic Circle, The (Los Amantes del Círculo Polar) (1998)",4,1
+"751",2596,"SLC Punk! (1998)",188,51
+"752",2597,"Lost & Found (1999)",287,78
+"753",2605,"Entrapment (1999)",138.5,41
+"754",2606,"Idle Hands (1999)",5,1
+"755",2607,"Get Real (1998)",138,38
+"756",2612,"Mildred Pierce (1945)",12,3
+"757",2615,"My Science Project (1985)",32,9
+"758",2616,"Dick Tracy (1990)",104.5,32
+"759",2620,"This Is My Father (1998)",22.5,6
+"760",2622,"William Shakespeare's A Midsummer Night's Dream (1999)",37,10
+"761",2624,"After Life (Wandafuru raifu) (1998)",164.5,52
+"762",2627,"Endurance (1999)",3,1
+"763",2629,"Love Letter, The (1999)",163.5,47
+"764",2633,"Mummy, The (1932)",144,39
+"765",2641,"Superman II (1980)",65,19
+"766",2656,"Tarantula (1955)",0,0
+"767",2659,"It Came from Hollywood (1982)",22.5,5
+"768",2660,"Thing from Another World, The (1951)",96.5,23
+"769",2668,"Swamp Thing (1982)",48.5,18
+"770",2671,"Notting Hill (1999)",87,27
+"771",2674,"Loss of Sexual Innocence, The (1999)",39,12
+"772",2676,"Instinct (1999)",50.5,15
+"773",2677,"Buena Vista Social Club (1999)",176,46
+"774",2686,"Red Violin, The (Violon rouge, Le) (1998)",4,2
+"775",2690,"Ideal Husband, An (1999)",28,13
+"776",2692,"Run Lola Run (Lola rennt) (1998)",33,10
+"777",2699,"Arachnophobia (1990)",134.5,36
+"778",2704,"Lovers on the Bridge, The (Amants du Pont-Neuf, Les) (1991)",2,2
+"779",2706,"American Pie (1999)",27.5,7
+"780",2709,"Muppets From Space (1999)",13.5,4
+"781",2713,"Lake Placid (1999)",15.5,4
+"782",2715,"Velocity of Gary, The (1998)",10.5,3
+"783",2719,"Haunting, The (1999)",8.5,2
+"784",2721,"Trick (1999)",0,0
+"785",2724,"Runaway Bride (1999)",8,2
+"786",2726,"Killing, The (1956)",29.5,8
+"787",2727,"Killer's Kiss (1955)",0,0
+"788",2729,"Lolita (1962)",8,2
+"789",2731,"400 Blows, The (Les quatre cents coups) (1959)",4,1
+"790",2732,"Jules and Jim (Jules et Jim) (1961)",2,1
+"791",2738,"Crimes of the Heart (1986)",19.5,7
+"792",2747,"Little Shop of Horrors, The (1960)",4,1
+"793",2749,"Morning After, The (1986)",48,11
+"794",2750,"Radio Days (1987)",44,10
+"795",2751,"From the Hip (1987)",12.5,3
+"796",2752,"Outrageous Fortune (1987)",7,2
+"797",2763,"Thomas Crown Affair, The (1999)",3.5,1
+"798",2766,"Adventures of Sebastian Cole, The (1998)",0,0
+"799",2769,"Yards, The (2000)",0,0
+"800",2774,"Better Than Chocolate (1999)",0,0
+"801",2780,"Raven, The (1963)",0,0
+"802",2790,"Final Conflict, The (a.k.a. Omen III: The Final Conflict) (1981)",0,0
+"803",2798,"Problem Child (1990)",142,36
+"804",2801,"Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997)",2,1
+"805",2804,"Christmas Story, A (1983)",45,13
+"806",2805,"Mickey Blue Eyes (1999)",16,5
+"807",2806,"Teaching Mrs. Tingle (1999)",0,0
+"808",2807,"Universal Soldier: The Return (1999)",46,13
+"809",2808,"Universal Soldier (1992)",55,20
+"810",2812,"In Too Deep (1999)",4,1
+"811",2815,"Iron Eagle (1986)",7,2
+"812",2816,"Iron Eagle II (1988)",0,0
+"813",2822,"Medicine Man (1992)",46,17
+"814",2824,"On the Ropes (1999)",27,8
+"815",2828,"Dudley Do-Right (1999)",16,6
+"816",2837,"Bedrooms & Hallways (1998)",14.5,4
+"817",2840,"Stigmata (1999)",153,43
+"818",2843,"Black Cat, White Cat (Crna macka, beli macor) (1998)",9.5,3
+"819",2844,"Minus Man, The (1999)",6,2
+"820",2845,"Whiteboyz (1999)",0,0
+"821",2849,"Queens Logic (1991)",0,0
+"822",2850,"Public Access (1993)",46,14
+"823",2853,"Alice, Sweet Alice (a.k.a. Communion) (a.k.a. Holy Terror) (1976)",10,3
+"824",2858,"American Beauty (1999)",185,44
+"825",2859,"Stop Making Sense (1984)",26,8
+"826",2861,"For Love of the Game (1999)",4,1
+"827",2872,"Excalibur (1981)",270,76
+"828",2883,"Mumford (1999)",56,15
+"829",2884,"Dog Park (1998)",108,28
+"830",2885,"Guinevere (1999)",7,2
+"831",2886,"Adventures of Elmo in Grouchland, The (1999)",18,6
+"832",2887,"Simon Sez (1999)",39,14
+"833",2888,"Drive Me Crazy (1999)",0,0
+"834",2889,"Mystery, Alaska (1999)",99.5,23
+"835",2892,"New Rose Hotel (1998)",232,64
+"836",2894,"Romance (1999)",2,1
+"837",2897,"And the Ship Sails On (E la nave va) (1983)",398.5,99
+"838",2898,"Dark Half, The (1993)",14.5,4
+"839",2900,"Monkey Shines (1988)",19.5,5
+"840",2901,"Phantasm (1979)",14,4
+"841",2903,"Psycho III (1986)",14,3
+"842",2906,"Random Hearts (1999)",83,23
+"843",2913,"The Mating Habits of the Earthbound Human (1999)",21.5,6
+"844",2917,"Body Heat (1981)",67.5,23
+"845",2920,"Children of Paradise (Les enfants du paradis) (1945)",0,0
+"846",2924,"Drunken Master (Jui kuen) (1978)",10,3
+"847",2926,"Hairspray (1988)",41.5,11
+"848",2927,"Brief Encounter (1946)",3,1
+"849",2929,"Reds (1981)",136,36
+"850",2935,"Lady Eve, The (1941)",379,105
+"851",2938,"Man Facing Southeast (1986)",0,0
+"852",2939,"Niagara (1953)",124,30
+"853",2942,"Flashdance (1983)",11,4
+"854",2943,"Indochine (1992)",42.5,11
+"855",2946,"Help! (1965)",90.5,23
+"856",2951,"Fistful of Dollars, A (Per un pugno di dollari) (1964)",94.5,28
+"857",2953,"Home Alone 2: Lost in New York (1992)",15.5,6
+"858",2961,"Story of Us, The (1999)",60.5,19
+"859",2962,"Fever Pitch (1997)",5,2
+"860",2966,"Straight Story, The (1999)",46,19
+"861",2967,"Bad Seed, The (1956)",27.5,15
+"862",2969,"Man and a Woman, A (Un homme et une femme) (1966)",23.5,13
+"863",2970,"Fitzcarraldo (1982)",20.5,12
+"864",2972,"Red Sorghum (Hong gao liang) (1987)",18,8
+"865",2974,"Bats (1999)",39.5,13
+"866",2975,"Best Man, The (1999)",4,1
+"867",2977,"Crazy in Alabama (1999)",37.5,11
+"868",2978,"Three to Tango (1999)",116.5,31
+"869",2982,"Guardian, The (1990)",123,35
+"870",2992,"Rawhead Rex (1986)",29,13
+"871",2995,"House on Haunted Hill (1999)",233,65
+"872",2998,"Dreaming of Joseph Lees (1999)",59,17
+"873",3004,"Bachelor, The (1999)",30,9
+"874",3006,"Insider, The (1999)",38,14
+"875",3008,"Last Night (1998)",21,6
+"876",3013,"Bride of Re-Animator (1990)",69.5,27
+"877",3019,"Drugstore Cowboy (1989)",0,0
+"878",3020,"Falling Down (1993)",120.5,36
+"879",3022,"General, The (1926)",24,8
+"880",3024,"Piranha (1978)",19,5
+"881",3029,"Nighthawks (1981)",60,19
+"882",3030,"Yojimbo (1961)",15,4
+"883",3033,"Spaceballs (1987)",3,1
+"884",3036,"Quest for Fire (Guerre du feu, La) (1981)",16,4
+"885",3045,"Peter's Friends (1992)",4,2
+"886",3046,"Incredibly True Adventure of Two Girls in Love, The (1995)",21.5,12
+"887",3051,"Anywhere But Here (1999)",23,7
+"888",3053,"Messenger: The Story of Joan of Arc, The (1999)",159.5,47
+"889",3061,"Holiday Inn (1942)",17,5
+"890",3063,"Poison Ivy (1992)",8.5,4
+"891",3064,"Poison Ivy: New Seduction (1997)",74.5,20
+"892",3067,"Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) (1988)",8,2
+"893",3068,"Verdict, The (1982)",0,0
+"894",3071,"Stand and Deliver (1988)",73,22
+"895",3072,"Moonstruck (1987)",194,60
+"896",3075,"Repulsion (1965)",13,4
+"897",3088,"Harvey (1950)",13,4
+"898",3091,"Kagemusha (1980)",92.5,29
+"899",3093,"McCabe & Mrs. Miller (1971)",3,1
+"900",3094,"Maurice (1987)",3,1
+"901",3101,"Fatal Attraction (1987)",8,2
+"902",3103,"Stanley & Iris (1990)",69.5,21
+"903",3105,"Awakenings (1990)",7,3
+"904",3106,"Come See the Paradise (1990)",7,2
+"905",3107,"Backdraft (1991)",6.5,3
+"906",3121,"Hitch-Hiker, The (1953)",54.5,18
+"907",3127,"Holy Smoke (1999)",1.5,2
+"908",3129,"Sweet and Lowdown (1999)",30,9
+"909",3133,"Go West (1925)",50.5,15
+"910",3134,"Grand Illusion (La grande illusion) (1937)",25,9
+"911",3142,"U2: Rattle and Hum (1988)",44,13
+"912",3143,"Hell in the Pacific (1968)",92.5,28
+"913",3144,"Glass Bottom Boat, The (1966)",207,57
+"914",3147,"Green Mile, The (1999)",22,7
+"915",3150,"War Zone, The (1999)",3,1
+"916",3155,"Anna and the King (1999)",4,2
+"917",3161,"Onegin (1999)",0,0
+"918",3165,"Boiling Point (1993)",17,4
+"919",3167,"Carnal Knowledge (1971)",0,0
+"920",3168,"Easy Rider (1969)",4.5,4
+"921",3174,"Man on the Moon (1999)",5,2
+"922",3180,"Play it to the Bone (1999)",33.5,12
+"923",3189,"My Dog Skip (1999)",71,21
+"924",3194,"Way We Were, The (1973)",9.5,6
+"925",3196,"Stalag 17 (1953)",4,1
+"926",3198,"Papillon (1973)",1083.5,259
+"927",3200,"Last Detail, The (1973)",5,1
+"928",3202,"Even Dwarfs Started Small (Auch Zwerge haben klein angefangen) (1971)",33.5,9
+"929",3208,"Loaded Weapon 1 (National Lampoon's Loaded Weapon 1) (1993)",106.5,35
+"930",3213,"Batman: Mask of the Phantasm (1993)",0,0
+"931",3219,"Pacific Heights (1990)",6,2
+"932",3225,"Down to You (2000)",0,0
+"933",3244,"Goodbye Girl, The (1977)",0,0
+"934",3247,"Sister Act (1992)",0,0
+"935",3249,"Hand That Rocks the Cradle, The (1992)",20.5,7
+"936",3251,"Agnes of God (1985)",0,0
+"937",3255,"League of Their Own, A (1992)",34,9
+"938",3258,"Death Becomes Her (1992)",10,3
+"939",3263,"White Men Can't Jump (1992)",13,3
+"940",3268,"Stop! Or My Mom Will Shoot (1992)",4,1
+"941",3272,"Bad Lieutenant (1992)",14,4
+"942",3274,"Single White Female (1992)",3,1
+"943",3285,"Beach, The (2000)",4,1
+"944",3287,"Tigger Movie, The (2000)",34,10
+"945",3299,"Hanging Up (2000)",0,0
+"946",3301,"Whole Nine Yards, The (2000)",5,1
+"947",3304,"Blue Collar (1978)",5,1
+"948",3308,"Flamingo Kid, The (1984)",2,1
+"949",3310,"Kid, The (1921)",3,1
+"950",3314,"Big Trees, The (1952)",200,63
+"951",3316,"Reindeer Games (2000)",0,0
+"952",3317,"Wonder Boys (2000)",12,3
+"953",3318,"Deterrence (1999)",9,2
+"954",3325,"Next Best Thing, The (2000)",0,0
+"955",3326,"What Planet Are You From? (2000)",75.5,19
+"956",3328,"Ghost Dog: The Way of the Samurai (1999)",0,0
+"957",3329,"The Year My Voice Broke (1987)",0,0
+"958",3330,"Splendor in the Grass (1961)",30,10
+"959",3340,"Bride of the Monster (1955)",9.5,2
+"960",3342,"Birdy (1984)",0,0
+"961",3347,"Never Cry Wolf (1983)",5,3
+"962",3357,"East-West (Est-ouest) (1999)",0,0
+"963",3359,"Breaking Away (1979)",84,22
+"964",3360,"Hoosiers (a.k.a. Best Shot) (1986)",101.5,28
+"965",3362,"Dog Day Afternoon (1975)",8.5,3
+"966",3363,"American Graffiti (1973)",85,20
+"967",3364,"Asphalt Jungle, The (1950)",5.5,2
+"968",3365,"Searchers, The (1956)",336,80
+"969",3368,"Big Country, The (1958)",38.5,10
+"970",3370,"Betrayed (1988)",97,29
+"971",3377,"Hangmen Also Die! (1943)",18,5
+"972",3384,"Taking of Pelham One Two Three, The (1974)",180.5,62
+"973",3387,"Who's Harry Crumb? (1989)",60.5,21
+"974",3388,"Harry and the Hendersons (1987)",0,0
+"975",3394,"Blind Date (1987)",4,1
+"976",3397,"Great Muppet Caper, The (1981)",0,0
+"977",3399,"Sesame Street Presents Follow That Bird (1985)",47,21
+"978",3401,"Baby... Secret of the Lost Legend (1985)",8,3
+"979",3404,"Titanic (1953)",118.5,43
+"980",3405,"Night to Remember, A (1958)",45,13
+"981",3409,"Final Destination (2000)",26.5,6
+"982",3417,"Crimson Pirate, The (1952)",18,5
+"983",3420,"...And Justice for All (1979)",7,2
+"984",3422,"She's Gotta Have It (1986)",59,16
+"985",3425,"Mo' Better Blues (1990)",38.5,10
+"986",3426,"Jungle Fever (1991)",7,3
+"987",3429,"Creature Comforts (1989)",52.5,14
+"988",3431,"Death Wish 2 (1982)",16,6
+"989",3432,"Death Wish 3 (1985)",122,31
+"990",3434,"Death Wish 5: The Face of Death (1994)",0,0
+"991",3436,"Dying Young (1991)",0,0
+"992",3445,"Eyes of Laura Mars (1978)",82.5,22
+"993",3446,"Funny Bones (1995)",7,2
+"994",3453,"Here on Earth (2000)",4,1
+"995",3454,"Whatever It Takes (2000)",67.5,22
+"996",3457,"Waking the Dead (2000)",158.5,42
+"997",3459,"Gothic (1986)",775.5,193
+"998",3466,"Heart and Souls (1993)",0,0
+"999",3467,"Hud (1963)",14,6
+"1000",3470,"Dersu Uzala (1975)",18,6
+"1001",3474,"Retroactive (1997)",13,3
+"1002",3475,"Place in the Sun, A (1951)",6,2
+"1003",3476,"Jacob's Ladder (1990)",3,1
+"1004",3477,"Empire Records (1995)",0,0
+"1005",3480,"Lucas (1986)",12.5,3
+"1006",3483,"Road to El Dorado, The (2000)",11.5,3
+"1007",3495,"Roadside Prophets (1992)",14.5,6
+"1008",3500,"Mr. Saturday Night (1992)",110.5,30
+"1009",3501,"Murphy's Romance (1985)",23,9
+"1010",3504,"Network (1976)",3.5,2
+"1011",3506,"North Dallas Forty (1979)",19,5
+"1012",3510,"Frequency (2000)",71.5,23
+"1013",3512,"Return to Me (2000)",5,2
+"1014",3513,"Rules of Engagement (2000)",41,16
+"1015",3515,"Me Myself I (2000)",3,2
+"1016",3518,"End of Violence, The (1997)",0,0
+"1017",3521,"Mystery Train (1989)",0,0
+"1018",3524,"Arthur (1981)",7,4
+"1019",3526,"Parenthood (1989)",0,0
+"1020",3528,"Prince of Tides, The (1991)",9,2
+"1021",3529,"Postman Always Rings Twice, The (1981)",0,0
+"1022",3537,"Where the Money Is (2000)",72.5,25
+"1023",3543,"Diner (1982)",0,0
+"1024",3545,"Cabaret (1972)",3,1
+"1025",3547,"Prick Up Your Ears (1987)",0,0
+"1026",3548,"Auntie Mame (1958)",3,1
+"1027",3553,"Gossip (2000)",66,24
+"1028",3554,"Love and Basketball (2000)",83.5,22
+"1029",3556,"Virgin Suicides, The (1999)",14,3
+"1030",3557,"Jennifer 8 (1992)",10,3
+"1031",3563,"Crow: Salvation, The (2000)",11,3
+"1032",3564,"Flintstones in Viva Rock Vegas, The (2000)",4,1
+"1033",3565,"Where the Heart Is (2000)",2,1
+"1034",3566,"Big Kahuna, The (2000)",2,1
+"1035",3568,"Smiling Fish and Goat on Fire (1999)",22,6
+"1036",3569,"Idiots, The (Idioterne) (1998)",7,2
+"1037",3571,"Time Code (2000)",0,0
+"1038",3572,"Carnosaur (1993)",4,1
+"1039",3573,"Carnosaur 2 (1995)",17,5
+"1040",3574,"Carnosaur 3: Primal Species (1996)",79.5,21
+"1041",3577,"Two Moon Junction (1988)",33,10
+"1042",3588,"King of Marvin Gardens, The (1972)",32.5,10
+"1043",3590,"Lords of Flatbush, The (1974)",6,2
+"1044",3591,"Mr. Mom (1983)",1,1
+"1045",3593,"Battlefield Earth (2000)",27.5,8
+"1046",3594,"Center Stage (2000)",126,32
+"1047",3599,"Anchors Aweigh (1945)",9,2
+"1048",3600,"Blue Hawaii (1961)",62,18
+"1049",3608,"Pee-wee's Big Adventure (1985)",5,1
+"1050",3614,"Honeymoon in Vegas (1992)",7,2
+"1051",3616,"Loser (2000)",5,2
+"1052",3618,"Small Time Crooks (2000)",26,7
+"1053",3620,"Myth of Fingerprints, The (1997)",16.5,6
+"1054",3621,"Possession (1981)",8,3
+"1055",3627,"Carnival of Souls (1962)",5,1
+"1056",3632,"Monsieur Verdoux (1947)",9,3
+"1057",3640,"King in New York, A (1957)",18,6
+"1058",3658,"Quatermass and the Pit (1967)",370.5,104
+"1059",3659,"Quatermass 2 (Enemy from Space) (1957)",93.5,22
+"1060",3668,"Romeo and Juliet (1968)",27.5,6
+"1061",3671,"Blazing Saddles (1974)",77,21
+"1062",3672,"Benji (1974)",9,2
+"1063",3673,"Benji the Hunted (1987)",11,3
+"1064",3676,"Eraserhead (1977)",0,0
+"1065",3679,"Decline of Western Civilization, The (1981)",0,0
+"1066",3684,"Fabulous Baker Boys, The (1989)",6,2
+"1067",3692,"Class of Nuke 'Em High (1986)",197,53
+"1068",3693,"Toxic Avenger, The (1985)",116.5,32
+"1069",3694,"Toxic Avenger, Part II, The (1989)",113,31
+"1070",3695,"Toxic Avenger Part III: The Last Temptation of Toxie, The (1989)",48,19
+"1071",3698,"Running Man, The (1987)",76.5,31
+"1072",3700,"Brother from Another Planet, The (1984)",0,0
+"1073",3707,"9 1/2 Weeks (Nine 1/2 Weeks) (1986)",14.5,4
+"1074",3708,"Firestarter (1984)",0,0
+"1075",3715,"Burglar (1987)",11,3
+"1076",3717,"Gone in 60 Seconds (2000)",82,20
+"1077",3719,"Love's Labour's Lost (2000)",117,28
+"1078",3724,"Coming Home (1978)",6,2
+"1079",3725,"American Pop (1981)",25.5,8
+"1080",3726,"Assault on Precinct 13 (1976)",4,2
+"1081",3727,"Near Dark (1987)",0,0
+"1082",3730,"Conversation, The (1974)",8,2
+"1083",3731,"Cutter's Way (1981)",5,1
+"1084",3735,"Serpico (1973)",32,8
+"1085",3737,"Lonely Are the Brave (1962)",56,17
+"1086",3739,"Trouble in Paradise (1932)",4,1
+"1087",3742,"Battleship Potemkin (1925)",31.5,16
+"1088",3743,"Boys and Girls (2000)",6,2
+"1089",3752,"Me, Myself & Irene (2000)",7.5,2
+"1090",3755,"Perfect Storm, The (2000)",86.5,30
+"1091",3766,"Missing in Action (1984)",0,0
+"1092",3768,"Braddock: Missing in Action III (1988)",20,6
+"1093",3777,"Nekromantik (1987)",59.5,14
+"1094",3783,"Croupier (1998)",11,3
+"1095",3784,"Kid, The (2000)",3,1
+"1096",3785,"Scary Movie (2000)",0,0
+"1097",3788,"Blow-Up (Blowup) (1966)",7,2
+"1098",3794,"Chuck & Buck (2000)",75,17
+"1099",3799,"Pokémon the Movie 2000 (2000)",20,4
+"1100",3801,"Anatomy of a Murder (1959)",20.5,6
+"1101",3802,"Freejack (1992)",3,1
+"1102",3807,"Sinbad and the Eye of the Tiger (1977)",12,4
+"1103",3810,"White Sands (1992)",1,1
+"1104",3811,"Breaker Morant (1980)",7,2
+"1105",3822,"Girl on the Bridge, The (Fille sur le pont, La) (1999)",0,0
+"1106",3824,"Autumn in New York (2000)",0,0
+"1107",3829,"Mad About Mambo (2000)",45,11
+"1108",3833,"Brain That Wouldn't Die, The (1962)",0,0
+"1109",3841,"Air America (1990)",0,0
+"1110",3848,"Silent Fall (1994)",27.5,7
+"1111",3855,"Affair of Love, An (Liaison pornographique, Une) (1999)",0,0
+"1112",3865,"Original Kings of Comedy, The (2000)",0,0
+"1113",3871,"Shane (1953)",19.5,5
+"1114",3873,"Cat Ballou (1965)",127.5,35
+"1115",3879,"Art of War, The (2000)",180,49
+"1116",3883,"Catfish in Black Bean Sauce (2000)",115,29
+"1117",3891,"Turn It Up (2000)",4,1
+"1118",3895,"Watcher, The (2000)",15,3
+"1119",3896,"Way of the Gun, The (2000)",38.5,19
+"1120",3900,"Crime and Punishment in Suburbia (2000)",11,3
+"1121",3901,"Duets (2000)",4,1
+"1122",3906,"Under Suspicion (2000)",9,3
+"1123",3909,"Woman on Top (2000)",3,1
+"1124",3910,"Dancer in the Dark (2000)",0,0
+"1125",3923,"Return of the Fly (1959)",35.5,9
+"1126",3925,"Stranger Than Paradise (1984)",0,0
+"1127",3926,"Voyage to the Bottom of the Sea (1961)",12,4
+"1128",3927,"Fantastic Voyage (1966)",0,0
+"1129",3928,"Abbott and Costello Meet Frankenstein (1948)",4,1
+"1130",3932,"Invisible Man, The (1933)",4,1
+"1131",3933,"Killer Shrews, The (1959)",5,2
+"1132",3937,"Runaway (1984)",404,103
+"1133",3952,"Contender, The (2000)",3,1
+"1134",3953,"Dr. T and the Women (2000)",0,0
+"1135",3957,"Billy Jack (1971)",5,1
+"1136",3960,"Haunted (1995)",35.5,8
+"1137",3962,"Ghoulies II (1987)",43.5,13
+"1138",3964,"Adventures of Ichabod and Mr. Toad, The (1949)",8.5,2
+"1139",3965,"Strange Love of Martha Ivers, The (1946)",0,0
+"1140",3966,"Detour (1945)",73.5,25
+"1141",3971,"Private Eyes, The (1981)",80,22
+"1142",3972,"Legend of Drunken Master, The (Jui kuen II) (1994)",35.5,11
+"1143",3975,"Lucky Numbers (2000)",23,6
+"1144",3976,"Stardom (2000)",26.5,8
+"1145",3977,"Charlie's Angels (2000)",14,4
+"1146",3978,"Legend of Bagger Vance, The (2000)",0,0
+"1147",3983,"You Can Count on Me (2000)",14,4
+"1148",3985,"Eagle Has Landed, The (1976)",1,1
+"1149",3987,"Bounce (2000)",4,1
+"1150",3991,"102 Dalmatians (2000)",79,20
+"1151",3993,"Quills (2000)",83,21
+"1152",3994,"Unbreakable (2000)",11,3
+"1153",3999,"Vertical Limit (2000)",57.5,15
+"1154",4000,"Bounty, The (1984)",27,7
+"1155",4008,"Born on the Fourth of July (1989)",8,2
+"1156",4012,"Punchline (1988)",0,0
+"1157",4014,"Chocolat (2000)",5,1
+"1158",4015,"Dude, Where's My Car? (2000)",4,1
+"1159",4018,"What Women Want (2000)",0,0
+"1160",4025,"Miss Congeniality (2000)",0,0
+"1161",4029,"State and Main (2000)",0,0
+"1162",4035,"Claim, The (2000)",9,3
+"1163",4036,"Shadow of the Vampire (2000)",0,0
+"1164",4039,"Annie (1982)",12,6
+"1165",4041,"Officer and a Gentleman, An (1982)",5,2
+"1166",4043,"At Close Range (1986)",0,0
+"1167",4047,"Gettysburg (1993)",4.5,1
+"1168",4051,"Horrors of Spider Island (Ein Toter Hing im Netz) (1960)",113,37
+"1169",4053,"Double Take (2001)",58,17
+"1170",4054,"Save the Last Dance (2001)",33,12
+"1171",4061,"The Man in the Moon (1991)",69,22
+"1172",4066,"I'm Gonna Git You Sucka (1988)",79,29
+"1173",4067,"Untamed Heart (1993)",60,21
+"1174",4069,"Wedding Planner, The (2001)",65,17
+"1175",4073,"Invisible Circus, The (2001)",44,12
+"1176",4076,"Two Ninas (1999)",39.5,12
+"1177",4077,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",98,29
+"1178",4079,"Amazon Women on the Moon (1987)",43,15
+"1179",4090,"Brave Little Toaster, The (1987)",76,27
+"1180",4091,"Can't Buy Me Love (1987)",38,11
+"1181",4092,"Cherry 2000 (1987)",77.5,22
+"1182",4102,"Eddie Murphy Raw (1987)",0,0
+"1183",4109,"Flowers in the Attic (1987)",81.5,27
+"1184",4111,"Gardens of Stone (1987)",13,6
+"1185",4124,"Jaws: The Revenge (1987)",2.5,1
+"1186",4130,"Maid to Order (1987)",0,0
+"1187",4132,"Mannequin (1987)",13.5,6
+"1188",4139,"No Man's Land (1987)",1,1
+"1189",4140,"North Shore (1987)",10,3
+"1190",4141,"Head Over Heels (2001)",0,0
+"1191",4143,"Valentine (2001)",92,23
+"1192",4144,"In the Mood For Love (Fa yeung nin wa) (2000)",35,10
+"1193",4148,"Hannibal (2001)",35.5,8
+"1194",4149,"Saving Silverman (Evil Woman) (2001)",0,0
+"1195",4155,"Sweet November (2001)",2.5,1
+"1196",4159,"3000 Miles to Graceland (2001)",134.5,35
+"1197",4161,"Mexican, The (2001)",3,1
+"1198",4166,"Series 7: The Contenders (2001)",9,2
+"1199",4168,"Get Over It (2001)",0,0
+"1200",4173,"When Brendan Met Trudy (2000)",9,3
+"1201",4175,"Gray's Anatomy (1996)",9,3
+"1202",4180,"Reform School Girls (1986)",4,1
+"1203",4183,"Unbelievable Truth, The (1989)",0,0
+"1204",4188,"Hans Christian Andersen (1952)",1,1
+"1205",4195,"Abominable Dr. Phibes, The (1971)",5,2
+"1206",4212,"Death on the Nile (1978)",68,30
+"1207",4218,"River's Edge (1986)",101.5,27
+"1208",4223,"Enemy at the Gates (2001)",53,14
+"1209",4224,"Exit Wounds (2001)",0,0
+"1210",4226,"Memento (2000)",17.5,4
+"1211",4229,"Say It Isn't So (2001)",4,1
+"1212",4231,"Someone Like You (2001)",15,4
+"1213",4234,"Tailor of Panama, The (2001)",0,0
+"1214",4235,"Amores Perros (Love's a Bitch) (2000)",0,0
+"1215",4239,"Blow (2001)",20.5,6
+"1216",4241,"Pokémon 3: The Movie (2001)",2.5,1
+"1217",4251,"Chopper (2000)",12.5,3
+"1218",4254,"Crocodile Dundee in Los Angeles (2001)",160.5,42
+"1219",4265,"Driven (2001)",3,2
+"1220",4274,"Cleopatra (1963)",34.5,10
+"1221",4277,"Lost World, The (1925)",4,2
+"1222",4282,"Fellini Satyricon (1969)",28.5,8
+"1223",4291,"Nine to Five (a.k.a. 9 to 5) (1980)",302,85
+"1224",4296,"Love Story (1970)",29.5,8
+"1225",4305,"Angel Eyes (2001)",0,0
+"1226",4312,"Himalaya (Himalaya - l'enfance d'un chef) (1999)",4,1
+"1227",4317,"Love Potion #9 (1992)",3,1
+"1228",4318,"Postcards From the Edge (1990)",20.5,6
+"1229",4321,"City Slickers (1991)",9,3
+"1230",4324,"Kentuckian, The (1955)",18,7
+"1231",4327,"Magnificent Seven, The (1960)",1,1
+"1232",4333,"Throw Momma from the Train (1987)",133,32
+"1233",4338,"Twelve O'Clock High (1949)",53.5,18
+"1234",4342,"Big Eden (2000)",38.5,14
+"1235",4343,"Evolution (2001)",5,2
+"1236",4347,"Divided We Fall (Musíme si pomáhat) (2000)",25.5,9
+"1237",4349,"Catch-22 (1970)",3,1
+"1238",4350,"Forgotten Silver (1996)",5,1
+"1239",4352,"Shag (1989)",7,2
+"1240",4353,"Uncommon Valor (1983)",99.5,31
+"1241",4354,"Unlawful Entry (1992)",66,18
+"1242",4355,"Youngblood (1986)",58,19
+"1243",4361,"Tootsie (1982)",23,6
+"1244",4367,"Lara Croft: Tomb Raider (2001)",8,2
+"1245",4371,"Baby Boy (2001)",1,1
+"1246",4372,"Crazy/Beautiful (2001)",0,0
+"1247",4375,"Adventures of Felix, The (a.k.a. Funny Felix) (Drôle de Félix) (2000)",4,1
+"1248",4378,"Sexy Beast (2000)",17,5
+"1249",4380,"Princess and the Warrior, The (Krieger und die Kaiserin, Der) (2000)",65.5,17
+"1250",4386,"Cats & Dogs (2001)",242,62
+"1251",4394,"Beach Blanket Bingo (1965)",40,12
+"1252",4396,"Cannonball Run, The (1981)",73,21
+"1253",4397,"Cannonball Run II (1984)",26,7
+"1254",4399,"Diary of a Chambermaid (Journal d'une femme de chambre, Le) (1964)",348.5,88
+"1255",4414,"X: The Man with the X-Ray Eyes (1963)",4,1
+"1256",4432,"Sweet Smell of Success (1957)",31,8
+"1257",4440,"Big Boss, The (Fists of Fury) (Tang shan da xiong) (1971)",43,11
+"1258",4444,"Way of the Dragon, The (a.k.a. Return of the Dragon) (Meng long guo jiang) (1972)",10,3
+"1259",4447,"Legally Blonde (2001)",67.5,19
+"1260",4448,"Score, The (2001)",23,7
+"1261",4453,"Michael Jordan to the Max (2000)",0,0
+"1262",4458,"Africa: The Serengeti (1994)",21,6
+"1263",4459,"Alaska: Spirit of the Wild (1997)",8,3
+"1264",4462,"18 Again! (1988)",43,11
+"1265",4469,"Appointment with Death (1988)",82.5,23
+"1266",4471,"Arthur 2: On the Rocks (1988)",37.5,14
+"1267",4473,"Bat*21 (1988)",32.5,9
+"1268",4475,"Beast of War, The (Beast, The) (1988)",2,1
+"1269",4478,"Biloxi Blues (1988)",0,0
+"1270",4479,"Bird (1988)",70.5,24
+"1271",4480,"Blob, The (1988)",165.5,51
+"1272",4487,"Cocktail (1988)",12.5,3
+"1273",4489,"Coming to America (1988)",0,0
+"1274",4492,"Critters (1986)",11,3
+"1275",4495,"Crossing Delancey (1988)",61.5,16
+"1276",4500,"Drowning by Numbers (1988)",11,3
+"1277",4501,"Elvira, Mistress of the Dark (1988)",66.5,17
+"1278",4502,"Ernest Saves Christmas (1988)",185,54
+"1279",4518,"The Lair of the White Worm (1988)",4,1
+"1280",4527,"Night in the Life of Jimmy Reardon, A (1988)",3,1
+"1281",4529,"Bagdad Cafe (Out of Rosenheim) (1987)",0,0
+"1282",4532,"Return of the Living Dead Part II (1988)",3,2
+"1283",4538,"Salome's Last Dance (1988)",14,4
+"1284",4539,"Salsa (1988)",638.5,161
+"1285",4543,"Shoot to Kill (1988)",5,1
+"1286",4544,"Short Circuit 2 (1988)",24,6
+"1287",4545,"Short Circuit (1986)",0,0
+"1288",4546,"Vanishing, The (Spoorloos) (1988)",0,0
+"1289",4560,"Watchers (1988)",59.5,18
+"1290",4561,"Waxwork (1988)",0,0
+"1291",4562,"Without a Clue (1988)",23,19
+"1292",4565,"American Ninja (1985)",1,1
+"1293",4566,"American Ninja 2: The Confrontation (1987)",0,0
+"1294",4567,"American Ninja 3: Blood Hunt (1989)",23,6
+"1295",4570,"Big Picture, The (1989)",0,0
+"1296",4573,"Blaze (1989)",19,5
+"1297",4577,"Casualties of War (1989)",3,2
+"1298",4578,"Chances Are (1989)",37,9
+"1299",4600,"Gross Anatomy (a.k.a. A Cut Above) (1989)",39.5,13
+"1300",4603,"Her Alibi (1989)",114,37
+"1301",4605,"How to Get Ahead in Advertising (1989)",32.5,10
+"1302",4608,"Innocent Man, An (1989)",6,2
+"1303",4621,"Look Who's Talking (1989)",44.5,11
+"1304",4628,"New York Stories (1989)",0,0
+"1305",4632,"Package, The (1989)",63,18
+"1306",4634,"Penn & Teller Get Killed (1989)",6.5,2
+"1307",4639,"America's Sweethearts (2001)",7,2
+"1308",4641,"Ghost World (2001)",0,0
+"1309",4654,"Road House (1989)",0,0
+"1310",4662,"See No Evil, Hear No Evil (1989)",6,2
+"1311",4664,"Shirley Valentine (1989)",7,2
+"1312",4670,"Stepfather, The (1987)",3,1
+"1313",4675,"Three Fugitives (1989)",0,0
+"1314",4677,"Turner & Hooch (1989)",44,13
+"1315",4681,"War of the Roses, The (1989)",28.5,8
+"1316",4682,"Warlock (1989)",7,2
+"1317",4686,"Weekend at Bernie's II (1993)",39,11
+"1318",4688,"Black Robe (1991)",34.5,8
+"1319",4690,"Cotton Club, The (1984)",17,5
+"1320",4691,"Def-Con 4 (1985)",18.5,4
+"1321",4697,"Basket Case (1982)",19,7
+"1322",4698,"Orphans (1997)",103,24
+"1323",4701,"Rush Hour 2 (2001)",71.5,20
+"1324",4704,"Hatari! (1962)",35,12
+"1325",4710,"Shootist, The (1976)",7,2
+"1326",4713,"Altered States (1980)",5,2
+"1327",4717,"Battle Creek Brawl (Big Brawl, The) (1980)",76.5,24
+"1328",4725,"Session 9 (2001)",51,14
+"1329",4734,"Jay and Silent Bob Strike Back (2001)",41,12
+"1330",4738,"Happy Accidents (2000)",7,2
+"1331",4740,"Maybe Baby (2000)",155.5,56
+"1332",4743,"Tortilla Soup (2001)",2,1
+"1333",4750,"3 Ninjas Knuckle Up (1995)",53.5,13
+"1334",4751,"Hunter, The (1980)",12.5,4
+"1335",4753,"Vamp (1986)",17.5,5
+"1336",4767,"Abbott and Costello Meet the Mummy (1955)",25.5,7
+"1337",4774,"Big Trouble (2002)",60.5,16
+"1338",4782,"Sidewalks of New York (2001)",76,23
+"1339",4796,"Grass Is Greener, The (1960)",119,43
+"1340",4798,"Indiscreet (1958)",214,65
+"1341",4803,"Play Misty for Me (1971)",7,2
+"1342",4804,"Pocketful of Miracles (1961)",7,2
+"1343",4811,"Quadrophenia (1979)",72,21
+"1344",4812,"SpaceCamp (1986)",10.5,5
+"1345",4821,"Joy Ride (2001)",16,5
+"1346",4822,"Max Keeble's Big Move (2001)",10,3
+"1347",4823,"Serendipity (2001)",13,4
+"1348",4830,"Brubaker (1980)",15,6
+"1349",4831,"Can't Stop the Music (1980)",4.5,2
+"1350",4836,"Competition, The (1980)",0,0
+"1351",4840,"Last Metro, The (Dernier métro, Le) (1980)",0,0
+"1352",4842,"Dogs of War, The (1980)",0,0
+"1353",4846,"Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993)",6,2
+"1354",4849,"My First Mister (2001)",16,5
+"1355",4857,"Fiddler on the Roof (1971)",4,1
+"1356",4859,"Kansas (1988)",85,24
+"1357",4861,"Mission to Mir (1997)",13,3
+"1358",4863,"Female Trouble (1975)",17,5
+"1359",4867,"Riding in Cars with Boys (2001)",0,0
+"1360",4875,"On the Line (2001)",2,1
+"1361",4876,"Thirteen Ghosts (a.k.a. Thir13en Ghosts) (2001)",54.5,15
+"1362",4881,"Man Who Wasn't There, The (2001)",7,2
+"1363",4889,"Heist (2001)",97,29
+"1364",4893,"When a Stranger Calls (1979)",35.5,9
+"1365",4897,"Fluffer, The (2001)",53.5,13
+"1366",4920,"Now, Voyager (1942)",11.5,5
+"1367",4921,"Little Women (1933)",79,27
+"1368",4923,"Guadalcanal Diary (1943)",65.5,30
+"1369",4932,"Dressed to Kill (1980)",3,1
+"1370",4933,"Earthling, The (1980)",9.5,3
+"1371",4936,"Fame (1980)",12,4
+"1372",4949,"Invasion U.S.A. (1985)",1,1
+"1373",4952,"Morons From Outer Space (1985)",21,9
+"1374",4954,"Ocean's Eleven (a.k.a. Ocean's 11) (1960)",0,0
+"1375",4957,"Sudden Impact (1983)",72,20
+"1376",4963,"Ocean's Eleven (2001)",4,1
+"1377",4967,"No Man's Land (2001)",5,1
+"1378",4969,"And Then There Were None (1945)",0,0
+"1379",4971,"Moscow on the Hudson (1984)",7.5,2
+"1380",4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",8.5,4
+"1381",4979,"Royal Tenenbaums, The (2001)",100.5,34
+"1382",4992,"Kate & Leopold (2001)",39.5,10
+"1383",4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",13,3
+"1384",4995,"Beautiful Mind, A (2001)",0,0
+"1385",4999,"Dodsworth (1936)",14,5
+"1386",5000,"Medium Cool (1969)",0,0
+"1387",5015,"Monster's Ball (2001)",7.5,5
+"1388",5017,"Big Heat, The (1953)",1,1
+"1389",5033,"Russia House, The (1990)",3,1
+"1390",5034,"Truly, Madly, Deeply (1991)",5,2
+"1391",5041,"Fire and Ice (1983)",4.5,1
+"1392",5042,"Forbidden Zone (1980)",4,1
+"1393",5047,"Kung Pow: Enter the Fist (2002)",5,1
+"1394",5054,"Brainstorm (1983)",10,3
+"1395",5055,"Dragon: The Bruce Lee Story (1993)",12.5,3
+"1396",5056,"Enigma of Kaspar Hauser, The (a.k.a. Mystery of Kaspar Hauser, The) (Jeder für sich und Gott Gegen Alle) (1974)",150.5,39
+"1397",5057,"4 for Texas (1963)",39,11
+"1398",5061,"Mrs. Soffel (1984)",7,2
+"1399",5066,"Walk to Remember, A (2002)",31,8
+"1400",5071,"Maelström (2000)",36,10
+"1401",5072,"Metropolis (2001)",17,5
+"1402",5074,"Storytelling (2001)",17,5
+"1403",5081,"Birthday Girl (2001)",0,0
+"1404",5083,"Rare Birds (2001)",18,6
+"1405",5085,"Carmen Jones (1954)",5,2
+"1406",5092,"Big Fat Liar (2002)",3,1
+"1407",5093,"Collateral Damage (2002)",4,1
+"1408",5094,"Rollerball (2002)",3,1
+"1409",5095,"Scotland, Pa. (2001)",12,3
+"1410",5097,"Bright Eyes (1934)",4,1
+"1411",5099,"Heidi (1937)",5,1
+"1412",5101,"Richard Pryor Here and Now (1983)",303,88
+"1413",5102,"Rookie of the Year (1993)",267,69
+"1414",5107,"Hart's War (2002)",7,3
+"1415",5111,"Good Son, The (1993)",17,8
+"1416",5117,"Funny Lady (1975)",55,16
+"1417",5121,"Stroszek (1977)",4.5,2
+"1418",5128,"Queen of the Damned (2002)",9.5,2
+"1419",5134,"Mean Machine (2001)",159.5,43
+"1420",5135,"Monsoon Wedding (2001)",42,17
+"1421",5142,"Firemen's Ball, The (Horí, má panenko) (1967)",39,11
+"1422",5151,"40 Days and 40 Nights (2002)",10.5,4
+"1423",5161,"Intersection (1994)",33.5,18
+"1424",5164,"Troll in Central Park, A (1994)",45.5,14
+"1425",5167,"My Favorite Brunette (1947)",0,0
+"1426",5177,"Magnificent Ambersons, The (1942)",80,29
+"1427",5179,"Gloria (1980)",20.5,5
+"1428",5182,"Hawk the Slayer (1980)",20,11
+"1429",5186,"Honeysuckle Rose (a.k.a. On the Road Again) (1980)",13.5,4
+"1430",5198,"Long Good Friday, The (1980)",0,0
+"1431",5203,"The Monster Club (1981)",38.5,14
+"1432",5205,"Motel Hell (1980)",50.5,20
+"1433",5208,"Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane) (1980)",3,1
+"1434",5214,"Oh, God! (1977)",121.5,36
+"1435",5220,"Showtime (2002)",17,5
+"1436",5222,"Kissing Jessica Stein (2001)",31.5,9
+"1437",5223,"Pauline & Paulette (Pauline en Paulette) (2001)",78,20
+"1438",5225,"And Your Mother Too (Y tu mamá también) (2001)",16,4
+"1439",5226,"All the Right Moves (1983)",35.5,11
+"1440",5227,"Barabbas (1961)",383.5,95
+"1441",5230,"Paleface, The (1948)",0,0
+"1442",5232,"Road to Singapore (1940)",58.5,22
+"1443",5236,"Tale of Springtime, A (Conte de Printemps) (1990)",137.5,44
+"1444",5241,"Seems Like Old Times (1980)",34.5,9
+"1445",5243,"Young Master, The (Shi di chu ma) (1980)",66,21
+"1446",5244,"Shogun Assassin (1980)",13.5,4
+"1447",5246,"Smokey and the Bandit II (1980)",148,53
+"1448",5247,"Smokey and the Bandit (1977)",1,1
+"1449",5248,"Smokey and the Bandit III (1983)",372,96
+"1450",5277,"Evil That Men Do, The (1984)",38,11
+"1451",5278,"Fraternity Vacation (1985)",13,4
+"1452",5279,"Impromptu (1991)",7,2
+"1453",5285,"Lucky Break (2001)",8,2
+"1454",5288,"Atomic Cafe, The (1982)",17.5,5
+"1455",5289,"Body and Soul (1947)",3,1
+"1456",5293,"Changing Lanes (2002)",0.5,1
+"1457",5296,"Sweetest Thing, The (2002)",2,1
+"1458",5297,"Cat's Meow, The (2002)",70.5,21
+"1459",5298,"Human Nature (2001)",11.5,4
+"1460",5299,"My Big Fat Greek Wedding (2002)",38.5,11
+"1461",5302,"Breakout (1975)",0,0
+"1462",5303,"Joe Versus the Volcano (1990)",4,1
+"1463",5304,"Rome, Open City (a.k.a. Open City) (Roma, città aperta) (1945)",16,5
+"1464",5309,"Three Men and a Little Lady (1990)",0,0
+"1465",5312,"Murder by Numbers (2002)",31,9
+"1466",5316,"Enigma (2001)",64.5,26
+"1467",5319,"Nine Queens (Nueve reinas) (2000)",0,0
+"1468",5324,"Life or Something Like It (2002)",0,0
+"1469",5333,"Bob le Flambeur (1955)",0,0
+"1470",5334,"Cadillac Man (1990)",5,1
+"1471",5335,"Coca-Cola Kid, The (1985)",4,1
+"1472",5339,"Husbands and Wives (1992)",4,1
+"1473",5343,"Temp, The (1993)",1,1
+"1474",5344,"Thief of Hearts (1984)",0,0
+"1475",5346,"Wild Orchid (1990)",41.5,14
+"1476",5348,"Hollywood Ending (2002)",187.5,51
+"1477",5353,"Butterflies Are Free (1972)",5,1
+"1478",5356,"Giant Spider Invasion, The (1975)",22.5,8
+"1479",5364,"Unfaithful (2002)",0,0
+"1480",5365,"Lady and the Duke, The (Anglaise et le duc, L') (2001)",0,0
+"1481",5367,"My Beautiful Laundrette (1985)",0,0
+"1482",5372,"Calamity Jane (1953)",0,0
+"1483",5384,"I Want to Live! (1958)",4,2
+"1484",5387,"Enough (2002)",11.5,3
+"1485",5400,"Sum of All Fears, The (2002)",21.5,6
+"1486",5404,"84 Charing Cross Road (1987)",0,0
+"1487",5410,"Silent Running (1972)",0,0
+"1488",5415,"Divine Secrets of the Ya-Ya Sisterhood (2002)",3,1
+"1489",5417,"Fast Runner, The (Atanarjuat) (2001)",0,0
+"1490",5425,"Dark Blue World (Tmavomodrý svet) (2001)",4,1
+"1491",5438,"Men at Work (1990)",2,1
+"1492",5446,"Rabbit-Proof Fence (2002)",7.5,2
+"1493",5449,"Mr. Deeds (2002)",32,8
+"1494",5462,"Crocodile Hunter: Collision Course, The (2002)",0,0
+"1495",5464,"Road to Perdition (2002)",0,0
+"1496",5470,"The Importance of Being Earnest (1952)",0,0
+"1497",5471,"Perfect (1985)",18,6
+"1498",5477,"Sex and Lucia (Lucía y el sexo) (2001)",2.5,2
+"1499",5480,"Stuart Little 2 (2002)",92,30
+"1500",5490,"The Big Bus (1976)",0,0
+"1501",5501,"Master of Disguise, The (2002)",9.5,3
+"1502",5504,"Spy Kids 2: The Island of Lost Dreams (2002)",4,1
+"1503",5505,"Good Girl, The (2002)",0,0
+"1504",5517,"Nightcap (Merci pour le chocolat) (2000)",23.5,6
+"1505",5527,"Possession (2002)",4,1
+"1506",5528,"One Hour Photo (2002)",18,5
+"1507",5539,"Care Bears Movie II: A New Generation (1986)",0,0
+"1508",5544,"Time After Time (1979)",8,2
+"1509",5558,"Love and a Bullet (2002)",0,0
+"1510",5560,"À nous la liberté (Freedom for Us) (1931)",3.5,1
+"1511",5562,"Snipes (2001)",0,0
+"1512",5573,"Stealing Harvard (2002)",1,1
+"1513",5574,"Transporter, The (2002)",0,0
+"1514",5575,"Alias Betty (Betty Fisher et autres histoires) (2001)",33,10
+"1515",5577,"Igby Goes Down (2002)",27,7
+"1516",5582,"Captain Ron (1992)",10.5,3
+"1517",5597,"Suburban Commando (1991)",11.5,3
+"1518",5599,"Tabu: A Story of the South Seas (1931)",18.5,5
+"1519",5601,"Yearling, The (1946)",14,4
+"1520",5602,"Ladykillers, The (1955)",22,6
+"1521",5603,"Lavender Hill Mob, The (1951)",9,3
+"1522",5604,"Man in the White Suit, The (1951)",3,1
+"1523",5607,"Son of the Bride (Hijo de la novia, El) (2001)",4.5,2
+"1524",5608,"Das Experiment (Experiment, The) (2001)",39,11
+"1525",5609,"Ballistic: Ecks vs. Sever (2002)",558,132
+"1526",5611,"Four Feathers, The (2002)",0,0
+"1527",5612,"Trapped (2002)",31.5,10
+"1528",5620,"Sweet Home Alabama (2002)",19,6
+"1529",5621,"Tuxedo, The (2002)",125.5,30
+"1530",5625,"Moonlight Mile (2002)",10.5,3
+"1531",5636,"Welcome to Collinwood (2002)",0,0
+"1532",5646,"Valmont (1989)",0,0
+"1533",5655,"Fan, The (1981)",12,5
+"1534",5667,"Tuck Everlasting (2002)",0,0
+"1535",5670,"Comedian (2002)",0,0
+"1536",5675,"Swept Away (2002)",0,0
+"1537",5677,"Abandon (2002)",2.5,3
+"1538",5680,"Auto Focus (2002)",2,1
+"1539",5685,"Real Women Have Curves (2002)",10,3
+"1540",5689,"Billy Bathgate (1991)",13,3
+"1541",5691,"Jason Goes to Hell: The Final Friday (1993)",19.5,7
+"1542",5707,"Absence of Malice (1981)",0,0
+"1543",5712,"Blow Out (1981)",0,0
+"1544",5723,"Continental Divide (1981)",0,0
+"1545",5729,"Endless Love (1981)",0,0
+"1546",5734,"Faces of Death 2 (1981)",22,9
+"1547",5735,"Faces of Death (1978)",27,7
+"1548",5736,"Faces of Death 3 (1985)",5,2
+"1549",5737,"Faces of Death 4 (1990)",10.5,3
+"1550",5742,"First Monday in October (1981)",0,0
+"1551",5745,"Four Seasons, The (1981)",11,4
+"1552",5747,"Gallipoli (1981)",7.5,2
+"1553",5752,"Gregory's Girl (1981)",93.5,28
+"1554",5754,"Hand, The (1981)",5,2
+"1555",5768,"Modern Problems (1981)",5,1
+"1556",5777,"Pennies from Heaven (1981)",7,3
+"1557",5779,"Piranha II: The Spawning (1981)",0,0
+"1558",5787,"Truth About Charlie, The (2002)",15.5,4
+"1559",5791,"Frida (2002)",0,0
+"1560",5792,"Roger Dodger (2002)",0,0
+"1561",5801,"Russians Are Coming, the Russians Are Coming, The (1966)",3,1
+"1562",5809,"Femme Fatale (2002)",47.5,13
+"1563",5812,"Far from Heaven (2002)",3,1
+"1564",5816,"Harry Potter and the Chamber of Secrets (2002)",45,11
+"1565",5818,"Crime of Father Amaro, The (Crimen del padre Amaro, El) (2002)",53.5,14
+"1566",5820,"Standing in the Shadows of Motown (2002)",14,4
+"1567",5826,"Rio Grande (1950)",0,0
+"1568",5828,"Blackrock (1997)",2,1
+"1569",5830,"Mysterious Island (1961)",14,4
+"1570",5833,"Dog Soldiers (2002)",0,0
+"1571",5836,"Houseboat (1958)",9.5,2
+"1572",5839,"My Father's Glory (La gloire de mon père) (1990)",14.5,4
+"1573",5840,"My Mother's Castle (Château de ma mère, Le) (1990)",20,8
+"1574",5841,"Return to the Blue Lagoon (1991)",0,0
+"1575",5843,"Toy Soldiers (1991)",5,1
+"1576",5869,"True Confessions (1981)",4,1
+"1577",5878,"Talk to Her (Hable con Ella) (2002)",6,2
+"1578",5883,"They (2002)",0,0
+"1579",5888,"Brother (Brat) (1997)",20,6
+"1580",5891,"I Spit on Your Grave (Day of the Woman) (1978)",99.5,35
+"1581",5900,"Analyze That (2002)",161,55
+"1582",5901,"Empire (2002)",4,2
+"1583",5910,"Bolero (Uns et les autres, Les) (1981)",4,1
+"1584",5913,"Warning for the Joensson Gang (Varning för Jönssonligan) (1981)",0,0
+"1585",5917,"Zoot Suit (1981)",0,0
+"1586",5923,"Author! Author! (1982)",6,2
+"1587",5943,"Maid in Manhattan (2002)",4,1
+"1588",5945,"About Schmidt (2002)",0,0
+"1589",5952,"Lord of the Rings: The Two Towers, The (2002)",14,4
+"1590",5954,"25th Hour (2002)",3,1
+"1591",5956,"Gangs of New York (2002)",1,1
+"1592",5957,"Two Weeks Notice (2002)",0,0
+"1593",5960,"Bad Influence (1990)",6,2
+"1594",5961,"Blue Steel (1990)",6,2
+"1595",5962,"Body of Evidence (1993)",4.5,1
+"1596",5965,"Duellists, The (1977)",9,2
+"1597",5966,"Kiss Before Dying, A (1956)",0,0
+"1598",5981,"Day of the Triffids, The (1962)",3.5,1
+"1599",5984,"Story of O, The (Histoire d'O) (1975)",3.5,1
+"1600",5989,"Catch Me If You Can (2002)",0,0
+"1601",5992,"Hours, The (2002)",12.5,4
+"1602",5994,"Nicholas Nickleby (2002)",22.5,5
+"1603",5995,"Pianist, The (2002)",0,0
+"1604",6000,"House on the Edge of the Park, The (Casa sperduta nel parco, La) (1980)",24,7
+"1605",6001,"King of Comedy, The (1983)",0,0
+"1606",6005,"Blue Collar Comedy Tour: The Movie (2003)",38.5,9
+"1607",6006,"Just Married (2003)",5,1
+"1608",6012,"Guy Thing, A (2003)",0,0
+"1609",6013,"Kangaroo Jack (2003)",0,0
+"1610",6014,"National Security (2003)",26.5,7
+"1611",6027,"Dogfight (1991)",16.5,4
+"1612",6031,"Imitation of Life (1959)",12,3
+"1613",6032,"Little Romance, A (1979)",0,0
+"1614",6039,"Woman in Red, The (1984)",16.5,4
+"1615",6040,"Darkness Falls (2003)",12,3
+"1616",6058,"Final Destination 2 (2003)",28,7
+"1617",6059,"Recruit, The (2003)",2.5,1
+"1618",6060,"Guru, The (2002)",13,5
+"1619",6063,"May (2002)",8,2
+"1620",6064,"Harder They Fall, The (1956)",0,0
+"1621",6073,"Victim (1961)",0,0
+"1622",6084,"Honkytonk Man (1982)",5,1
+"1623",6092,"Last American Virgin, The (1982)",0,0
+"1624",6100,"Midsummer Night's Sex Comedy, A (1982)",26.5,7
+"1625",6103,"Monsignor (1982)",47,13
+"1626",6107,"Night of the Shooting Stars (Notte di San Lorenzo, La) (1982)",4.5,1
+"1627",6109,"One from the Heart (1982)",0.5,1
+"1628",6122,"Richard Pryor Live on the Sunset Strip (1982)",0,0
+"1629",6143,"Trail of the Pink Panther (1982)",0,0
+"1630",6154,"Deliver Us from Eva (2003)",12,6
+"1631",6155,"How to Lose a Guy in 10 Days (2003)",11.5,4
+"1632",6157,"Daredevil (2003)",6,2
+"1633",6159,"All the Real Girls (2003)",2,1
+"1634",6162,"Gerry (2002)",10.5,4
+"1635",6163,"He Loves Me... He Loves Me Not (À la folie... pas du tout) (2002)",4,1
+"1636",6178,"Patch of Blue, A (1965)",9,3
+"1637",6180,"Q & A (1990)",0,0
+"1638",6184,"Man Who Fell to Earth, The (1976)",4.5,1
+"1639",6197,"Spider (2002)",13.5,4
+"1640",6198,"American Heart (1992)",0,0
+"1641",6201,"Lady Jane (1986)",16.5,5
+"1642",6227,"Loving You (1957)",5,1
+"1643",6231,"Benny Goodman Story, The (1955)",12.5,5
+"1644",6233,"Born Yesterday (1993)",2,1
+"1645",6234,"Equus (1977)",5,2
+"1646",6235,"Europa Europa (Hitlerjunge Salomon) (1990)",0,0
+"1647",6243,"Ringu 2 (Ring 2) (1999)",0,0
+"1648",6247,"Women in Love (1969)",3,1
+"1649",6252,"View from the Top (2003)",0,0
+"1650",6254,"Awful Truth, The (1937)",3,1
+"1651",6261,"Wind (1992)",0,0
+"1652",6279,"Good Thief, The (2002)",30,9
+"1653",6281,"Phone Booth (2002)",32,11
+"1654",6284,"DysFunktional Family (2003)",3,1
+"1655",6291,"Lilya 4-Ever (Lilja 4-ever) (2002)",21.5,8
+"1656",6296,"Mighty Wind, A (2003)",5,1
+"1657",6298,"Malibu's Most Wanted (2003)",1,1
+"1658",6301,"Straw Dogs (1971)",9,3
+"1659",6303,"Andromeda Strain, The (1971)",0,0
+"1660",6305,"Fahrenheit 451 (1966)",0,0
+"1661",6314,"Undercover Blues (1993)",2,1
+"1662",6318,"Marrying Man, The (Too Hot to Handle) (1991)",0,0
+"1663",6322,"Confidence (2003)",0,0
+"1664",6338,"Daddy Day Care (2003)",5,1
+"1665",6339,"Man on the Train (Homme du train, L') (2002)",1,1
+"1666",6349,"Breakin' (1984)",0,0
+"1667",6367,"Down with Love (2003)",1,1
+"1668",6378,"Italian Job, The (2003)",9.5,2
+"1669",6379,"Wrong Turn (2003)",0,0
+"1670",6404,"White Sheik, The (Sceicco bianco, Lo) (1952)",81,23
+"1671",6405,"Treasure Island (1950)",8,4
+"1672",6408,"Animals are Beautiful People (1974)",4.5,2
+"1673",6412,"Destry Rides Again (1939)",8,3
+"1674",6413,"Electric Horseman, The (1979)",14.5,4
+"1675",6415,"Intervista (1987)",6,2
+"1676",6416,"King Rat (1965)",0,0
+"1677",6427,"Railway Children, The (1970)",77,31
+"1678",6431,"Battle Cry (1955)",132,36
+"1679",6440,"Barton Fink (1991)",4.5,1
+"1680",6442,"Belle époque (1992)",0,0
+"1681",6450,"Heaven Knows, Mr. Allison (1957)",0,0
+"1682",6461,"Unforgiven, The (1960)",0,0
+"1683",6464,"Good Burger (1997)",0,0
+"1684",6466,"Mississippi Masala (1991)",4,1
+"1685",6467,"Quai des Orfèvres (Jenny Lamour) (1947)",12,3
+"1686",6473,"Half Moon Street (1986)",4,1
+"1687",6476,"Shattered (1991)",0,0
+"1688",6480,"Thoroughly Modern Millie (1967)",2,1
+"1689",6506,"Fulltime Killer (Chuen jik sat sau) (2001)",1,1
+"1690",6509,"Ali: Fear Eats the Soul (Angst essen Seele auf) (1974)",4,2
+"1691",6515,"You Only Live Once (1937)",28.5,8
+"1692",6518,"Flight of the Intruder (1991)",2,1
+"1693",6527,"Scaramouche (1952)",0.5,1
+"1694",6547,"Northfork (2003)",9.5,2
+"1695",6559,"Little Giants (1994)",56.5,18
+"1696",6561,"Mouse That Roared, The (1959)",82,26
+"1697",6562,"Spencer's Mountain (1963)",0,0
+"1698",6568,"Camp (2003)",4,1
+"1699",6595,"S.W.A.T. (2003)",5,1
+"1700",6602,"Brain Damage (1988)",13,3
+"1701",6618,"Shaolin Soccer (Siu lam juk kau) (2001)",0,0
+"1702",6620,"American Splendor (2003)",5,1
+"1703",6630,"Inn of the Sixth Happiness, The (1958)",12,6
+"1704",6636,"Sure Thing, The (1985)",1,1
+"1705",6638,"Valley Girl (1983)",5.5,2
+"1706",6639,"Wait Until Dark (1967)",12,3
+"1707",6644,"Green Ray, The (Rayon vert, Le) (1986)",4.5,1
+"1708",6650,"Kind Hearts and Coronets (1949)",10.5,5
+"1709",6658,"10 (1979)",4.5,3
+"1710",6662,"Pink Panther, The (1963)",0,0
+"1711",6663,"Pink Panther Strikes Again, The (1976)",1.5,1
+"1712",6664,"Commando (1985)",3.5,2
+"1713",6665,"Dracula (1979)",3,2
+"1714",6678,"Handmaid's Tale, The (1990)",5,1
+"1715",6684,"Death in Venice (Morte a Venezia) (1971)",0,0
+"1716",6695,"Jeepers Creepers 2 (2003)",3.5,1
+"1717",6707,"Cabin Fever (2002)",0,0
+"1718",6722,"Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung) (1992)",15.5,4
+"1719",6725,"Sgt. Pepper's Lonely Hearts Club Band (1978)",3,3
+"1720",6743,"Jungle Book (1942)",5,2
+"1721",6744,"Once Bitten (1985)",14,3
+"1722",6751,"Cold Creek Manor (2003)",0,0
+"1723",6755,"Bubba Ho-tep (2002)",0,0
+"1724",6760,"In This World (2002)",0,0
+"1725",6762,"Yossi & Jagger (2002)",0,0
+"1726",6763,"Duplex (2003)",11,4
+"1727",6770,"My Life Without Me (2003)",0,0
+"1728",6782,"Leningrad Cowboys Go America (1989)",7.5,2
+"1729",6783,"Rules of the Game, The (La règle du jeu) (1939)",0,0
+"1730",6787,"All the President's Men (1976)",8,2
+"1731",6794,"Beethoven's 2nd (1993)",7,2
+"1732",6796,"Boyz N the Hood (1991)",148.5,46
+"1733",6797,"Bugsy (1991)",0,0
+"1734",6800,"Cobra (1986)",0,0
+"1735",6810,"Sleeping with the Enemy (1991)",0,0
+"1736",6813,"Ghost and Mr. Chicken, The (1966)",0,0
+"1737",6814,"City Heat (1984)",0,0
+"1738",6818,"Come and See (Idi i smotri) (1985)",7,2
+"1739",6822,"Ballad of Little Jo, The (1993)",6,2
+"1740",6826,"Shakiest Gun in the West, The (1968)",12,3
+"1741",6829,"Gun in Betty Lou's Handbag, The (1992)",6,2
+"1742",6840,"Hospital, The (1971)",2,1
+"1743",6850,"Leap of Faith (1992)",0,0
+"1744",6851,"Gas, Food, Lodging (1992)",4,1
+"1745",6852,"In Cold Blood (1967)",0,0
+"1746",6856,"Yankee Doodle Dandy (1942)",42.5,14
+"1747",6863,"School of Rock (2003)",144.5,39
+"1748",6864,"Concert for George, The (2003)",3,1
+"1749",6867,"Station Agent, The (2003)",0,0
+"1750",6869,"Bus 174 (Ônibus 174) (2002)",0,0
+"1751",6872,"House of the Dead, The (2003)",2,1
+"1752",6873,"Intolerable Cruelty (2003)",80,23
+"1753",6879,"Runaway Jury (2003)",1,1
+"1754",6881,"Pieces of April (2003)",4.5,1
+"1755",6883,"Sylvia (2003)",9,3
+"1756",6888,"Scary Movie 3 (2003)",14,5
+"1757",6896,"Shoah (1985)",0,0
+"1758",6920,"Cercle Rouge, Le (Red Circle, The) (1970)",0,0
+"1759",6932,"Shattered Glass (2003)",30.5,8
+"1760",6951,"Cat in the Hat, The (2003)",63.5,23
+"1761",6952,"Gothika (2003)",0,0
+"1762",6957,"Bad Santa (2003)",0,0
+"1763",6970,"Desk Set (1957)",91.5,26
+"1764",6971,"Europa (Zentropa) (1991)",12,4
+"1765",6974,"Freshman, The (1990)",41,10
+"1766",6978,"Slacker (1991)",0,0
+"1767",6982,"Forbidden Games (Jeux interdits) (1952)",0,0
+"1768",6983,"Jane Eyre (1944)",0,0
+"1769",6992,"Guarding Tess (1994)",0,0
+"1770",6996,"Highlander II: The Quickening (1991)",8.5,2
+"1771",6997,"Hoffa (1992)",9.5,3
+"1772",6999,"Housesitter (1992)",0,0
+"1773",7008,"Last Tango in Paris (Ultimo tango a Parigi) (1972)",5,1
+"1774",7010,"Lover, The (Amant, L') (1992)",12.5,4
+"1775",7012,"Mr. Destiny (1990)",0,0
+"1776",7016,"Over the Top (1987)",28,8
+"1777",7017,"Passenger 57 (1992)",0,0
+"1778",7025,"Midnight Clear, A (1992)",0,0
+"1779",7027,"Silverado (1985)",5,1
+"1780",7028,"Quick Change (1990)",0,0
+"1781",7029,"Rabid (1977)",6.5,2
+"1782",7034,"Show Me Love (Fucking Åmål) (1998)",1.5,1
+"1783",7036,"Teen Wolf (1985)",4,2
+"1784",7038,"Things You Can Tell Just by Looking at Her (2000)",0,0
+"1785",7042,"Betty Blue (37°2 le matin) (1986)",5,2
+"1786",7045,"Witches, The (1990)",0,0
+"1787",7059,"National Velvet (1944)",504.5,130
+"1788",7060,"Jesus Christ Superstar (1973)",4.5,1
+"1789",7061,"Dark Victory (1939)",19.5,5
+"1790",7063,"Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)",35.5,9
+"1791",7064,"Beauty and the Beast (La belle et la bête) (1946)",5.5,2
+"1792",7065,"Birth of a Nation, The (1915)",18,5
+"1793",7082,"That Touch of Mink (1962)",1,1
+"1794",7084,"Play It Again, Sam (1972)",0,0
+"1795",7085,"Send Me No Flowers (1964)",3,1
+"1796",7086,"Pygmalion (1938)",3,1
+"1797",7087,"Passage to India, A (1984)",5,2
+"1798",7088,"Black Orpheus (Orfeu Negro) (1959)",10,3
+"1799",7089,"Amarcord (1973)",0,0
+"1800",7101,"Doc Hollywood (1991)",3,1
+"1801",7104,"1941 (1979)",3.5,1
+"1802",7107,"Foul Play (1978)",3.5,1
+"1803",7110,"Blind Beast (Môjuu) (1969)",3,1
+"1804",7111,"Ryan's Daughter (1970)",3,1
+"1805",7117,"Leprechaun (1993)",0,0
+"1806",7121,"Adam's Rib (1949)",29.5,8
+"1807",7139,"In America (2002)",0,0
+"1808",7142,"Honey (2003)",0,0
+"1809",7151,"Girl with a Pearl Earring (2003)",27.5,10
+"1810",7152,"Statement, The (2003)",29,10
+"1811",7154,"Mona Lisa Smile (2003)",9,2
+"1812",7156,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",0,0
+"1813",7160,"Monster (2003)",0,0
+"1814",7161,"Cheaper by the Dozen (2003)",2,1
+"1815",7165,"Company, The (2003)",0,0
+"1816",7173,"Along Came Polly (2004)",17.5,5
+"1817",7179,"Wuthering Heights (1992)",3,1
+"1818",7186,"Once Upon a Crime... (1992)",3.5,1
+"1819",7193,"Adventures of Ford Fairlane, The (1990)",0,0
+"1820",7199,"Melvin Goes to Dinner (2003)",11,3
+"1821",7208,"Dr. Jekyll and Mr. Hyde (1941)",0,0
+"1822",7211,"People Will Talk (1951)",5,3
+"1823",7212,"I Was a Male War Bride (1949)",5,1
+"1824",7222,"Reefer Madness (a.k.a. Tell Your Children) (1938)",0,0
+"1825",7238,"Ashes and Diamonds (Popiól i diament) (1958)",7,2
+"1826",7245,"Tormented (1960)",4,1
+"1827",7255,"Win a Date with Tad Hamilton! (2004)",5.5,2
+"1828",7256,"Touching the Void (2003)",6.5,2
+"1829",7258,"Perfect Score, The (2004)",4,1
+"1830",7293,"50 First Dates (2004)",9,3
+"1831",7300,"Vanishing Point (1971)",11,3
+"1832",7303,"The Diary of Anne Frank (1959)",7.5,2
+"1833",7308,"King Solomon's Mines (1985)",0,0
+"1834",7309,"Black Pirate, The (1926)",5,1
+"1835",7311,"Goodbye, Mr. Chips (1939)",4,1
+"1836",7312,"Follow Me, Boys! (1966)",81.5,21
+"1837",7315,"Against the Ropes (2004)",0,0
+"1838",7317,"EuroTrip (2004)",13.5,6
+"1839",7319,"Club Dread (2004)",19.5,5
+"1840",7323,"Good bye, Lenin! (2003)",35,11
+"1841",7324,"Hidalgo (2004)",9,3
+"1842",7334,"Front, The (1976)",23,5
+"1843",7346,"Girl Next Door, The (2004)",0,0
+"1844",7347,"Secret Window (2004)",4,1
+"1845",7357,"Peyton Place (1957)",2,1
+"1846",7367,"Ladykillers, The (2004)",0,0
+"1847",7375,"Prince & Me, The (2004)",9,2
+"1848",7386,"Ten Commandments, The (1956)",0,0
+"1849",7395,"Cheaper by the Dozen (1950)",40,11
+"1850",7407,"Africa Screams (1949)",0,0
+"1851",7411,"Munchies (1987)",0,0
+"1852",7419,"After Hours (1985)",37.5,13
+"1853",7450,"Laws of Attraction (2004)",18,5
+"1854",7459,"Carandiru (2003)",11,3
+"1855",7460,"Coffee and Cigarettes (2003)",0,0
+"1856",7482,"Enter the Dragon (1973)",0,0
+"1857",7492,"Martin (1977)",5,2
+"1858",7541,"100 Girls (2000)",0,0
+"1859",7584,"Woman of the Year (1942)",0,0
+"1860",7585,"Summertime (1955)",0,0
+"1861",7616,"Body Double (1984)",0,0
+"1862",7620,"Monster in a Box (1992)",4,1
+"1863",7636,"Raising Cain (1992)",4,2
+"1864",7649,"Babylon 5: In the Beginning (1998)",4,1
+"1865",7669,"Pride and Prejudice (1995)",3.5,1
+"1866",7697,"Prince and the Showgirl, The (1957)",0,0
+"1867",7698,"China Syndrome, The (1979)",0,0
+"1868",7701,"Look Who's Talking Too (1990)",0,0
+"1869",7705,"Pat and Mike (1952)",0,0
+"1870",7706,"Animal Crackers (1930)",0,0
+"1871",7708,"Bedazzled (1967)",0,0
+"1872",7748,"Pierrot le fou (1965)",13,5
+"1873",7762,"Tinker, Tailor, Soldier, Spy (1979)",1,1
+"1874",7764,"Driller Killer, The (1979)",103.5,26
+"1875",7771,"Zorba the Greek (Alexis Zorbas) (1964)",0,0
+"1876",7774,"My Side of the Mountain (1969)",4,1
+"1877",7782,"Sniper (1993)",4,1
+"1878",7791,"Internal Affairs (1990)",1,1
+"1879",7810,"Babylon 5: A Call to Arms (1999)",0,0
+"1880",7811,"Babylon 5: The River of Souls (1998)",3,2
+"1881",7812,"Babylon 5: Thirdspace (1998)",1.5,1
+"1882",7815,"True Stories (1986)",4,1
+"1883",7817,"Zardoz (1974)",5,1
+"1884",7820,"Virgin Spring, The (Jungfrukällan) (1960)",3,2
+"1885",7836,"Woodstock (1970)",9.5,4
+"1886",7841,"Children of Dune (2003)",0,0
+"1887",7844,"Legend, The (Legend of Fong Sai-Yuk, The) (Fong Sai Yuk) (1993)",0,0
+"1888",7872,"Getting It Right (1989)",0,0
+"1889",7883,"I Walked with a Zombie (1943)",13.5,4
+"1890",7888,"How to Succeed in Business Without Really Trying (1967)",0,0
+"1891",7894,"Duck, You Sucker (1971)",4,1
+"1892",7897,"Ballad of Cable Hogue, The (1970)",0,0
+"1893",7919,"Drunken Angel (Yoidore tenshi) (1948)",0.5,1
+"1894",7920,"Desperate Living (1977)",5.5,3
+"1895",7922,"Valachi Papers,The (1972)",0,0
+"1896",7925,"Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)",32.5,11
+"1897",7936,"Shame (Skammen) (1968)",8,2
+"1898",7941,"Smiles of a Summer Night (Sommarnattens leende) (1955)",63.5,16
+"1899",7942,"Summer with Monika (Sommaren med Monika) (1953)",30,8
+"1900",7943,"Killers, The (1946)",32,10
+"1901",7944,"Night of the Iguana, The (1964)",29.5,10
+"1902",7948,"Wise Blood (1979)",12,3
+"1903",7951,"Nightbreed (1990)",10,3
+"1904",7958,"Bloody Mama (1970)",171.5,51
+"1905",7979,"Monterey Pop (1968)",3.5,1
+"1906",7984,"From Beyond (1986)",3,1
+"1907",7990,"Rock 'N' Roll High School (1979)",22.5,8
+"1908",7991,"Death Race 2000 (1975)",0,0
+"1909",7995,"Wild Angels, The (1966)",0,0
+"1910",8003,"Bedlam (1946)",27,8
+"1911",8012,"Kikujiro (Kikujirô no natsu) (1999)",0,0
+"1912",8039,"Support Your Local Sheriff! (1969)",6.5,4
+"1913",8042,"Mean Streets (1973)",4,1
+"1914",8117,"In China They Eat Dogs (I Kina spiser de hunde) (1999)",0,0
+"1915",8123,"Sammy and Rosie Get Laid (1987)",4,1
+"1916",8125,"Sunrise: A Song of Two Humans (1927)",8.5,3
+"1917",8131,"Pursuit of Happiness (2001)",26.5,8
+"1918",8132,"Gladiator (1992)",0,0
+"1919",8137,"Wasp Woman, The (1959)",3,1
+"1920",8138,"Attack of the Giant Leeches (1959)",8,2
+"1921",8142,"Dead or Alive: Hanzaisha (1999)",0,0
+"1922",8147,"Charly (1968)",0,0
+"1923",8158,"Rush (1991)",0,0
+"1924",8183,"Educating Rita (1983)",2,1
+"1925",8187,"On Moonlight Bay (1951)",6.5,2
+"1926",8196,"Beyond the Valley of the Dolls (1970)",3.5,1
+"1927",8199,"Ugetsu (Ugetsu monogatari) (1953)",1,1
+"1928",8207,"Day of the Jackal, The (1973)",20.5,6
+"1929",8236,"While the City Sleeps (1956)",0,0
+"1930",8239,"Viridiana (1961)",0,0
+"1931",8256,"Queen Christina (1933)",0,0
+"1932",8266,"Purple Rain (1984)",17,4
+"1933",8268,"Point of No Return (1993)",0,0
+"1934",8290,"Mitchell (1975)",4,1
+"1935",8327,"Dolls (2002)",22.5,6
+"1936",8336,"Major and the Minor, The (1942)",86.5,26
+"1937",8337,"Caine Mutiny, The (1954)",9.5,3
+"1938",8340,"Escape from Alcatraz (1979)",24,6
+"1939",8366,"Saved! (2004)",8.5,2
+"1940",8385,"Lover Come Back (1961)",0,0
+"1941",8387,"Police Academy: Mission to Moscow (1994)",0,0
+"1942",8388,"Ring of Bright Water (1969)",0,0
+"1943",8420,"Possessed (1947)",15,4
+"1944",8422,"Kings Row (1942)",20.5,6
+"1945",8453,"It Had to Be You (2000)",25.5,12
+"1946",8459,"Heiress, The (1949)",16,6
+"1947",8460,"State Fair (1945)",10.5,3
+"1948",8477,"Jetée, La (1962)",0,0
+"1949",8484,"Human Condition I, The (Ningen no joken I) (1959)",3,1
+"1950",8492,"Christmas Carol, A (Scrooge) (1951)",0,0
+"1951",8504,"Box of Moon Light (1996)",0,0
+"1952",8522,"My Little Chickadee (1940)",4.5,1
+"1953",8525,"Ugly Dachshund, The (1966)",0,0
+"1954",8527,"I'll Sleep When I'm Dead (2003)",81.5,21
+"1955",8530,"Dear Frankie (2004)",9.5,3
+"1956",8533,"Notebook, The (2004)",52,19
+"1957",8535,"De-Lovely (2004)",0,0
+"1958",8542,"Day at the Races, A (1937)",0,0
+"1959",8544,"Now You See Him, Now You Don't (1972)",0,0
+"1960",8571,"Bob & Carol & Ted & Alice (1969)",0,0
+"1961",8572,"Littlest Rebel, The (1935)",0,0
+"1962",8575,"Happenstance (Battement d'ailes du papillon, Le) (2001)",2,2
+"1963",8576,"Kopps (2003)",150.5,49
+"1964",8581,"Pirates of Silicon Valley (1999)",5,3
+"1965",8582,"Manufacturing Consent: Noam Chomsky and the Media (1992)",45.5,16
+"1966",8584,"Leave Her to Heaven (1945)",0,0
+"1967",8589,"Winter War (Talvisota) (1989)",1,1
+"1968",8596,"Revenge of the Pink Panther (1978)",0,0
+"1969",8604,"Taxi (1998)",17,5
+"1970",8610,"All of Me (1984)",5,1
+"1971",8614,"Overboard (1987)",0,0
+"1972",8618,"Johnny Guitar (1954)",21.5,7
+"1973",8623,"Roxanne (1987)",0,0
+"1974",8629,"Book of Life, The (1998)",0,0
+"1975",8638,"Before Sunset (2004)",0,0
+"1976",8643,"Cinderella Story, A (2004)",0,0
+"1977",8645,"Maria Full of Grace (Maria, Llena eres de gracia) (2004)",0,0
+"1978",8656,"Short Film About Killing, A (Krótki film o zabijaniu) (1988)",0,0
+"1979",8667,"A Home at the End of the World (2004)",3,1
+"1980",8684,"Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut) (1956)",43,12
+"1981",8700,"Destination Tokyo (1943)",0,0
+"1982",8709,"How I Got Into College (1989)",0,0
+"1983",8712,"My Favorite Wife (1940)",0,0
+"1984",8724,"Leopard, The (Gattopardo, Il) (1963)",4.5,1
+"1985",8745,"World of Suzie Wong, The (1960)",9,5
+"1986",8761,"Three Lives of Thomasina, The (1964)",60.5,19
+"1987",8772,"Spy Who Came in from the Cold, The (1965)",4,1
+"1988",8779,"Bon Voyage (2003)",0,0
+"1989",8790,"Revengers Tragedy (2002)",32.5,11
+"1990",8796,"Funny Thing Happened on the Way to the Forum, A (1966)",0,0
+"1991",8799,"Little Black Book (2004)",0,0
+"1992",8800,"Code 46 (2003)",0,0
+"1993",8807,"Harold and Kumar Go to White Castle (2004)",7,2
+"1994",8808,"Princess Diaries 2: Royal Engagement, The (2004)",0,0
+"1995",8820,"Spinout (1966)",0,0
+"1996",8821,"Harum Scarum (1965)",1,1
+"1997",8823,"Sting II, The (1983)",0,0
+"1998",8827,"Bill Cosby, Himself (1983)",2.5,1
+"1999",8828,"Dead Ringer (1964)",0,0
+"2000",8831,"Suspect Zero (2004)",4,1
+"2001",8833,"Vanity Fair (2004)",0,0
+"2002",8835,"Paparazzi (2004)",4,2
+"2003",8838,"Alice Doesn't Live Here Anymore (1974)",0,0
+"2004",8864,"Mr. 3000 (2004)",0,0
+"2005",8866,"Wimbledon (2004)",0,0
+"2006",8873,"Motorcycle Diaries, The (Diarios de motocicleta) (2004)",0,0
+"2007",8874,"Shaun of the Dead (2004)",1,1
+"2008",8884,"Man with One Red Shoe, The (1985)",0,0
+"2009",8892,"Basket Case 3: The Progeny (1992)",0,0
+"2010",8893,"Basket Case 2 (1990)",0,0
+"2011",8903,"Terror, The (1963)",0,0
+"2012",8914,"Primer (2004)",3.5,1
+"2013",8916,"Shall We Dance? (2004)",3,1
+"2014",8921,"Rose Tattoo, The (1955)",4,1
+"2015",8923,"Tess (1979)",0,0
+"2016",8928,"Fearless Vampire Killers, The (1967)",24.5,6
+"2017",8929,"Black Beauty (1971)",7,3
+"2018",8933,"Decline of the American Empire, The (Déclin de l'empire américain, Le) (1986)",4,1
+"2019",8937,"Friday Night Lights (2004)",0,0
+"2020",8943,"Being Julia (2004)",0,0
+"2021",8973,"Bad Education (La mala educación) (2004)",3,1
+"2022",8981,"Closer (2004)",0,0
+"2023",8989,"Damn Yankees! (1958)",0,0
+"2024",9001,"Wackiest Ship in the Army, The (1960)",0,0
+"2025",9010,"Love Me If You Dare (Jeux d'enfants) (2003)",7,2
+"2026",9018,"Control Room (2004)",0,0
+"2027",25737,"Golem, The (Golem, wie er in die Welt kam, Der) (1920)",0,0
+"2028",25744,"Haxan: Witchcraft Through the Ages (a.k.a. The Witches) (1922)",0,0
+"2029",25755,"Phantom of the Opera, The (1925)",3,1
+"2030",25769,"Steamboat Bill, Jr. (1928)",12.5,6
+"2031",25773,"Little Caesar (1931)",18,5
+"2032",25788,"Scarface (1932)",0,0
+"2033",25792,"I Was Born, But... (a.k.a. Children of Tokyo) (Otona no miru ehon - Umarete wa mita keredo) (1932)",0.5,1
+"2034",25801,"She Done Him Wrong (1933)",0,0
+"2035",25825,"Fury (1936)",3,1
+"2036",25826,"Libeled Lady (1936)",2,1
+"2037",25827,"Mr. Deeds Goes to Town (1936)",164.5,48
+"2038",25852,"Gaslight (1940)",3.5,1
+"2039",25856,"Wuthering Heights (1939)",18,5
+"2040",25865,"Letter, The (1940)",0,0
+"2041",25868,"Ball of Fire (1941)",0,0
+"2042",25874,"Never Give a Sucker an Even Break (1941)",4,1
+"2043",25886,"Random Harvest (1942)",2.5,1
+"2044",25901,"Henry V (Chronicle History of King Henry the Fift with His Battell Fought at Agincourt in France, The) (1944)",0,0
+"2045",25906,"Mr. Skeffington (1944)",0,0
+"2046",25916,"They Were Expendable (1945)",4,1
+"2047",25929,"Nightmare Alley (1947)",0,0
+"2048",25937,"Easter Parade (1948)",0,0
+"2049",25941,"Letter from an Unknown Woman (1948)",0,0
+"2050",25952,"Letter to Three Wives, A (1949)",0,0
+"2051",25971,"Carrie (1952)",10.5,3
+"2052",25972,"Clash by Night (1952)",0,0
+"2053",25993,"Magnificent Obsession (1954)",0,0
+"2054",25996,"Star Is Born, A (1954)",0,0
+"2055",26007,"Unknown Soldier, The (Tuntematon sotilas) (1955)",0,0
+"2056",26009,"Burmese Harp, The (Biruma no tategoto) (1956)",0,0
+"2057",26010,"Carousel (1956)",0,0
+"2058",26025,"Spirit of St. Louis, The (1957)",0,0
+"2059",26052,"Pickpocket (1959)",0,0
+"2060",26086,"Occurrence at Owl Creek Bridge, An (La rivière du hibou) (1962)",0,0
+"2061",26116,"Hush... Hush, Sweet Charlotte (1964)",9,3
+"2062",26125,"Spider Baby or, The Maddest Story Ever Told (Spider Baby) (1968)",0,0
+"2063",26131,"Battle of Algiers, The (La battaglia di Algeri) (1966)",0,0
+"2064",26150,"Andrei Rublev (Andrey Rublyov) (1969)",4,1
+"2065",26151,"Au Hasard Balthazar (1966)",0,0
+"2066",26163,"Don't Look Back (1967)",26,7
+"2067",26164,"Fando and Lis (Fando y Lis) (1968)",0,0
+"2068",26176,"Titicut Follies (1967)",0,0
+"2069",26198,"Yours, Mine and Ours (1968)",0,0
+"2070",26199,"Alice's Restaurant (1969)",0,0
+"2071",26228,"Swedish Love Story, A (Kärlekshistoria, En) (1970)",0,0
+"2072",26229,"Landlord, The (1970)",0,0
+"2073",26258,"Topo, El (1970)",0,0
+"2074",26268,"The Tall Blond Man with One Black Shoe (1972)",0,0
+"2075",26271,"Lady Sings the Blues (1972)",0,0
+"2076",26294,"My Name Is Nobody (Il Mio nome è Nessuno) (1973)",3.5,1
+"2077",26303,"Sisters (1973)",0,0
+"2078",26313,"California Split (1974)",0,0
+"2079",26317,"Emmanuelle (1974)",13.5,3
+"2080",26318,"Phantom of Liberty, The (Fantôme de la liberté, Le) (1974)",3,1
+"2081",26324,"Harry and Tonto (1974)",4,1
+"2082",26325,"Hearts and Minds (1974)",2.5,1
+"2083",26338,"Cousin cousine (1975)",14.5,4
+"2084",26349,"Night Moves (1975)",0,0
+"2085",26371,"The Missouri Breaks (1976)",0,0
+"2086",26386,"High Anxiety (1977)",1,1
+"2087",26393,"Sorcerer (1977)",0,0
+"2088",26394,"Turning Point, The (1977)",51.5,13
+"2089",26409,"Clonus Horror, The (1979)",3.5,1
+"2090",26413,"Snake in the Eagle's Shadow (Se ying diu sau) (1978)",6.5,2
+"2091",26414,"Wedding, A (1978)",0,0
+"2092",26425,"In-Laws, The (1979)",8.5,2
+"2093",26435,"Starting Over (1979)",12.5,3
+"2094",26467,"Day After, The (1983)",0,0
+"2095",26471,"Eddie Murphy Delirious (1983)",0,0
+"2096",26472,"Norte, El (1984)",0,0
+"2097",26501,"Choose Me (1984)",62.5,15
+"2098",26528,"Anne of Green Gables (1985)",0,0
+"2099",26564,"'Round Midnight (1986)",0,0
+"2100",26574,"Ginger and Fred (Ginger e Fred) (1986)",0,0
+"2101",26684,"Frankenhooker (1990)",4,1
+"2102",26686,"Ghost Dad (1990)",8,2
+"2103",26700,"Nuns on the Run (1990)",0,0
+"2104",26737,"Light Sleeper (1992)",0,0
+"2105",26749,"Prospero's Books (1991)",0,0
+"2106",26782,"Mambo Kings, The (1992)",0,0
+"2107",26784,"Night and the City (1992)",0,0
+"2108",26788,"Story of Qiu Ju, The (Qiu Ju da guan si) (1992)",0,0
+"2109",26819,"Fortress (1992)",4,1
+"2110",26835,"Positively True Adventures of the Alleged Texas Cheerleader-Murdering Mom, The (1993)",4,1
+"2111",26838,"Snapper, The (1993)",0,0
+"2112",26843,"Three of Hearts (1993)",3.5,1
+"2113",26865,"Fist of Legend (Jing wu ying xiong) (1994)",39.5,10
+"2114",26915,"Tromeo and Juliet (1996)",1.5,2
+"2115",26947,"Pusher (1996)",19.5,8
+"2116",27020,"Gia (1998)",0,0
+"2117",27178,"In July (Im Juli) (2000)",0,0
+"2118",27193,"Taxi 2 (2000)",0,0
+"2119",27369,"Daria: Is It Fall Yet? (2000)",0,0
+"2120",27410,"Conspiracy (2001)",7.5,3
+"2121",27423,"O Auto da Compadecida (Dog's Will, A) (2000)",0,0
+"2122",27523,"My Sassy Girl (Yeopgijeogin geunyeo) (2001)",8.5,2
+"2123",27592,"Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002)",3,1
+"2124",27648,"Bright Young Things (2003)",0,0
+"2125",27722,"Last Life in the Universe (Ruang rak noi nid mahasan) (2003)",4,1
+"2126",27727,"Head-On (Gegen die Wand) (2004)",0,0
+"2127",27741,"Twilight Samurai, The (Tasogare Seibei) (2002)",9,4
+"2128",27773,"Old Boy (2003)",12.5,5
+"2129",27778,"Ginger Snaps Back: The Beginning (2004)",38,15
+"2130",27783,"Lost Embrace (Abrazo partido, El) (2004)",29.5,10
+"2131",27784,"One Missed Call (Chakushin ari) (2003)",110.5,34
+"2132",27801,"Ong-Bak: The Thai Warrior (Ong Bak) (2003)",763.5,188
+"2133",27812,"Festival Express (2003)",128.5,35
+"2134",27821,"Interpreter, The (2005)",27,8
+"2135",27822,"Open Water (2003)",5,1
+"2136",27837,"Flight of the Phoenix (2004)",0,0
+"2137",27838,"Mean Creek (2004)",3,1
+"2138",27851,"Fond Kiss, A (Ae Fond Kiss...) (2004)",2,1
+"2139",27867,"Football Factory, The (2004)",110,26
+"2140",27876,"Schultze Gets the Blues (2003)",0,0
+"2141",27922,"Jerry Seinfeld: 'I'm Telling You for the Last Time' (1998)",0,0
+"2142",30749,"Hotel Rwanda (2004)",0,0
+"2143",30783,"Blood and Black Lace (Sei donne per l'assassino) (1964)",393,99
+"2144",30803,"3-Iron (Bin-jip) (2004)",186,51
+"2145",30818,"Beyond the Sea (2004)",252,61
+"2146",30822,"In Good Company (2004)",0,0
+"2147",30883,"Fat Albert (2004)",58,16
+"2148",30892,"In the Realms of the Unreal (2004)",0,0
+"2149",31114,"Imaginary Heroes (2004)",5.5,4
+"2150",31116,"Sergeant York (1941)",1,1
+"2151",31156,"Abbott and Costello Meet the Invisible Man (1951)",296.5,69
+"2152",31162,"Life and Death of Peter Sellers, The (2004)",0,0
+"2153",31408,"Summer Storm (Sommersturm) (2004)",10,3
+"2154",31410,"Downfall (Untergang, Der) (2004)",0,0
+"2155",31422,"Are We There Yet? (2005)",6.5,2
+"2156",31433,"Wedding Date, The (2005)",0,0
+"2157",31445,"Employee of the Month (2004)",3,1
+"2158",31547,"Lessons of Darkness (Lektionen in Finsternis) (1992)",0,0
+"2159",31682,"Nomi Song, The (2004)",0,0
+"2160",31685,"Hitch (2005)",0,0
+"2161",31737,"Bunny Lake Is Missing (1965)",0,0
+"2162",31747,"The Boyfriend School (1990)",0,0
+"2163",31770,"Night and the City (1950)",0,0
+"2164",31878,"Kung Fu Hustle (Gong fu) (2004)",4,1
+"2165",31903,"Zelary (2003)",5.5,3
+"2166",31956,"5x2 (2004)",19,5
+"2167",31963,"Bed & Board (Domicile conjugal) (1970)",8.5,2
+"2168",31973,"Germany Year Zero (Germania anno zero) (Deutschland im Jahre Null) (1948)",3.5,1
+"2169",32017,"Pacifier, The (2005)",0,0
+"2170",32022,"Gunner Palace (2004)",0,0
+"2171",32025,"Walk on Water (2004)",0,0
+"2172",32170,"Chronicles (Crónicas) (2004)",0,0
+"2173",32291,"Melinda and Melinda (2004)",0,0
+"2174",32298,"Guess Who (2005)",3,1
+"2175",32387,"Sword of Doom, The (Dai-bosatsu tôge) (1966)",3.5,1
+"2176",32525,"The Earrings of Madame de... (1953)",0,0
+"2177",32598,"Fever Pitch (2005)",0,0
+"2178",32632,"Electra Glide in Blue (1973)",5,1
+"2179",32686,"Blood on Satan's Claw (a.k.a. Satan's Skin) (1971)",0.5,1
+"2180",32797,"Satan's Brew (Satansbraten) (1976)",0,0
+"2181",32853,"Sorrow and the Pity, The (Le chagrin et la pitié) (1969)",0,0
+"2182",32882,"Big Store, The (1941)",0,0
+"2183",32892,"Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo) (1962)",0,0
+"2184",32943,"Life Is Sweet (1990)",13.5,3
+"2185",33021,"Dark Habits (Entre tinieblas) (1983)",3,1
+"2186",33085,"Amityville Horror, The (2005)",12,3
+"2187",33124,"Before the Fall (NaPolA - Elite für den Führer) (2004)",8,2
+"2188",33164,"House of Wax (2005)",3.5,1
+"2189",33166,"Crash (2004)",4.5,1
+"2190",33171,"Mysterious Skin (2004)",0,0
+"2191",33296,"Buying the Cow (2002)",0,0
+"2192",33312,"Cocoanuts, The (1929)",0,0
+"2193",33358,"Off the Map (2003)",0,0
+"2194",33380,"25 Watts (2001)",0,0
+"2195",33499,"Monster-in-Law (2005)",0,0
+"2196",33558,"Snow Walker, The (2003)",2,1
+"2197",33639,"Mad Hot Ballroom (2005)",3,1
+"2198",33646,"Longest Yard, The (2005)",0,0
+"2199",33660,"Cinderella Man (2005)",0,0
+"2200",33683,"High Tension (Haute tension) (Switchblade Romance) (2003)",47,15
+"2201",33750,"Innocent Voices (Voces inocentes) (2004)",69.5,28
+"2202",33760,"Anna and the King of Siam (1946)",0,0
+"2203",33817,"My Summer of Love (2004)",0,0
+"2204",33826,"Saint Ralph (2004)",0,0
+"2205",33880,"Me and You and Everyone We Know (2005)",4,1
+"2206",34018,"At the Circus (1939)",0,0
+"2207",34162,"Wedding Crashers (2005)",0,0
+"2208",34164,"Happy Endings (2005)",4,2
+"2209",34198,"Russian Dolls (Les poupées russes) (2005)",0,0
+"2210",34271,"Hustle & Flow (2005)",4,1
+"2211",34321,"Bad News Bears (2005)",20.5,5
+"2212",34336,"Must Love Dogs (2005)",0,0
+"2213",34338,"Aristocrats, The (2005)",0,0
+"2214",34364,"This Is My Life (1992)",0,0
+"2215",34437,"Broken Flowers (2005)",4,1
+"2216",34523,"The Chumscrubber (2005)",3.5,1
+"2217",34528,"Junebug (2005)",0,0
+"2218",34552,"Girl in the Café, The (2005)",0,0
+"2219",34608,"Best of Everything, The (1959)",4,1
+"2220",35836,"40-Year-Old Virgin, The (2005)",0,0
+"2221",35957,"Red Eye (2005)",0,0
+"2222",36517,"Constant Gardener, The (2005)",18.5,5
+"2223",36535,"Everything Is Illuminated (2005)",0,0
+"2224",37277,"200 Motels (1971)",6.5,2
+"2225",37386,"Aeon Flux (2005)",11.5,3
+"2226",37731,"Green Street Hooligans (a.k.a. Hooligans) (2005)",17,6
+"2227",37741,"Capote (2005)",43.5,13
+"2228",38499,"Angels in America (2003)",7.5,4
+"2229",38798,"In Her Shoes (2005)",0,0
+"2230",38886,"Squid and the Whale, The (2005)",20.5,5
+"2231",39183,"Brokeback Mountain (2005)",0,0
+"2232",39292,"Good Night, and Good Luck. (2005)",4,1
+"2233",39307,"Dreamer: Inspired by a True Story (2005)",0,0
+"2234",39398,"C.S.A.: The Confederate States of America (2004)",7.5,3
+"2235",39416,"Kids in America (2005)",0,0
+"2236",39419,"Where the Truth Lies (2005)",6,2
+"2237",39444,"Weather Man, The (2005)",0,0
+"2238",39446,"Saw II (2005)",14.5,3
+"2239",39779,"Tarzan and His Mate (1934)",0,0
+"2240",40412,"Dead Man's Shoes (2004)",0.5,1
+"2241",40414,"Joyeux Noël (Merry Christmas) (2005)",0,0
+"2242",40491,"Match Factory Girl, The (Tulitikkutehtaan tyttö) (1990)",16.5,4
+"2243",40581,"Just Friends (2005)",0,0
+"2244",40583,"Syriana (2005)",0,0
+"2245",40597,"One-Way Ticket to Mombasa (Menolippu Mombasaan) (2002)",11,4
+"2246",40614,"Derailed (2005)",16.5,5
+"2247",40629,"Pride & Prejudice (2005)",0,0
+"2248",40817,"Dinner with Friends (2001)",74,21
+"2249",40946,"Sarah Silverman: Jesus Is Magic (2005)",1,1
+"2250",41571,"Memoirs of a Geisha (2005)",0,0
+"2251",42002,"Producers, The (2005)",0,0
+"2252",42009,"Cheaper by the Dozen 2 (2005)",8.5,3
+"2253",42011,"Fun with Dick and Jane (2005)",83,23
+"2254",42163,"Richard Pryor: Live in Concert (1979)",0,0
+"2255",42191,"Luxo Jr. (1986)",12,3
+"2256",42197,"Keeping Mum (2005)",0,0
+"2257",42721,"BloodRayne (2005)",0,0
+"2258",42728,"Tristan & Isolde (2006)",8,2
+"2259",42783,"Shadows of Our Forgotten Ancestors (Tini zabutykh predkiv) (1964)",16,5
+"2260",42946,"Project A ('A' gai waak) (1983)",2,1
+"2261",43177,"Over the Edge (1979)",89.5,22
+"2262",43267,"On Probation (Tiempo de Valientes) (2005)",0,0
+"2263",43333,"Water (2005)",0,0
+"2264",43351,"Temptations, The (1998)",0,0
+"2265",43376,"Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005)",0,0
+"2266",43391,"Matti: Hell Is for Heroes (Matti) (2006)",7.5,2
+"2267",43635,"Bye Bye Birdie (1963)",0,0
+"2268",43708,"Block Party (a.k.a. Dave Chappelle's Block Party) (2005)",0,0
+"2269",43832,"Call of Cthulhu, The (2005)",268,82
+"2270",43904,"When a Stranger Calls (2006)",0,0
+"2271",43910,"Neil Young: Heart of Gold (2006)",155,50
+"2272",43919,"Date Movie (2006)",9.5,2
+"2273",43930,"Just My Luck (2006)",194,55
+"2274",43936,"16 Blocks (2006)",44.5,11
+"2275",44004,"Failure to Launch (2006)",0,0
+"2276",44193,"She's the Man (2006)",81.5,22
+"2277",44195,"Thank You for Smoking (2006)",3.5,1
+"2278",44204,"Tsotsi (2005)",0,0
+"2279",44301,"Lights in the Dusk (Laitakaupungin valot) (2006)",0,0
+"2280",44587,"Nanook of the North (1922)",0,0
+"2281",44694,"Volver (2006)",3.5,1
+"2282",44717,"Lisbela e o Prisioneiro (Lisbela and the Prisoner) (2003)",0,0
+"2283",44972,"Scary Movie 4 (2006)",3.5,1
+"2284",44974,"Hard Candy (2005)",0,0
+"2285",45000,"Chinoise, La (1967)",0,0
+"2286",45172,"23 (23 - Nichts ist so wie es scheint) (1998)",10,3
+"2287",45210,"United 93 (2006)",4,1
+"2288",45382,"Down in the Valley (2005)",3.5,1
+"2289",45440,"Art School Confidential (2006)",3,1
+"2290",45521,"Wassup Rockers (2005)",0,0
+"2291",45662,"Omen, The (2006)",0,0
+"2292",45720,"Devil Wears Prada, The (2006)",0,0
+"2293",45880,"Marie Antoinette (2006)",0,0
+"2294",45969,"Career Opportunities (1991)",0,0
+"2295",45987,"Chuck Berry Hail! Hail! Rock 'n' Roll (1987)",0,0
+"2296",46322,"Jet Li's Fearless (Huo Yuan Jia) (2006)",3,1
+"2297",46559,"Road to Guantanamo, The (2006)",4.5,2
+"2298",46561,"Leonard Cohen: I'm Your Man (2005)",4.5,1
+"2299",46723,"Babel (2006)",0,0
+"2300",46970,"Talladega Nights: The Ballad of Ricky Bobby (2006)",0,0
+"2301",47122,"John Tucker Must Die (2006)",0,0
+"2302",47148,"Mrs. Palfrey at the Claremont (2005)",0,0
+"2303",47200,"Crank (2006)",0,0
+"2304",47202,"Secret Life of Words, The (2005)",0,0
+"2305",47382,"Step Up (2006)",0,0
+"2306",47491,"Adam's Apples (Adams æbler) (2005)",198,52
+"2307",47493,"Cabin in the Sky (1943)",48.5,24
+"2308",47721,"Red Balloon, The (Ballon rouge, Le) (1956)",0,0
+"2309",47728,"Green for Danger (1946)",0,0
+"2310",47815,"Crossover (2006)",3,1
+"2311",47894,"Wind That Shakes the Barley, The (2006)",0.5,1
+"2312",47999,"Jesus Camp (2006)",0,0
+"2313",48198,"Streamers (1983)",3.5,1
+"2314",48268,"Empire Falls (2005)",1,1
+"2315",48301,"Private Life of Henry VIII, The (1933)",0,0
+"2316",48322,"Jackass Number Two (2006)",13,6
+"2317",48518,"Texas Chainsaw Massacre: The Beginning, The (2006)",57,20
+"2318",48522,"Stormbreaker (Alex Rider: Operation Stormbreaker) (2006)",0,0
+"2319",48560,"Running With Scissors (2006)",0,0
+"2320",48593,"Man of the Year (2006)",0,0
+"2321",48660,"Elementary Particles, The (Elementarteilchen) (2006)",35,11
+"2322",48682,"Offside (2006)",0,0
+"2323",48696,"Little Children (2006)",12.5,5
+"2324",48711,"Facing the Giants (2006)",38.5,10
+"2325",48738,"Last King of Scotland, The (2006)",0,0
+"2326",48783,"Flags of Our Fathers (2006)",0,0
+"2327",48791,"Flicka (2006)",4,1
+"2328",48856,"Guide to Recognizing Your Saints, A (2006)",15.5,4
+"2329",48872,"13 Tzameti (2005)",3.5,1
+"2330",48972,"Lunacy (Sílení) (2006)",31,12
+"2331",48982,"Flushed Away (2006)",95.5,25
+"2332",49013,"Santa Clause 3: The Escape Clause, The (2006)",0,0
+"2333",49286,"Holiday, The (2006)",0,0
+"2334",49299,"Luna de Avellaneda (2004)",0,0
+"2335",49651,"Rocky Balboa (2006)",2,2
+"2336",49772,"Painted Veil, The (2006)",0,0
+"2337",49822,"Good Shepherd, The (2006)",23,6
+"2338",49824,"Dreamgirls (2006)",8,3
+"2339",49902,"Decameron, The (Decameron, Il) (1971)",34,14
+"2340",49957,"History Boys, The (2006)",0,0
+"2341",50005,"Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)",3.5,1
+"2342",50068,"Letters from Iwo Jima (2006)",8,2
+"2343",50189,"American Pie Presents The Naked Mile (American Pie 5: The Naked Mile) (2006)",0,0
+"2344",50442,"Alpha Dog (2007)",6.5,2
+"2345",50583,"Linda Linda Linda (2005)",20.5,5
+"2346",50798,"Epic Movie (2007)",0,0
+"2347",50806,"Norbit (2007)",0,0
+"2348",50842,"Boss of It All, The (Direktøren for det hele) (2006)",0,0
+"2349",50954,"It's a Boy Girl Thing (2006)",0,0
+"2350",51044,"Magical Mystery Tour (1967)",0,0
+"2351",51080,"Breach (2007)",0,0
+"2352",51084,"Music and Lyrics (2007)",7.5,2
+"2353",51207,"Street Trash (1987)",25.5,6
+"2354",51277,"36th Chamber of Shaolin, The (Shao Lin san shi liu fang) (Master Killer) (1978)",12,4
+"2355",51380,"Canterbury Tales, The (I racconti di Canterbury) (1972)",0,0
+"2356",51471,"Amazing Grace (2006)",0,0
+"2357",51575,"Wild Hogs (2007)",0,0
+"2358",51705,"Priceless (Hors de prix) (2006)",0,0
+"2359",51834,"Becoming Jane (2007)",0,0
+"2360",51884,"Namesake, The (2006)",0,0
+"2361",51937,"Hills Have Eyes II, The (2007)",37,9
+"2362",52245,"Blades of Glory (2007)",28.5,6
+"2363",52378,"No Way Out (1950)",0,0
+"2364",52458,"Disturbia (2007)",0,0
+"2365",52545,"Puccini for Beginners (2006)",0,0
+"2366",52579,"Vie en Rose, La (Môme, La) (2007)",0,0
+"2367",52617,"Woman on the Beach (Haebyeonui yeoin) (2006)",0,0
+"2368",52644,"Vacancy (2007)",6.5,3
+"2369",52666,"Benny's Video (1992)",0,0
+"2370",52730,"It's a Very Merry Muppet Christmas Movie (2002)",0,0
+"2371",53322,"Ocean's Thirteen (2007)",0,0
+"2372",53447,"Paranoid Park (2007)",8,2
+"2373",53894,"Sicko (2007)",2.5,1
+"2374",53974,"License to Wed (2007)",17,4
+"2375",53993,"Evan Almighty (2007)",0,0
+"2376",53999,"Captivity (2007)",6.5,2
+"2377",54004,"I Now Pronounce You Chuck and Larry (2007)",0,0
+"2378",54220,"Sterile Cuckoo, The (1969)",2.5,1
+"2379",54270,"Skinwalkers (2007)",18,5
+"2380",54272,"Simpsons Movie, The (2007)",6.5,2
+"2381",54281,"Charlie Bartlett (2007)",0,0
+"2382",54426,"12:08 East of Bucharest (A fost sau n-a fost?) (2006)",34,10
+"2383",54745,"Rocket Science (2007)",7,2
+"2384",54768,"Daddy Day Camp (2007)",0,0
+"2385",54775,"War (2007)",13,6
+"2386",54787,"Death Sentence (2007)",0,0
+"2387",55031,"Evening with Kevin Smith, An (2002)",5,2
+"2388",55063,"My Winnipeg (2007)",26.5,7
+"2389",55078,"Far from the Madding Crowd (1967)",35.5,9
+"2390",55094,"In the Valley of Elah (2007)",0,0
+"2391",55100,"I Could Never Be Your Woman (2007)",7.5,2
+"2392",55207,"Cashback (2004)",16,5
+"2393",55245,"Good Luck Chuck (2007)",82.5,20
+"2394",55272,"We Own the Night (2007)",0,0
+"2395",55276,"Michael Clayton (2007)",4.5,2
+"2396",55280,"Lars and the Real Girl (2007)",3,1
+"2397",55282,"30 Days of Night (2007)",0,0
+"2398",55442,"Persepolis (2007)",0,0
+"2399",55566,"Tyler Perry's Why Did I Get Married? (2007)",0,0
+"2400",55652,"Scum (1979)",11.5,4
+"2401",55732,"Martian Child (2007)",0,0
+"2402",55768,"Bee Movie (2007)",8.5,2
+"2403",55820,"No Country for Old Men (2007)",0,0
+"2404",55872,"August Rush (2007)",0,0
+"2405",55908,"Man from Earth, The (2007)",1,1
+"2406",56145,"Mist, The (2007)",0,0
+"2407",56169,"Awake (2007)",0,0
+"2408",56176,"Alvin and the Chipmunks (2007)",0,0
+"2409",56333,"Savages, The (2007)",0,0
+"2410",56587,"Bucket List, The (2007)",3.5,1
+"2411",56775,"National Treasure: Book of Secrets (2007)",7,2
+"2412",56782,"There Will Be Blood (2007)",37,11
+"2413",56805,"Walk Hard: The Dewey Cox Story (2007)",0,0
+"2414",56949,"27 Dresses (2008)",46.5,13
+"2415",57243,"Band's Visit, The (Bikur Ha-Tizmoret) (2007)",166.5,46
+"2416",57353,"Flawless (2007)",43.5,14
+"2417",57401,"Cleaner (2007)",1,1
+"2418",57418,"Rachel, Rachel (1968)",0,0
+"2419",57430,"Welcome to L.A. (1976)",4,1
+"2420",57526,"Untraceable (2008)",8,3
+"2421",57910,"Teeth (2007)",9,3
+"2422",57980,"Art of Negative Thinking, The (Kunsten å tenke negativt) (2006)",33.5,10
+"2423",58154,"Other Boleyn Girl, The (2008)",8,2
+"2424",58301,"Funny Games U.S. (2007)",0,0
+"2425",58306,"Mongol (2007)",0,0
+"2426",58365,"Chicago 10 (2007)",0,0
+"2427",58376,"Zeitgeist: The Movie (2007)",0,0
+"2428",58432,"What Just Happened (2008)",0,0
+"2429",58649,"Napoléon (1927)",0,0
+"2430",58964,"Inside (À l'intérieur) (2007)",6.5,2
+"2431",58975,"Ruins, The (2008)",0,0
+"2432",58998,"Forgetting Sarah Marshall (2008)",3.5,1
+"2433",59018,"Visitor, The (2007)",0,0
+"2434",59022,"Harold & Kumar Escape from Guantanamo Bay (2008)",164,54
+"2435",59118,"Happy-Go-Lucky (2008)",0,0
+"2436",59126,"Religulous (2008)",0,0
+"2437",59143,"Super High Me (2007)",4,1
+"2438",59180,"Tarzan Finds a Son! (1939)",0,0
+"2439",59273,"Delirious (2006)",0,0
+"2440",59333,"Made of Honor (2008)",0,0
+"2441",59339,"Mister Lonely (2007)",117.5,34
+"2442",59421,"What Happens in Vegas... (2008)",10,3
+"2443",59549,"Shelter (2007)",66.5,19
+"2444",59590,"Young at Heart (a.k.a. Young@Heart) (2007)",2.5,1
+"2445",59725,"Sex and the City (2008)",3.5,1
+"2446",59727,"Strangers, The (2008)",0,0
+"2447",59805,"Antonio das Mortes (O Dragão da Maldade contra o Santo Guerreiro) (1969)",0,0
+"2448",59995,"Boy A (2007)",16.5,5
+"2449",60040,"Incredible Hulk, The (2008)",0,0
+"2450",60072,"Wanted (2008)",9.5,3
+"2451",60126,"Get Smart (2008)",21.5,5
+"2452",60753,"Felon (2008)",0,0
+"2453",61075,"Elegy (2008)",0,0
+"2454",61167,"Henry Poole is Here (2008)",8,2
+"2455",61289,"Sukiyaki Western Django (2008)",0,0
+"2456",61361,"Women, The (2008)",11,3
+"2457",61634,"Son of Lassie (1945)",10,4
+"2458",61646,"DarkBlueAlmostBlack (Azuloscurocasinegro) (2006)",8.5,2
+"2459",61705,"Lakeview Terrace (2008)",20.5,6
+"2460",62049,"1984 (1956)",20,7
+"2461",62115,"Six Shooter (2004)",0,0
+"2462",62250,"Gomorrah (Gomorra) (2008)",0,0
+"2463",62344,"Rachel Getting Married (2008)",3.5,1
+"2464",62511,"Synecdoche, New York (2008)",39,9
+"2465",62718,"Angus, Thongs and Perfect Snogging (2008)",6,2
+"2466",62792,"Pride and Glory (2008)",13,4
+"2467",62801,"Lone Wolf and Cub: Baby Cart to Hades (Kozure Ôkami: Shinikazeni mukau ubaguruma) (1972)",8.5,2
+"2468",62849,"RocknRolla (2008)",7.5,2
+"2469",63481,"Soul Men (2008)",3.5,1
+"2470",63515,"The Island (2006)",3,1
+"2471",63629,"Fanny (1961)",8.5,2
+"2472",64034,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",0,0
+"2473",64114,"Fireproof (2008)",82,20
+"2474",64116,"Igor (2008)",0,0
+"2475",64229,"Cadillac Records (2008)",0,0
+"2476",64285,"Wallace and Gromit in 'A Matter of Loaf and Death' (2008)",0,0
+"2477",64321,"Friend of Mine, A (Ein Freund von mir) (2006)",10,3
+"2478",64499,"Che: Part One (2008)",3,1
+"2479",64501,"Che: Part Two (2008)",4.5,1
+"2480",64575,"Doubt (2008)",0,0
+"2481",64614,"Gran Torino (2008)",0,0
+"2482",64622,"Reader, The (2008)",23.5,5
+"2483",64701,"I've Loved You So Long (Il y a longtemps que je t'aime) (2008)",0,0
+"2484",64997,"War of the Worlds (2005)",0,0
+"2485",65126,"Choke (2008)",3.5,1
+"2486",65130,"Revolutionary Road (2008)",44,11
+"2487",65193,"Wild Child (2008)",17,4
+"2488",65230,"Marley & Me (2008)",0,0
+"2489",65465,"Last Chance Harvey (2008)",164,45
+"2490",65585,"Bride Wars (2009)",0,0
+"2491",65601,"My Bloody Valentine 3-D (2009)",38.5,12
+"2492",65642,"Timecrimes (Cronocrímenes, Los) (2007)",15,4
+"2493",65685,"Inkheart (2008)",27.5,8
+"2494",66090,"Eden Lake (2008)",0,0
+"2495",66130,"Chocolate (2008)",18,7
+"2496",66171,"Push (2009)",52.5,16
+"2497",66198,"International, The (2009)",29.5,10
+"2498",66200,"Two Lovers (2008)",20,6
+"2499",66427,"My Name Is Bruce (2007)",4,1
+"2500",66509,"Funny People (2009)",30.5,13
+"2501",66544,"Nuremberg (2000)",0,0
+"2502",67267,"Sunshine Cleaning (2008)",4,1
+"2503",67429,"Sita Sings the Blues (2008)",0,0
+"2504",67665,"Anvil! The Story of Anvil (2008)",0,0
+"2505",67695,"Observe and Report (2009)",3,1
+"2506",67734,"Adventureland (2009)",1,1
+"2507",67788,"Confessions of a Shopaholic (2009)",0,0
+"2508",67957,"Superstar: The Karen Carpenter Story (1988)",0.5,1
+"2509",68073,"Pirate Radio (2009)",4,1
+"2510",68135,"17 Again (2009)",5,1
+"2511",68269,"Young Victoria, The (2009)",24,6
+"2512",68872,"Paisan (Paisà) (1946)",0,0
+"2513",68884,"Shall We Kiss? (Un baiser s'il vous plait) (2007)",0,0
+"2514",68932,"Soloist, The (2009)",19.5,5
+"2515",68952,"Drag Me to Hell (2009)",6,2
+"2516",68965,"Dance Flick (2009)",0,0
+"2517",69118,"In the Electric Mist (2009)",0,0
+"2518",69122,"Hangover, The (2009)",0,0
+"2519",69134,"Antichrist (2009)",0,0
+"2520",69253,"New in Town (2009)",0,0
+"2521",69406,"Proposal, The (2009)",0,0
+"2522",69436,"Year One (2009)",0,0
+"2523",69495,"Breakfast with Scot (2007)",16.5,7
+"2524",69604,"Whatever Works (2009)",0,0
+"2525",69685,"Daria: Is It College Yet? (2002)",6.5,2
+"2526",69821,"Men of War (1994)",0,0
+"2527",69849,"Roots (1977)",0,0
+"2528",69945,"Fast and the Furious, The (1955)",0,0
+"2529",69951,"Imaginarium of Doctor Parnassus, The (2009)",0,0
+"2530",69974,"Shiver (Eskalofrío) (2008)",0,0
+"2531",70188,"Wild River (1960)",0,0
+"2532",70344,"Cold Souls (2009)",0,0
+"2533",70488,"Wings of Hope (Julianes Sturz in den Dschungel) (2000)",6.5,3
+"2534",70567,"Adam (2009)",0,0
+"2535",70597,"Gigantic (2008)",4,1
+"2536",70663,"I Love You, Beth Cooper (2009)",0,0
+"2537",70927,"To Each His Own Cinema (Chacun son cinéma ou Ce petit coup au coeur quand la lumière s'éteint et que le film commence) (2007)",0,0
+"2538",70946,"Troll 2 (1990)",3,1
+"2539",70994,"Halloween II (2009)",0,0
+"2540",71106,"Frequently Asked Questions About Time Travel (2009)",51,16
+"2541",71108,"White Ribbon, The (Das weiße Band) (2009)",36.5,12
+"2542",71252,"Final Destination, The (Final Destination 4) (Final Destination in 3-D, The) (2009)",0,0
+"2543",71304,"Thirst (Bakjwi) (2009)",0,0
+"2544",71379,"Paranormal Activity (2009)",0,0
+"2545",71404,"3 Worlds of Gulliver, The (1960)",9.5,3
+"2546",71429,"World's Greatest Dad (2009)",0,0
+"2547",71460,"Wanted (2009)",0,0
+"2548",71464,"Serious Man, A (2009)",4.5,1
+"2549",71466,"City Island (2009)",0,0
+"2550",71518,"Whip It (2009)",0,0
+"2551",71579,"Education, An (2009)",4,1
+"2552",71668,"Couples Retreat (2009)",5,1
+"2553",71732,"I Sell the Dead (2008)",7.5,2
+"2554",71823,"New York, I Love You (2009)",13.5,4
+"2555",71838,"Law Abiding Citizen (2009)",0,0
+"2556",72011,"Up in the Air (2009)",13,6
+"2557",72169,"Good Hair (2009)",92,28
+"2558",72171,"Black Dynamite (2009)",4,1
+"2559",72405,"Bad Lieutenant: Port of Call New Orleans (2009)",0,0
+"2560",72612,"Fly, The (Légy, A) (1980)",6,2
+"2561",72626,"Billy Blazes, Esq. (1919)",3.5,1
+"2562",72781,"Red Chapel (Røde kapel) (2006)",0,0
+"2563",72947,"Make the Yuletide Gay (2009)",0,0
+"2564",73015,"It's Complicated (2009)",0,0
+"2565",73023,"Crazy Heart (2009)",0,0
+"2566",73211,"Pontypool (2008)",0,0
+"2567",73319,"Leap Year (2010)",0,0
+"2568",73344,"Prophet, A (Un Prophète) (2009)",0,0
+"2569",73386,"Staten Island (2009)",0,0
+"2570",73572,"My Son, My Son, What Have Ye Done (2009)",0,0
+"2571",74152,"Zach Galifianakis: Live at the Purple Onion (2006)",0,0
+"2572",74154,"When in Rome (2010)",0.5,1
+"2573",74156,"Edge of Darkness (2010)",5.5,2
+"2574",74327,"First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie) (2008)",45.5,16
+"2575",74370,"House of the Devil, The (2009)",0,0
+"2576",74450,"Valentine's Day (2010)",102,32
+"2577",74452,"Wolfman, The (2010)",9.5,2
+"2578",74508,"Persuasion (2007)",0,0
+"2579",74530,"Percy Jackson & the Olympians: The Lightning Thief (2010)",0,0
+"2580",74668,"District 13: Ultimatum (Banlieue 13 - Ultimatum) (2009)",0,0
+"2581",74698,"Tooth Fairy (2010)",0,0
+"2582",74740,"Fermat's Room (La habitación de Fermat) (2007)",0,0
+"2583",74787,"My Name is Khan (2010)",0,0
+"2584",74851,"From Paris with Love (2010)",36,9
+"2585",74916,"Greenberg (2010)",11.5,3
+"2586",75341,"Remember Me (2010)",0,0
+"2587",75983,"North Face (Nordwand) (2008)",0,0
+"2588",75990,"Apprenticeship of Duddy Kravitz, The (1974)",0,0
+"2589",76030,"Case 39 (2009)",0,0
+"2590",76054,"Oceans (Océans) (2009)",0,0
+"2591",76077,"Hot Tub Time Machine (2010)",96.5,22
+"2592",76111,"About Elly (Darbareye Elly) (2009)",9.5,3
+"2593",76173,"Micmacs (Micmacs à tire-larigot) (2009)",0,0
+"2594",76251,"Kick-Ass (2010)",0,0
+"2595",76303,"Mark of the Devil (Hexen bis aufs Blut gequält) (1970)",0,0
+"2596",76763,"Runaways, The (2010)",0,0
+"2597",77206,"Diary of a Wimpy Kid (2010)",0,0
+"2598",77291,"Aria (1987)",0,0
+"2599",77414,"Last Song, The (2010)",0,0
+"2600",77455,"Exit Through the Gift Shop (2010)",0,0
+"2601",77800,"Four Lions (2010)",0,0
+"2602",77808,"Bobby Deerfield (1977)",0,0
+"2603",77846,"12 Angry Men (1997)",0,0
+"2604",77907,"Red Chapel, The (Røde kapel, Det) (2009)",0,0
+"2605",78039,"Blue Valentine (2010)",0,0
+"2606",78041,"Killers (2010)",0,0
+"2607",78088,"Buried (2010)",0,0
+"2608",78111,"Artists and Models (1955)",0,0
+"2609",78116,"Please Give (2010)",0,0
+"2610",78122,"Peter & the Wolf (2006)",0,0
+"2611",78218,"Unthinkable (2010)",0,0
+"2612",78264,"Back-up Plan, The (2010)",0,0
+"2613",78316,"Letters to Juliet (2010)",0,0
+"2614",78349,"Exam (2009)",0,0
+"2615",78574,"Winter's Bone (2010)",13.5,4
+"2616",78653,"Everyone Else (Alle Anderen) (2009)",0,0
+"2617",78903,"State of Siege (État de siège) (1972)",41,11
+"2618",79029,"Kurt Cobain About a Son (2006)",21.5,7
+"2619",79163,"Swedish Auto (2006)",0,0
+"2620",79203,"Nightwatching (2007)",0,0
+"2621",79242,"Kids Are All Right, The (2010)",13.5,4
+"2622",79251,"Serbian Film, A (Srpski film) (2010)",2,1
+"2623",79259,"Cherrybomb (2009)",4,1
+"2624",79274,"Batman: Under the Red Hood (2010)",24,6
+"2625",79293,"Salt (2010)",0,0
+"2626",79318,"Winnebago Man (2009)",0,0
+"2627",79590,"Rebound, The (2009)",0,0
+"2628",79592,"Other Guys, The (2010)",0,0
+"2629",79677,"Two Escobars, The (2010)",0,0
+"2630",79686,"All Tomorrow's Parties (2009)",0,0
+"2631",79720,"Animal Kingdom (2010)",0,0
+"2632",79946,"Joneses, The (2009)",0,0
+"2633",80026,"Tekken (2010)",0,0
+"2634",80126,"American, The (2010)",0,0
+"2635",80166,"Switch, The (2010)",0,0
+"2636",80241,"Going the Distance (2010)",7.5,2
+"2637",80549,"Easy A (2010)",0,0
+"2638",80551,"Eat Pray Love (2010)",0,0
+"2639",80572,"I'm Still Here (2010)",8,2
+"2640",80693,"It's Kind of a Funny Story (2010)",0,0
+"2641",80839,"Secretariat (2010)",1,1
+"2642",80860,"Life as We Know It (2010)",0,0
+"2643",80862,"Catfish (2010)",0,0
+"2644",80864,"You Will Meet a Tall Dark Stranger (2010)",0,0
+"2645",80917,"Monsters (2010)",0,0
+"2646",81083,"Kaboom (2010)",0,0
+"2647",81158,"Restrepo (2010)",0,0
+"2648",81229,"Red (2010)",0,0
+"2649",81417,"Paranormal Activity 2 (2010)",0,0
+"2650",81512,"Hereafter (2010)",0,0
+"2651",81591,"Black Swan (2010)",0,0
+"2652",81641,"Fair Game (2010)",0,0
+"2653",81660,"1990: The Bronx Warriors (1990: I guerrieri del Bronx) (1982)",0,0
+"2654",81831,"First Beautiful Thing, The (La prima cosa bella) (2010)",0,0
+"2655",82035,"Cocaine Cowboys II: Hustlin' With the Godmother (2008)",0,0
+"2656",82093,"London Boulevard (2010)",0,0
+"2657",82095,"Skyline (2010)",0,0
+"2658",82202,"Tourist, The (2010)",0,0
+"2659",82242,"Rare Exports: A Christmas Tale (Rare Exports) (2010)",0,0
+"2660",82608,"Zerophilia (2005)",16.5,4
+"2661",82667,"I Saw the Devil (Akmareul boatda) (2010)",0,0
+"2662",83134,"Tucker & Dale vs Evil (2010)",0,0
+"2663",83177,"Yogi Bear (2010)",2.5,1
+"2664",83270,"Made in Dagenham (2010)",0,0
+"2665",83803,"Day & Night (2010)",0,0
+"2666",83910,"Dilemma, The (2011)",0,0
+"2667",83976,"Trip, The (2010)",0,0
+"2668",84152,"Limitless (2011)",0,0
+"2669",84304,"What Women Want (a.k.a. I Know a Woman's Heart) (2011)",0,0
+"2670",84374,"No Strings Attached (2011)",0,0
+"2671",84696,"Burke and Hare (2010)",0,0
+"2672",84844,"Brother 2 (Brat 2) (2000)",0,0
+"2673",84950,"Take Me Home Tonight (2011)",0,0
+"2674",84952,"Confessions (Kokuhaku) (2010)",0,0
+"2675",85016,"Cropsey (2009)",3.5,1
+"2676",85025,"Eagle, The (2011)",0,0
+"2677",85316,"Winnie the Pooh and Tigger Too (1974)",3,1
+"2678",85367,"Just Go with It (2011)",3,1
+"2679",85412,"Troll Hunter, The (Trolljegeren) (2010)",0,0
+"2680",85438,"Jane Eyre (2011)",18,4
+"2681",85572,"New Daughter, The (2009)",5,1
+"2682",85612,"Eden (2006)",3.5,1
+"2683",85881,"Win Win (2011)",0,0
+"2684",86000,"Boy (2010)",0,0
+"2685",86028,"Henry's Crime (2010)",0,0
+"2686",86290,"American: The Bill Hicks Story (2009)",4.5,1
+"2687",86320,"Melancholia (2011)",4,1
+"2688",86548,"Water for Elephants (2011)",0,0
+"2689",86593,"African Cats (2011)",0,0
+"2690",87298,"Everything Must Go (2010)",0,0
+"2691",87869,"Horrible Bosses (2011)",7.5,2
+"2692",88179,"One Day (2011)",0,0
+"2693",88235,"Guard, The (2011)",0,0
+"2694",88345,"Mike's New Car (2002)",0,0
+"2695",88405,"Friends with Benefits (2011)",0,0
+"2696",89030,"Fright Night (2011)",0,0
+"2697",89085,"Debt, The (2011)",0,0
+"2698",89194,"Prom (2011)",0,0
+"2699",89305,"Inbetweeners Movie, The (2011)",0,0
+"2700",89427,"Shark Night 3D (2011)",0,0
+"2701",89678,"Northanger Abbey (2007)",0,0
+"2702",89761,"Dangerous Method, A (2011)",8,2
+"2703",89840,"Killer Elite (2011)",0,0
+"2704",89864,"50/50 (2011)",9.5,3
+"2705",90374,"Martha Marcy May Marlene (2011)",0,0
+"2706",90376,"We Need to Talk About Kevin (2011)",0,0
+"2707",90403,"Three Musketeers, The (2011)",0,0
+"2708",90430,"Carnage (2011)",3.5,1
+"2709",90439,"Margin Call (2011)",7,2
+"2710",90576,"What's Your Number? (2011)",3,1
+"2711",91077,"Descendants, The (2011)",4,1
+"2712",91126,"War Horse (2011)",7,2
+"2713",91199,"Weekend (2011)",16.5,4
+"2714",91470,"Violet & Daisy (2011)",4,1
+"2715",91485,"Expendables 2, The (2012)",0,0
+"2716",91548,"Life in a Day (2011)",0,0
+"2717",91622,"Young Adult (2011)",0,0
+"2718",91628,"New Year's Eve (2011)",0,0
+"2719",91653,"We Bought a Zoo (2011)",0,0
+"2720",91658,"Girl with the Dragon Tattoo, The (2011)",0,0
+"2721",91688,"Salvation Boulevard (2011)",0,0
+"2722",91873,"Joyful Noise (2012)",0,0
+"2723",91886,"Dolphin Tale (2011)",0,0
+"2724",91947,"Revenant, The (2009)",0,0
+"2725",91976,"Grey, The (2012)",0,0
+"2726",91978,"Man on a Ledge (2012)",0,0
+"2727",92004,"Chill Out! (Descongélate!) (2003)",19.5,5
+"2728",92008,"Haywire (2011)",23.5,7
+"2729",92048,"Whistleblower, The (2010)",12.5,3
+"2730",92163,"Fados (2007)",13.5,4
+"2731",92206,"Hostel: Part III (2011)",0,0
+"2732",92259,"Intouchables (2011)",0,0
+"2733",92309,"Innkeepers, The (2011)",3,1
+"2734",92439,"Art of Getting By, The (2011)",0,0
+"2735",92494,"Dylan Moran: Monster (2004)",0,0
+"2736",92509,"Vow, The (2012)",0,0
+"2737",92613,"Holding Trevor (2007)",0,0
+"2738",92756,"Hearts of the West (1975)",0,0
+"2739",92966,"Love Wrecked (2005)",10,3
+"2740",93040,"Civil War, The (1990)",3.5,1
+"2741",93242,"Gone (2012)",16.5,5
+"2742",93320,"Trailer Park Boys (1999)",4.5,2
+"2743",93443,"Goon (2011)",0,0
+"2744",93512,"Jeff, Who Lives at Home (2012)",0,0
+"2745",93838,"The Raid: Redemption (2011)",6,2
+"2746",93855,"God Bless America (2011)",0,0
+"2747",93982,"Raven, The (2012)",0,0
+"2748",94011,"Big Bang, The (2011)",0,0
+"2749",94070,"Best Exotic Marigold Hotel, The (2011)",27.5,7
+"2750",94266,"Five-Year Engagement, The (2012)",0,0
+"2751",94466,"Black Mirror (2011)",0,0
+"2752",94494,"96 Minutes (2011)",0,0
+"2753",94672,"Across the Line: The Exodus of Charlie Wright (2010)",0,0
+"2754",94919,"Inhale (2010)",0,0
+"2755",94931,"Take This Waltz (2011)",0,0
+"2756",95067,"Thousand Words, A (2012)",0,0
+"2757",95088,"Safety Not Guaranteed (2012)",0,0
+"2758",95135,"Your Sister's Sister (2011)",0,0
+"2759",95375,"Boundin' (2003)",0,0
+"2760",95441,"Ted (2012)",0,0
+"2761",95449,"Magic Mike (2012)",0,0
+"2762",95558,"Beasts of the Southern Wild (2012)",0,0
+"2763",95654,"Geri's Game (1997)",0,0
+"2764",95720,"Watch, The (2012)",0,0
+"2765",95761,"Killer Joe (2011)",0,0
+"2766",96114,"Brake (2012)",0,0
+"2767",96417,"Premium Rush (2012)",0,0
+"2768",96432,"Lawless (2012)",5,1
+"2769",96448,"Piranha 3DD (a.k.a. Piranha DD) (2012)",0,0
+"2770",96467,"Sleepwalk with Me (2012)",5,1
+"2771",96490,"Possession, The (2012)",13,3
+"2772",96530,"Conception (2011)",4.5,1
+"2773",96588,"Pitch Perfect (2012)",3.5,2
+"2774",96590,"Cold Light of Day, The (2012)",6,2
+"2775",96634,"Apartment 143 (2011)",0,0
+"2776",96726,"Lola Versus (2012)",3.5,2
+"2777",96737,"Dredd (2012)",0,0
+"2778",96815,"V/H/S (2012)",3.5,1
+"2779",96821,"Perks of Being a Wallflower, The (2012)",0,0
+"2780",96849,"Sparkle (2012)",7,2
+"2781",96911,"Royal Affair, A (Kongelig affære, En) (2012)",0,0
+"2782",97188,"Sinister (2012)",32.5,8
+"2783",97304,"Argo (2012)",10.5,3
+"2784",97306,"Seven Psychopaths (2012)",0,0
+"2785",97328,"Liberal Arts (2012)",0,0
+"2786",97826,"Patience Stone, The (2012)",0,0
+"2787",97836,"Here Comes the Boom (2012)",0,0
+"2788",97858,"Mental (2012)",0,0
+"2789",97913,"Wreck-It Ralph (2012)",0,0
+"2790",97921,"Silver Linings Playbook (2012)",0,0
+"2791",98000,"Student of the Year (2012)",0,0
+"2792",98056,"Amour (2012)",3.5,1
+"2793",98083,"Jackass 3.5 (2011)",13,3
+"2794",98154,"Lincoln (2012)",0,0
+"2795",98611,"Just Around the Corner (1938)",5,1
+"2796",98615,"Burn Up! (1991)",0,0
+"2797",98803,"Little Miss Broadway (1938)",0,0
+"2798",98829,"Evil Cult, The (Lord of the Wu Tang) (Yi tian tu long ji: Zhi mo jiao jiao zhu) (1993)",0,0
+"2799",98836,"Hyde Park on Hudson (2012)",0,0
+"2800",98908,"How to Make Love to a Woman (2010)",0,0
+"2801",98933,"Yossi (Ha-Sippur Shel Yossi) (2012)",0,0
+"2802",98963,"Neighbouring Sounds (O som ao redor) (2012)",0,0
+"2803",99030,"Wrong (2012)",0,0
+"2804",99145,"Impossible, The (Imposible, Lo) (2012)",0,0
+"2805",99220,"Quartet (2012)",0,0
+"2806",99270,"Stand Up and Cheer! (1934)",0,0
+"2807",99273,"Stowaway (1936)",0,0
+"2808",99296,"Would You Rather (2012)",4,1
+"2809",99609,"Judas Kiss (2011)",0,0
+"2810",99813,"Batman: The Dark Knight Returns, Part 2 (2013)",0,0
+"2811",100226,"Why Stop Now (2012)",13,3
+"2812",100304,"Liability, The (2012)",2.5,1
+"2813",100306,"Angst  (1983)",3.5,1
+"2814",100326,"Stand Up Guys (2012)",5.5,2
+"2815",100390,"Identity Thief (2013)",0,0
+"2816",100714,"Before Midnight (2013)",0,0
+"2817",100843,"Oh Boy (A Coffee in Berlin) (2012)",0,0
+"2818",101360,"Call, The (2013)",0,0
+"2819",101362,"Olympus Has Fallen (2013)",0,0
+"2820",101525,"Place Beyond the Pines, The (2012)",0,0
+"2821",101612,"Admission (2013)",0,0
+"2822",101741,"Trance (2013)",0,0
+"2823",101850,"Death on the Staircase (Soupçons) (2004)",0,0
+"2824",101904,"Happy (2011)",0,0
+"2825",101962,"Wolf Children (Okami kodomo no ame to yuki) (2012)",0,0
+"2826",102123,"This Is the End (2013)",0,0
+"2827",102165,"English Teacher, The (2013)",0,0
+"2828",102252,"Legendary Weapons of China (1982)",0,0
+"2829",102278,"Pawn (2013)",0,0
+"2830",102378,"Syrup (2013)",0,0
+"2831",102469,"Wish You Were Here (2012)",0,0
+"2832",102666,"Ivan Vasilievich: Back to the Future (Ivan Vasilievich menyaet professiyu) (1973)",0,0
+"2833",102684,"Only God Forgives (2013)",0,0
+"2834",102800,"Frances Ha (2012)",0,0
+"2835",102993,"Way, Way Back, The (2013)",0,0
+"2836",103137,"Bling Ring, The (2013)",11,3
+"2837",103221,"Not Suitable for Children (2012)",0,0
+"2838",103299,"American Mary (2012)",0,0
+"2839",103502,"Knot, The (2012)",0,0
+"2840",103543,"Lifeguard, The (2013)",0,0
+"2841",103688,"Conjuring, The (2013)",0,0
+"2842",103813,"Miami Connection (1987)",64,20
+"2843",103865,"Revenge for Jolly! (2012)",24.5,10
+"2844",103984,"Great Beauty, The (Grande Bellezza, La) (2013)",141,45
+"2845",104129,"Man of Tai Chi (2013)",0,0
+"2846",104211,"We're the Millers (2013)",0,0
+"2847",104457,"You're Next (2011)",0,0
+"2848",104662,"First Nudie Musical, The (1976)",0,0
+"2849",104760,"Getaway (2013)",0,0
+"2850",104881,"Out of the Furnace (Dust to Dust) (Low Dweller, The) (2013)",0,0
+"2851",104906,"Austenland (2013)",4,1
+"2852",104913,"Rush (2013)",0,0
+"2853",105197,"Nebraska (2013)",0,0
+"2854",105246,"Mood Indigo (L'écume des jours) (2013)",0,0
+"2855",105254,"Crystal Fairy & the Magical Cactus and 2012 (2013)",4,1
+"2856",105355,"Blue Is the Warmest Color (La vie d'Adèle) (2013)",3,1
+"2857",105715,"Just Wright (2010)",0,0
+"2858",105731,"Carrie (2013)",0,0
+"2859",105769,"Congress, The (2013)",0,0
+"2860",106417,"Absent (Ausente) (2011)",0,0
+"2861",106438,"Philomena (2013)",0,0
+"2862",106883,"All is Bright (2013)",0,0
+"2863",106916,"American Hustle (2013)",0,0
+"2864",107081,"Zatoichi on the Road (Zatôichi kenka-tabi) (Zatôichi 5) (1963)",0,0
+"2865",107141,"Saving Mr. Banks (2013)",17,4
+"2866",107412,"Kidnapping, Caucasian Style (Kavkazskaya plennitsa) (1967)",6,2
+"2867",107447,"Wrong Cops (2013)",0,0
+"2868",107559,"Am Ende eiens viel zu kurzen Tages (Death of a superhero) (2011)",0,0
+"2869",107769,"Paranormal Activity: The Marked Ones (2014)",0,0
+"2870",107999,"Dragon ball Z 04: Lord Slug (1991)",0,0
+"2871",108076,"Other Shore, The (2013)",0,0
+"2872",108156,"Ride Along (2014)",12.5,4
+"2873",108447,"Atrocious (2010)",0,0
+"2874",108709,"Generation Kill (2008)",8.5,2
+"2875",108715,"Better Living Through Chemistry (2014)",0,0
+"2876",108729,"Enemy (2013)",0,0
+"2877",108981,"Nymphomaniac: Volume II (2013)",7.5,2
+"2878",109205,"No Nukes (1980)",124.5,37
+"2879",109359,"Gerontophilia (2013)",112,33
+"2880",109372,"About Last Night (2014)",2.5,1
+"2881",109374,"Grand Budapest Hotel, The (2014)",10.5,3
+"2882",109483,"That Awkward Moment (2014)",0,0
+"2883",109487,"Interstellar (2014)",4,1
+"2884",109740,"Obvious Child (2014)",28,7
+"2885",109742,"Cheap Thrills (2013)",0,0
+"2886",110194,"Mistaken for Strangers (2013)",0,0
+"2887",110348,"Wetlands (Feuchtgebiete) (2013)",0,0
+"2888",110586,"Calvary (2014)",0,0
+"2889",110611,"Cold in July (2014)",0,0
+"2890",110645,"Witching and Bitching (Brujas de Zugarramurdi, Las) (2014)",0,0
+"2891",110771,"Other Woman, The (2014)",0,0
+"2892",110858,"Firstborn (1984)",0,0
+"2893",111235,"Jodorowsky's Dune (2013)",0,0
+"2894",111251,"Immigrant, The (2013)",17.5,5
+"2895",111360,"Lucy (2014)",19.5,5
+"2896",111622,"Begin Again (2013)",3.5,1
+"2897",111624,"Kelly & Cal (2014)",0,0
+"2898",111680,"At Middleton (2013)",0,0
+"2899",111743,"A Million Ways to Die in the West (2014)",11,3
+"2900",111795,"Million Dollar Arm (2014)",0,0
+"2901",111921,"The Fault in Our Stars (2014)",0,0
+"2902",111931,"Raze (2013)",0,0
+"2903",112183,"Birdman: Or (The Unexpected Virtue of Ignorance) (2014)",20.5,6
+"2904",112277,"Haunt (2013)",4.5,2
+"2905",112303,"Think Like a Man Too (2014)",0,0
+"2906",112450,"They Came Together (2014)",11,3
+"2907",112556,"Gone Girl (2014)",0,0
+"2908",112655,"No One Lives (2012)",3,1
+"2909",112689,"Miss Violence (2013)",0,0
+"2910",112804,"I Origins (2014)",0,0
+"2911",112897,"The Expendables 3 (2014)",0,0
+"2912",112911,"Hercules (2014)",20,8
+"2913",113064,"Trip to Italy, The (2014)",14,4
+"2914",113207,"Get on Up (2014)",62.5,17
+"2915",113275,"The Hundred-Foot Journey (2014)",0,0
+"2916",113378,"Giver, The (2014)",0,0
+"2917",113453,"Let's Be Cops (2014)",2,1
+"2918",113565,"Sacrament, The (2013)",11.5,3
+"2919",113640,"Canal, The (2014)",0,0
+"2920",113780,"As Above, So Below (2014)",13,4
+"2921",114028,"Pride (2014)",280.5,74
+"2922",114082,"Bambi Meets Godzilla (1969)",0,0
+"2923",114265,"Laggies (2014)",0,0
+"2924",114601,"This Is Where I Leave You (2014)",0,0
+"2925",114662,"American Sniper (2014)",0,0
+"2926",114707,"Horns (2014)",0,0
+"2927",114762,"Two Night Stand (2014)",0,0
+"2928",114766,"SS Experiment Love Camp (Lager SSadis Kastrat Kommandantur) (1976)",4,1
+"2929",115122,"What We Do in the Shadows (2014)",4,1
+"2930",115139,"Challenge to Lassie (1949)",3,1
+"2931",115147,"The Best of Me (2014)",0,0
+"2932",115149,"John Wick (2014)",0,0
+"2933",115151,"Plastic (2014)",0,0
+"2934",115216,"Salvation, The (2014)",0,0
+"2935",115502,"Rewrite, The (2014)",5,1
+"2936",115877,"Simpsons: The Longest Daycare, The (2012)",0,0
+"2937",115881,"9 (2005)",0,0
+"2938",116012,"The Young Savages (1961)",0,0
+"2939",116413,"Life Partners (2014)",0,0
+"2940",116849,"Sex Ed (2014)",1,1
+"2941",116855,"The Way He Looks (2014)",0,0
+"2942",116985,"The Longest Week (2014)",0,0
+"2943",117123,"Dear White People (2014)",0,0
+"2944",117176,"The Theory of Everything (2014)",0,0
+"2945",117590,"Horrible Bosses 2 (2014)",0,0
+"2946",117895,"Maze Runner: Scorch Trials (2015)",2.5,1
+"2947",118248,"Dying of the Light (2014)",0,0
+"2948",118260,"The Borderlands (2013)",0,0
+"2949",118468,"Mei and the Kittenbus (2002)",9,2
+"2950",118696,"The Hobbit: The Battle of the Five Armies (2014)",4,1
+"2951",118702,"Unbroken (2014)",16,4
+"2952",118814,"Playing It Cool (2014)",0,0
+"2953",119068,"Men, Women & Children (2014)",1.5,1
+"2954",119141,"The Interview (2014)",0,0
+"2955",120466,"Chappie (2015)",0,0
+"2956",120821,"The War at Home (1979)",0,0
+"2957",121113,"Shriek If You Know What I Did Last Friday the Thirteenth (2000)",0,0
+"2958",121491,"Off Beat (2004)",0,0
+"2959",125916,"Fifty Shades of Grey (2015)",148.5,40
+"2960",127096,"Project Almanac (2015)",0,0
+"2961",127108,"Brooklyn (2015)",80,22
+"2962",127124,"I'll See You in My Dreams (2015)",0,0
+"2963",127144,"Drunk Stoned Brilliant Dead: The Story of the National Lampoon (2015)",0.5,1
+"2964",127198,"Dope (2015)",0,0
+"2965",127212,"The Stanford Prison Experiment (2015)",2.5,1
+"2966",127728,"Back Soon (2007)",3,1
+"2967",128592,"The Boy Next Door (2015)",3,1
+"2968",129428,"The Second Best Exotic Marigold Hotel (2015)",2.5,1
+"2969",130448,"Poltergeist (2015)",2.5,1
+"2970",130452,"While We're Young (2014)",0,0
+"2971",130522,"The Brave Little Toaster Goes to Mars (1998)",0,0
+"2972",130576,"Midnight Special (2015)",0,0
+"2973",131013,"Get Hard (2015)",30,11
+"2974",131714,"Last Knights (2015)",0,0
+"2975",131830,"Samba (2014)",3.5,1
+"2976",132146,"The Harvest (2013)",271,70
+"2977",132333,"Seve (2014)",0,0
+"2978",132488,"Lovesick (2014)",13.5,4
+"2979",132496,"Danny Collins (2015)",0,0
+"2980",132800,"Welcome to Me (2014)",0,0
+"2981",133281,"Ricki and the Flash (2015)",0,0
+"2982",133365,"Partisan (2015)",4.5,1
+"2983",133545,"Just Before I Go (2014)",0,0
+"2984",133645,"Carol (2015)",0,0
+"2985",133798,"Hot Pursuit (2015)",0,0
+"2986",134246,"Survivor (2015)",14,4
+"2987",134393,"Trainwreck (2015)",13,4
+"2988",135133,"The Hunger Games: Mockingjay - Part 2 (2015)",2,1
+"2989",135436,"The Secret Life of Pets (2016)",3.5,1
+"2990",135508,"A Deadly Adoption (2015)",2.5,1
+"2991",136018,"Black Mass (2015)",7,2
+"2992",136305,"Sharknado 3: Oh Hell No! (2015)",0,0
+"2993",136598,"Vacation (2015)",14,3
+"2994",136602,"Creep (2014)",0,0
+"2995",136816,"Bad Asses on the Bayou (2015)",3.5,1
+"2996",137595,"Magic Mike XXL (2015)",36,13
+"2997",138610,"The Gallows (2015)",3.5,1
+"2998",139385,"The Revenant (2015)",0,0
+"2999",139415,"Irrational Man (2015)",0,0
+"3000",139642,"Southpaw (2015)",0,0
+"3001",139915,"How to Make Love Like an Englishman (2014)",49.5,14
+"3002",140247,"The Gift (2015)",0,0
+"3003",140523,"Visit, The (2015)",5,2
+"3004",140725,"Cop Car (2015)",7,2
+"3005",140741,"Get Your Stuff (2000)",8.5,2
+"3006",140755,"Long-Term Relationship (2006)",4,1
+"3007",140761,"The Biggest Fan (2002)",7,2
+"3008",140816,"Tangerine (2015)",0,0
+"3009",140928,"Joy (2015)",0,0
+"3010",141688,"Legend (2015)",0,0
+"3011",141718,"Deathgasm (2015)",14,4
+"3012",141886,"The Dress (1996)",4,1
+"3013",141890,"Beasts of No Nation (2015)",0,0
+"3014",142997,"Hotel Transylvania 2 (2015)",0,0
+"3015",143257,"Ashby (2015)",0,0
+"3016",143377,"Glen Campbell: I'll Be Me (2014)",0,0
+"3017",143385,"Bridge of Spies (2015)",0,0
+"3018",143657,"The Invitation (2015)",0,0
+"3019",144714,"The Perfect Guy (2015)",0,0
+"3020",144976,"Bone Tomahawk (2015)",0,0
+"3021",145307,"Strictly Business (1991)",0,0
+"3022",147006,"Bana Masal Anlatma (2015)",0,0
+"3023",148372,"Schneider vs. Bax (2015)",0,0
+"3024",148652,"The Ridiculous 6 (2015)",0,0
+"3025",148881,"World of Tomorrow (2015)",0,0
+"3026",148956,"How to Be Single (2016)",0,0
+"3027",149354,"Sisters (2015)",0,0
+"3028",149572,"A.R.O.G. (2008)",0,0
+"3029",149606,"Bajirao Mastani (2015)",0,0
+"3030",150401,"Close Range (2015)",0,0
+"3031",151639,"The Boy (2016)",0,0
+"3032",152017,"Me Before You (2016)",0,0
+"3033",157200,"Money Monster (2016)",0,0
+"3034",158528,"The Shallows (2016)",0,0
+"3035",160271,"Central Intelligence (2016)",0,0
+"3036",160563,"The Legend of Tarzan (2016)",0,0
+"3037",160954,"Nerve (2016)",0,0
+"3038",161582,"Hell or High Water (2016)",0,0
+"3039",162542,"Rustom (2016)",0,0

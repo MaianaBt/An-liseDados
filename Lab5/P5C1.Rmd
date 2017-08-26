@@ -1,0 +1,82 @@
+---
+title: "Regressão Linear Múltipla"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(dplyr)
+library(readr)
+library(ggfortify)
+require(ISLR)
+library(modelr)
+
+dating = read_csv("dados/speed-dating.csv")
+```
+
+## 1. P1 gostar de P2 têm influência com quanto P1 achou P2 atraente, inteligente e divertido ? 
+
+Para responder essa pergunta irei utilizar 4 variáveis: **quão atraente p1 achou p2(attr)**, **quão inteligente p1 achou p2(intel)**, **quão divertido p1 achou p2(fun)** e **no geral, quanto p1 gostou de p2(like)**.
+
+Todas essas são variáveis qualitativas ordinais, que potuam seu interesse numa escala de 1 - 10.
+
+Nesse momento, desejo fazer uma regressão, que irá verificar se o fato de P1 gostar de P2 têm dependência com o que achou sobre P2 ser atraente, intelegente e divertido.
+
+Os dados são
+
+```{r, include=FALSE}
+
+dados.p1 = dating %>%
+  select(iid, pid, like, attr, intel, fun)
+glimpse(dados.p1)
+
+```
+
+O próximo passo é definir o modelo
+
+```{r, include=FALSE}
+
+multi = lm(like ~ attr + intel + fun, data = dados.p1)
+adv_augmented = dados.p1 %>% 
+  add_residuals(multi)
+
+summary(multi)
+```
+
+Após criar um modelo deseja-se explicar a associação entre as variáveis e o resultado, verificando se os atributos influenciam se sim, positivamente ou negativamente. Neste caso, as variáveis todas influenciam positivamente, cada variável apresenta um pequeno acréscimo. 
+
+Nesse modelo temos o valor de r ao quadrado ajustado como *0.604*, o que indica um ajuste não muito bom, tendo em vista que quanto mais perto de 1, melhor o ajuste.
+
+## 2. P1 gostar de P2 é têm influência com o quanto P1 achou que compartilha dos interesses de P2 e o quanto P1 achou P2 sincero ? 
+
+Para responder essa pergunta irei utilizar 3 variáveis: **quanto p1 achou que compartilha interesses e hobbies com p2(shar)**, **quão sincero p1 achou p2(sinc)** e **no geral, quanto p1 gostou de p2(like)**.
+
+As variáveis também são qualitativas ordinais, em uma escala de 1 - 10.
+
+Nesse momento, desejo fazer uma regressão, que irá verificar se o fato de P1 gostar de P2 têm dependência com o quanto p1 achou que compartilha interesses e hobbies com p2 e quanto ele foi sincero.
+
+A seguir temos os dados
+
+```{r, include=FALSE}
+
+dados.p2 = dating %>%
+  select(iid, pid, like, shar, sinc)
+
+glimpse(dados.p2)
+```
+
+
+Definindo o modelo e as propriedades dos mesmos
+```{r, include=FALSE}
+multi2 = lm(like ~ shar + sinc, data = dados.p2)
+adv_augmented = dados.p2 %>% 
+  add_predictions(multi2) %>% 
+  add_residuals(multi2)
+
+summary(multi2)
+```
+
+As variáveis influenciam positivamente obtendo um pequeno acréscimo na reta, no caso de quanto p1 achou que compartilha interesses e hobbies com p2 quando aumenta 1 ponta acrescenta 0.45 em gostar, já p1 achar que p2 foi sincero aumenta 0.32. 
+
+Nesse modelo temos o valor de r ao quadrado ajustado como *0.5108*, o que indica um que não é um bom ajuste, ou seja, essas variáveis não são suficientes ou não explicam bem o fato de p1 gostar de p2.
+
+

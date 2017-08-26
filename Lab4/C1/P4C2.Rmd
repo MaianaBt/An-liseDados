@@ -1,0 +1,164 @@
+---
+title: "Analisando Commits no Git"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(resample) # <-- Para bootstrap!
+library(GGally)
+library(grid)
+library(ggplot2)
+theme_set(theme_bw())
+
+dados  = read_csv("dados.csv") %>%
+  filter(file_extension %in% c("js", "py")) 
+
+dados$date <- paste(dados$the_year, dados$the_month, dados$month_day, sep = "-")
+
+dados = dados %>%
+  mutate(day = weekdays(as.Date(date,'%Y-%m-%d')))
+```
+
+## Introdução
+
+Neste checkpoint irei avaliar a popularidade, utilizando a quantidade de usuários do github, associados aos dias de semana, diferenciando entre os dias de semana e os finais de semana.
+
+Irei avaliar os arquivos com extensão **js**(JavaScript) e **py**(Python), no qual a partir da amostra que temos cedida pelo github faremos uma inferência sobre a população utilizando um estimador, neste caso optei por utilizar a média.
+
+## Desenvolvimento
+
+Neste momento irei mostrar as informações sobre os arquivos .py e .js contidos na amostra, tomando como base os gráficos de fim de semana e final de semana.
+
+```{r}
+semana <- dados %>%
+  filter(day %in% c("segunda-feira", "terça-feira",  "quarta-feira",  "quinta-feira",  "sexta-feira"))
+
+fim.semana <- dados %>%
+  filter(day %in% c("sábado", "domingo"))
+
+semana.py <- semana %>%
+  filter(file_extension %in% "py")
+
+semana.js <- semana %>%
+  filter(file_extension %in% "js")
+
+fim.semana.py <- fim.semana %>%
+  filter(file_extension %in% "py")
+
+fim.semana.js <- fim.semana %>%
+  filter(file_extension %in% "js")
+
+dados.semana <- semana %>%
+  group_by(file_extension) %>%
+  summarise(media = mean(users), mediana = median(users), sum = sum(users), numobser = n())
+
+dados.final.semana <- fim.semana %>%
+  group_by(file_extension) %>%
+  summarise(media = mean(users), mediana = median(users), sum = sum(users), numobser = n())
+
+ggplot(data = dados.semana, aes(x = file_extension, y = media, fill = sum)) +
+  geom_bar(stat = "identity") +
+  ggtitle("Durante a semana")
+
+ggplot(data = dados.final.semana, aes(x = file_extension, y = media, fill = sum)) +
+  geom_bar(stat = "identity") +
+  ggtitle("Final de semana")
+
+glimpse(dados.semana)
+glimpse(dados.final.semana)
+```
+
+Porém, nosso questionamento é sobre a população, tendo em vista que temos apenas uma amostra é necessário que façamos uma inferência para que a partir dela obtivamos dados da população.
+Para inferir sobre os dados iremos utilizar a técnica bootstrap, que consiste em uma reamostragem realizadas b vezes e em cada vez é calculada a estatística e que nos interessa (no nosso caso a **média**) para cada uma das amostras.
+
+```{r}
+repeticoes = 4000 # pelo menos 2000, mas mais não faz mal.
+
+exp_com_bootstrap <- function(x){
+  boot_x <- sample(x, size = NROW(x), replace = TRUE) # aqui é o bootstrap
+  return(mean(boot_x))
+}
+
+#Python
+# Agora o input das reamostragens é a amostra!
+experimentos.semana.py = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(semana.py$users)) # <- Aqui!
+
+experimentos.fim.semana.py = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(fim.semana.py$users)) # <- Aqui!
+
+# IC com 95%: 
+alpha = .05
+ci.semana.py = quantile(experimentos.semana.py$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+# IC com 95%: 
+alpha = .05
+ci.fim.semana.py = quantile(experimentos.fim.semana.py$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+ggplot(experimentos.semana.py, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci.semana.py[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci.semana.py[[2]]), colour = "blue") +
+  ggtitle("Média de usuários dos arquivos .py durante a semana")
+
+ggplot(experimentos.fim.semana.py, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci.fim.semana.py[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci.fim.semana.py[[2]]), colour = "blue") +
+  ggtitle("Média de usuários dos arquivos .py durante o final de semana")
+
+# Java Script
+
+experimentos.semana.js = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(semana.js$users)) # <- Aqui!
+
+
+experimentos.fim.semana.js = data_frame(i = 1:repeticoes) %>% 
+  rowwise() %>% 
+  mutate(media_exp = exp_com_bootstrap(fim.semana.js$users)) # <- Aqui!
+
+# IC com 95%: 
+alpha = .05
+ci.semana.js = quantile(experimentos.semana.js$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+# IC com 95%: 
+alpha = .05
+ci.fim.semana.js = quantile(experimentos.fim.semana.js$media_exp, 
+              probs = c(alpha/2, 1 - alpha/2))
+
+ggplot(experimentos.semana.js, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci.semana.js[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci.semana.js[[2]]), colour = "blue") +
+  ggtitle("Uso durante a semana arquivos extensão .js")
+
+ggplot(experimentos.fim.semana.js, aes(x = media_exp)) + 
+  geom_histogram(binwidth = 1, colour = "darkorange", fill = "white") + 
+  geom_vline(aes(xintercept = ci.fim.semana.js[[1]]), colour = "blue") + 
+  geom_vline(aes(xintercept = ci.fim.semana.js[[2]]), colour = "blue") +
+  ggtitle("Uso durante o final de semana arquivos extensão .js")
+
+```
+
+Nestes gráficos estão presentes os Intervalos de Confiança (demarcados pela linha azul), no qual temos confiabilidade de 95% que a média da população esteja presente nesse intervalo, a partir disso podemos chegar as conclusões.
+
+#Pergunta 1: Para cada uma delas, há uma diferença significativa na sua popularidade durante a semana e durante o fim de semana? Essa diferença é grande?
+
+**Python** - Levando em consideração que o intervalo de confiança, para *"A média de usuários dos arquivos .py durante a semana"*(IC1) é **[4591;4710]** já *"A média de usuários dos arquivos .py durante o final de semana"*(IC2) é **[2469;2578]**, temos que IC1 é quase o dobro de IC2, dessa forma podemos inferir que existe uma grande diferença na quantidade de usuários durante a semana para os usuários do final de semana.   
+
+**Java Script** - Levando em consideração que o intervalo de confiança, para *"A média de usuários dos arquivos .js durante a semana"*(IC1) é **[6928;7137]** já *"A média de usuários dos arquivos .js durante o final de semana"*(IC2) é **[4089;4298]**, temos que IC1 é maior que IC2, porém não é uma diferença tão grande, e podemos ver que JavaScript é bastante utilzada tanto durante a semana quanto no final de semana, retificando que durante a semana é mais popular que durante o final de semana.
+
+#Pergunta 2: Existe uma diferença significativa entre as duas linguagens na sua variação de popularidade nos finais de semana?
+
+Existe, a partir do intervalo de confiança de cada para o uso durante o final de semana, podemos perceber que os arquivos *.js* variam **menos** que os arquivos *.py*, mesmo que a quantidade de daquele seja maior que deste. A variação para os arquivos *.py* são de tem uma diferença praticamente que o dobro, ao contrário dos arquivos *.js*.    
+
+
+

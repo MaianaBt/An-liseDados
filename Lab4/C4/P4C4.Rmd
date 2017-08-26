@@ -1,0 +1,71 @@
+---
+title: "P4C4"
+author: "Maiana Brito"
+date: "8 de agosto de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(GGally)
+library(readr)
+library(resample)
+
+```
+
+## Introducao
+
+Neste checkpoint irei responder duas perguntas, as mesmas foram respondidas no checkpoint anterior utilizando intervalo de confiança, dessa vez, irei utilizar o teste de hipótese.
+O teste de hipótese é feito através da definição de duas hipóteses, a *nula* e a *alternativa*, cada caso estudado apresenta suas hipóteses,. Após definidas as hipósteses, encontramos o p-valor o qual a partir dele *rejeitamos* ou *não* a **hipótese nula**.
+
+Mas do que se trata o p-valor ? É a probabilidade de se obter uma estatística de teste igual ou mais extrema que aquela observada em uma amostra, sob a hipótese nula, ou seja, é a probablidade de que o estimador e o resultado encontrado na amostra sobre a hipótese se aplique para a população. 
+
+### Pergunta 1 - Filmes com mais de um gênero possuem maior quantidade de avaliações ?
+
+Neste caso irei definir *hipótese nula* como sendo **todos os filmes independente do gênero possuem a mesma quantidade de avaliação**. 
+
+Para isso eu calculei a quantidade de avaliações para todos os filmes da amostra com um e mais de um gênero, em seguida encontrei média da quantidade de observações e obtive diferença, com isso obtive o p-valor.
+
+```{r, echo=FALSE}
+all <- read_csv("./csv/comMedia.csv")
+
+set.seed(1)
+diffs = replicate(5000, {
+  medias = all %>% 
+    mutate(id_embaralhado = sample(qtdGenres, n())) %>% 
+    group_by(id_embaralhado) %>% 
+    summarise(media = mean(qtdObs))
+  one = medias %>% 
+    filter(id_embaralhado == "one")
+  more = medias %>% 
+    filter(id_embaralhado == "more")
+  return(more$media - one$media)
+})
+
+mediaqtdRating = all %>% 
+  group_by(qtdGenres) %>% 
+  summarise(media = mean(qtdObs))
+
+diff.media.observada = diff(mediaqtdRating$media)
+
+tibble(diferenca = diffs) %>% 
+  ggplot(aes(x = diferenca)) + 
+  geom_histogram(bins = 30) + 
+  geom_vline(xintercept = diff.media.observada, size = 1)
+```
+
+
+Como se pode ver no gráfico a diferença encontrada nos dados está próxima distribuição dos dados embaralhados o que dá indicativos que a hipótese nula não deve ser rejeitada, para confirmar vamos encontrar o p-valor.
+
+```{r}
+# p valor
+pvalor = sum(abs(diffs) >= abs(diff.media.observada)) / length(diffs)
+pvalor
+
+```
+
+O p-valor encontrado é de 0.2412. Isso quer dizer que em 24.12% dos casos o valor absoluto de diferença encontrado nos dados embaralhados foi maior ou igual ao valor encontrado nos dados originais.
+
+Isso quer dizer que a diferança é significativiva entre os dados, ou seja não se repete. Dessa forma pode-se rejeitar a hipótese nula.
+
+Para o intervalo de confiança tinha chegado a conclusão que filmes com mais de um gênero possuem uma maior quantidade de avalições, dessa forma percebemos que com os dois métodos possuem a mesma conclusão.

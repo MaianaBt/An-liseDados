@@ -1,0 +1,189 @@
+---
+date: "2 de agosto de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(grid)
+library(ggplot2)
+library("readr")
+library(resample)
+theme_set(theme_bw())
+
+ratings  = read_csv("dados/ratings.csv")
+movies  = read_csv("dados/movies.csv")
+```
+
+## Introdução
+
+Neste checkpoint irei utilizar os dados do movilens que são sobre avaliações de filmes, está disponível  nesse link: http://grouplens.org/datasets/movielens/latest/Links.
+
+Nesses dados temos estou interessada nas variáveis: **id do usuário**, o **id do filme** e **seu(s) gênero(s)**, **a avaliação** que cada usuário deu para o filme. A partir dessas variáveis irei responder 4 perguntas, sendo duas  do checkpoint 4.
+
+### Pergunta 1 - Usuários dão notas parecidas ?
+
+Para esse checkpoint, reuni todas as avaliações de cada usuário e calculei a variância dos votos, dessa forma tenho quanto os votos de cada usuário variam. 
+
+```{r, echo=FALSE}
+
+idUser = c(1: ratings[100004,]$userId)
+variancias = data.frame()
+
+for(id in idUser){
+  dadosUser = ratings[ratings$userId == id, 3]
+  varianciaRating = summarise(dadosUser, varRatings = var(rating))
+  qtdRating = summarise(dadosUser, qtdRating = n())
+  varianciaRating$qtdRating = qtdRating$qtdRating
+  variancias <- bind_rows(variancias, varianciaRating)
+}
+
+table.user <- data.frame(idUser, variancias)
+glimpse(table.user)
+```
+
+Uma vez apresentado os dados para essa amostra irei aplicar a técnica do boostrap calculando o desvio padrão para esses dados e assim a partir dele possámos inferir algo sobre a população.
+
+Foi utilizado o estimador **desvio padrão** pois ele indica quão longe os pontos estão da média, nesse caso, quão longe estão da variância média
+
+```{r, echo=FALSE}
+b = bootstrap(table.user, var(table.user$varRatings))
+desvio.notas = CI.bca(b, probs = c(.025, .975))
+
+df = data.frame(rbind(desvio.notas))
+df$medida = row.names(df)
+
+df %>% 
+  ggplot(aes(x = medida, ymin = X2.5., ymax = X97.5.)) + 
+  geom_errorbar(width = .2)
+```
+
+
+Chegamos a conclusão para essa amostra, que não existe uma grande variação nas notas dos usuários, ou seja, os usuários dão notas **parecidas**. Com 97,5% de confiança podemos afirmar o mesmo para a população. 
+
+#### Pergunta 1.1: Os usuários possuem quantidade de votos semelhantes ?
+
+Para isso, utilizando os dados dos usuários expostos anteriormente irei calcular se existe uma grande variação, utilizando o **desvião padrão** na quantidade de votos de cada usuário.
+
+```{r, echo=FALSE}
+b = bootstrap(table.user, sd(table.user$qtdRating))
+desvio.notas = CI.bca(b, probs = c(.025, .975))
+
+df = data.frame(rbind(desvio.notas))
+df$medida = row.names(df)
+
+df %>% 
+  ggplot(aes(x = medida, ymin = X2.5., ymax = X97.5.)) + 
+  geom_errorbar(width = .2)
+
+```
+
+Com 97,5% de confiança temos que o desvio padrão para o somatório de votos dos usuário da população é **alto**, tendo uma variação significativa na quantidade de votos por usuário.
+
+### Pergunta 2 - Filmes com mais de um gênero tem maior quantidade de avaliação ?
+
+Aqui separei os dados em tabelas com filmes com apenas **um** gênero, **dois** gêneros, **três** gêneros e **maior que três** gêneros. Em cada tabela tem o id e nome do filme, quantidade de avaliações e o somatório das avaliações.
+
+```{r, echo=FALSE}
+
+qtdGeneros = function(string){
+  generos = strsplit(string, "[|]");
+  return (length(generos[[1]]));
+}
+
+all = data.frame()
+
+array.movies = c(1: 9125)
+# Filmes com um gênero
+
+for(i in array.movies){
+  genero = movies[i, 3]
+  idMovie = movies[i, 1:2]
+  qtd = qtdGeneros(genero$genres)
+  
+  dadosMovie = ratings[ratings$movieId == i, 3]
+  qtdObs = summarise(dadosMovie, qtdObs = n())
+  totalRating = summarise(dadosMovie, total.avaliacoes = sum(rating))
+  meanRating = totalRating$total.avaliacoes / qtdObs$qtdObs
+  idMovie$totalRating = totalRating$total.avaliacoes
+  idMovie$qtdObs = qtdObs$qtdObs
+  idMovie$meanRating = meanRating
+    
+  if(qtd == 1){
+    idMovie <- mutate(idMovie, qtdGenres = "one")
+  } else{
+    idMovie <- mutate(idMovie, qtdGenres = "more")
+  }
+  
+  all <- bind_rows(all, idMovie)
+}
+
+write.csv(all, "comMedia.csv")
+
+glimpse(um)
+glimpse(dois)
+glimpse(tres)
+glimpse(maior)
+```
+
+Agora calculamos o bootstrap e obtemos o intervalo de confiança para cada situação.
+
+```{r, echo=FALSE}
+b.um = bootstrap(um, sum(um$qtdObs))
+sum.um = CI.bca(b.um, probs = c(.025, .975))
+
+b.dois = bootstrap(dois, sum(dois$qtdObs))
+sum.dois = CI.bca(b.dois, probs = c(.025, .975))
+
+b.tres = bootstrap(tres, sum(tres$qtdObs))
+sum.tres = CI.percentile(b.tres, probs = c(.025, .975))
+
+b.maior = bootstrap(maior, sum(maior$qtdObs))
+sum.maior = CI.percentile(b.maior, probs = c(.025, .975))
+
+df = data.frame(rbind(sum.um, 
+                      sum.dois,
+                      sum.tres,
+                      sum.maior))
+df$medida = row.names(df)
+
+df %>% 
+  ggplot(aes(x = medida, ymin = X2.5., ymax = X97.5.)) + 
+  geom_errorbar(width = .2)
+```
+
+Com 97,5% de confiança obtive os intervalos de confiança, no qual percebemos que o somatório de avaliações de filmes com um gênero (última coluna), se torna inferior ao valor da soma das avaliações dos filmes com mais de um gênero.
+Tendo em vista que o intervalo para filmes com dois gêneros é superior ao restante.
+
+### Pergunta 2.1 - Filmes com mais de um gênero tiveram melhor avaliação que filmes com um gênero ?
+
+Utilizando os dados expostos anteriomente, apliquei o bootstreap calculando a média da avaliação dos filmes para cada gênero e obtive o seguinte resultado.
+
+Calculando o bootstrap
+
+```{r, echo=FALSE}
+b.um = bootstrap(um, mean(um$totalRating))
+mean.um = CI.bca(b.um, probs = c(.025, .975))
+
+b.dois = bootstrap(dois, mean(dois$totalRating))
+mean.dois = CI.bca(b.dois, probs = c(.025, .975))
+
+b.tres = bootstrap(tres, mean(tres$totalRating))
+mean.tres = CI.percentile(b.tres, probs = c(.025, .975))
+
+b.maior = bootstrap(maior, mean(maior$totalRating))
+mean.maior = CI.percentile(b.maior, probs = c(.025, .975))
+
+df = data.frame(rbind(mean.um, 
+                      mean.dois,
+                      mean.tres,
+                      mean.maior))
+df$medida = row.names(df)
+
+df %>% 
+  ggplot(aes(x = medida, ymin = X2.5., ymax = X97.5.)) + 
+  geom_errorbar(width = .2)
+```
+
+Com 97,5% de confiança obtive os intervalos de confiança, entretanto este intervalos apresentam um grande percentual de erro(porcentagem acima ou abaixo do valor real, o que reflete no tamanho do intervalo), a partir destes intervalos não fazer comparações entre os mesmos.
