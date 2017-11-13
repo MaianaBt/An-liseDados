@@ -1,0 +1,66 @@
+---
+title: "Regressão Linear Múltipla"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(GGally)
+library(pscl)
+library(broom)
+library(tidyverse) # devtools::install_github("dgrtwo/broom")
+library(modelr)
+library(dplyr)
+library(readr)
+require(ISLR)
+
+dating = read_csv("dados/speed-dating2.csv") %>%
+  mutate(dec = case_when(.$dec == "no" ~ 0, 
+                         .$dec == "yes" ~ 1))
+```
+
+## 1. Dentre os fatores que você acha que podem ter efeito no match, quais fatores têm efeito significativo na chance de p1 decidir se encontrar novamente com p2? E como é esse efeito (positivo/negativo)? ? 
+
+Para responder essa pergunta irei utilizar 5 variáveis, nas quais acredito que têm efeito significativo: *quão atraente p1 achou p2(attr)*, *quão inteligente p1 achou p2(intel)*, *quanto p1 achou que compartilha interesses e hobbies com p2(shar)*, *quão sincero p1 achou p2(sinc)* e *p1 gostaria de se encontrar novamente com p2(dec)*.
+
+As variáveis attr, intel, shar e sinc são variáveis qualitativas ordinais, que potuam seu interesse numa escala de 1 - 10 enquanto dec é qualitativa nominal. Todas estas e outras variáveis estão disponibilizadas no github a seguir: https://github.com/nazareno/ciencia-de-dados-1/blob/master/5-regressao/speed-dating/speed-dating2.csv.
+
+Para responder essa pergunta, utilizarei regressão logística, definindo um melhor modelo possível para explicar a associação entre as variáveis *attr, intel, shar, sin* e a variável dependente **dec**.
+
+Mas para isso é preciso saber o que é regressão logística. É definido pelo Wikipídea como *"Trata-se de um modelo de regressão para variáveis dependentes ou de resposta binomialmente distribuídas. É útil para modelar a probabilidade de um evento ocorrer como função de outros factores. É um modelo linear generalizado que usa como função de ligação a função logit."*
+
+Os dados são
+
+```{r, echo=FALSE}
+
+dados = dating %>%
+  select(attr, intel, shar, sinc, dec)
+glimpse(dados)
+
+```
+
+O próximo passo é definir o modelo, os dados estão em escala exponencial
+
+```{r, echo=FALSE}
+bm <- glm(dec ~ attr + intel + shar + sinc, 
+          data = dating, 
+          family = "binomial")
+
+tidy(bm, conf.int = TRUE, exponentiate = TRUE)
+pR2(bm)
+```
+
+O modelo em escala normal
+```{r, echo=FALSE}
+tidy(bm, conf.int = TRUE)
+```
+
+Tendo em vista esses coeficientes, temos que attr, shar têm influência significativa  e positiva, enquanto intel e sinc influência negativa.
+
+## 2. Que fatores nos dados têm mais efeito na chance de um participante querer se encontrar novamente com outro?
+
+De acordo com os dados e o modelo traçado, a variável que possue mais influência é attr, que no caso representa o quanto p1 achou p2 atraente, mostrando que a beleza é mais decisiva do que os outros fatores.
+
+
+
+
+
